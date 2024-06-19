@@ -17,12 +17,13 @@ body {
 	position: relative;
 	text-align: center;
 	color: black;
-	width: 60%;
+	width: 50%;
 	padding: 0;
 	margin: 0;
 }
 .wip_img {
 	width: 100%;
+	border-radius: 16px;
 }
 .top-left {
 	position: absolute;
@@ -42,4 +43,15 @@ body {
 	bottom: 8px;
 	left: 16px;
 	text-align: left;
+}
+@media (min-width: 320px) {
+	.wip_container {
+		width: 100%;
+	}
+	.wip_img {
+		border-radius: 0px;
+	}
+	.footer {
+		font-size: 0.5em;
+	}
 }
