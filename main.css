@@ -3,11 +3,12 @@ body {
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	margin: 0;
 }
 
 .wip {
 	position: relative;
-	width: 90%;
+	width: 100%;
 	max-width: 1980px;
 	height: 100vh;
 	align-content: center;

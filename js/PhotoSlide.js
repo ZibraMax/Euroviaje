@@ -39,4 +39,26 @@ class PhotoView {
 	}
 }
 
-export { PhotoView };
+class TitleView {
+	constructor(parent, title, subtitle) {
+		this.separator = document.createElement("div");
+		this.separator.classList.add("PhotoView_separator");
+		this.separator.classList.add("PhotoView_title");
+		this.container = document.createElement("div");
+		this.container.classList.add("PhotoView_centering_container");
+
+		this.title = document.createElement("h1");
+		this.title.classList.add("PhotoView_title_header");
+		this.title.innerHTML = title;
+		this.container.appendChild(this.title);
+
+		this.subtitle = document.createElement("h3");
+		this.subtitle.classList.add("PhotoView_title_subtitle");
+		this.subtitle.innerHTML = subtitle;
+		this.container.appendChild(this.subtitle);
+		this.separator.appendChild(this.container);
+		parent.appendChild(this.separator);
+	}
+}
+
+export { PhotoView, TitleView };
