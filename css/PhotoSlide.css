@@ -64,4 +64,7 @@ hr {
 	.PhotoView_content {
 		width: 100%;
 	}
+	.PhotoView_separator {
+		height: auto;
+	}
 }
