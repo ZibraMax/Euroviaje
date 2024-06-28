@@ -1,57 +1,22 @@
 body {
-	margin: 0;
-	padding: 0;
 	font-family: "Courier New", Courier, monospace;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 
 .wip {
 	position: relative;
-	width: 100%;
+	width: 90%;
+	max-width: 1980px;
 	height: 100vh;
 	align-content: center;
 	text-align: center;
 	align-items: center;
-}
-.wip_container {
-	display: inline-block;
-	position: relative;
-	text-align: center;
-	color: black;
-	width: 50%;
-	padding: 0;
-	margin: 0;
-}
-.wip_img {
-	width: 100%;
-	border-radius: 16px;
 }
 .top-left {
 	position: absolute;
 	top: 8px;
 	left: 16px;
 	text-align: left;
-}
-/* Bottom right text */
-.bottom-right {
-	position: absolute;
-	bottom: 8px;
-	right: 16px;
-	text-align: right;
-}
-.bottom-left {
-	position: absolute;
-	bottom: 8px;
-	left: 16px;
-	text-align: left;
-}
-@media only screen and (max-width: 768px) {
-	.wip_container {
-		width: 100%;
-	}
-	.wip_img {
-		border-radius: 0px;
-	}
-	.footer {
-		font-size: 0.5em;
-	}
 }
