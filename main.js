@@ -1,4 +1,4 @@
-import { PhotoView, TitleView } from "./js/PhotoSlide.js";
+import { PhotoView, TitleView, MosaicView } from "./js/PhotoSlide.js";
 
 const parent = document.getElementById("page_content");
 
@@ -18,9 +18,27 @@ content["main"] = {
 content["camera"] = "Vivitar 3000 - Fujifilm 200";
 content["location"] = "Lisboa, Portugal. 2 Jun, 2024";
 const img_src = "WIPBG.jpg";
-const title = new TitleView(parent, "BOGOTÁ D.C.", "28/5/24 - 1/6/24");
+const title = new TitleView(parent, "BOGOTÁ D.C.", [
+	"28/5/24 - 1/6/24",
+	"Población 9' habitantes",
+]);
 const wip_page = new PhotoView(parent, content, img_src);
-const title2 = new TitleView(parent, "LISBOA, PORTUGAL", "28/5/24 - 1/6/24");
+const title2 = new TitleView(parent, "LISBOA, PORTUGAL", ["28/5/24 - 1/6/24"]);
 const wip_page2 = new PhotoView(parent, content, img_src);
-const title3 = new TitleView(parent, "MADRID, ESPAÑA", "28/5/24 - 1/6/24");
+const title3 = new TitleView(parent, "MADRID, ESPAÑA", ["28/5/24 - 1/6/24"]);
 const wip_page3 = new PhotoView(parent, content, img_src);
+const mos_page3 = new MosaicView(parent, [
+	{ src: "WIPBG.jpg", description: "sample" },
+	{ src: "WIPBG.jpg", description: "sample" },
+]);
+const mos_page4 = new MosaicView(parent, [
+	{ src: "WIPBG.jpg", description: "sample" },
+	{ src: "WIPBG.jpg", description: "sample" },
+	{ src: "WIPBG.jpg", description: "sample" },
+	{ src: "WIPBG.jpg", description: "sample" },
+]);
+const mos_page5 = new MosaicView(parent, [
+	{ src: "WIPBG.jpg", description: "sample" },
+	{ src: "WIPBG.jpg", description: "sample" },
+	{ src: "WIPBG.jpg", description: "sample" },
+]);

@@ -40,7 +40,7 @@ class PhotoView {
 }
 
 class TitleView {
-	constructor(parent, title, subtitle) {
+	constructor(parent, title, subtitles) {
 		this.separator = document.createElement("div");
 		this.separator.classList.add("PhotoView_separator");
 		this.separator.classList.add("PhotoView_title");
@@ -51,14 +51,49 @@ class TitleView {
 		this.title.classList.add("PhotoView_title_header");
 		this.title.innerHTML = title;
 		this.container.appendChild(this.title);
-
-		this.subtitle = document.createElement("h3");
-		this.subtitle.classList.add("PhotoView_title_subtitle");
-		this.subtitle.innerHTML = subtitle;
-		this.container.appendChild(this.subtitle);
+		for (const subtitle_value of subtitles) {
+			const subtitle = document.createElement("h3");
+			subtitle.classList.add("PhotoView_title_subtitle");
+			subtitle.innerHTML = subtitle_value;
+			this.container.appendChild(subtitle);
+		}
 		this.separator.appendChild(this.container);
 		parent.appendChild(this.separator);
 	}
 }
 
-export { PhotoView, TitleView };
+class MosaicView {
+	constructor(parent, photos) {
+		this.separator = document.createElement("div");
+		this.separator.classList.add("PhotoView_separator");
+		this.separator.classList.add("PhotoView_mosaic");
+		this.container = document.createElement("div");
+		this.container.classList.add("PhotoView_centering_container_mosaic");
+		for (const photo_value of photos) {
+			const img_wrap = document.createElement("div");
+			img_wrap.classList.add("PhotoView_img_container");
+
+			const img = document.createElement("img");
+			img.classList.add("PhotoView_img");
+			img.classList.add("PhotoView_img_mosaic");
+			img.src = photo_value.src;
+
+			const desc_cont = document.createElement("div");
+			desc_cont.classList.add("PhotoView_img_overlay");
+
+			const desc = document.createElement("div");
+
+			desc.classList.add("PhotoView_img_text");
+			desc.innerHTML = photo_value.description;
+
+			img_wrap.appendChild(img);
+			desc_cont.appendChild(desc);
+			img_wrap.appendChild(desc_cont);
+			this.container.appendChild(img_wrap);
+		}
+		this.separator.appendChild(this.container);
+		parent.appendChild(this.separator);
+	}
+}
+
+export { PhotoView, TitleView, MosaicView };

@@ -24,10 +24,16 @@
 	margin: 0px;
 	position: relative;
 }
+.PhotoView_mosaic {
+	background-color: black;
+	color: white;
+	margin: 0px;
+}
 .PhotoView_title_header {
 	border-bottom: solid 5px darkgray;
 }
 .PhotoView_title_subtitle {
+	color: rgb(242, 242, 242);
 }
 .PhotoView_centering_container {
 	margin: 0;
@@ -37,10 +43,55 @@
 	-ms-transform: translate(-50%, -50%);
 	transform: translate(-50%, -50%);
 }
+.PhotoView_centering_container_mosaic {
+	margin: 0;
+	position: absolute;
+	width: 80%;
+	top: 50%;
+	left: 50%;
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+}
 .PhotoView_img {
 	width: 100%;
 	border-radius: 16px;
 }
+
+.PhotoView_img_container {
+	position: relative;
+	float: left;
+	display: block;
+	width: 45%;
+}
+
+.PhotoView_img_overlay {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	height: 100%;
+	width: 100%;
+	opacity: 0;
+	transition: 0.5s ease;
+	background-color: #9f9f9f;
+	border-radius: 16px;
+}
+
+.PhotoView_img_container:hover .PhotoView_img_overlay {
+	opacity: 1;
+}
+
+.PhotoView_img_text {
+	color: white;
+	font-size: 20px;
+	position: relative;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	text-align: center;
+}
+
 .PhotoView_top-left {
 	position: absolute;
 	top: 8px;
@@ -68,6 +119,11 @@
 	padding: 0;
 	margin: 10px;
 }
+.PhotoView_img_mosaic {
+	float: left;
+	margin: 5px;
+	width: 97%;
+}
 hr {
 	border: 1px solid rgb(236, 236, 236);
 }
@@ -88,6 +144,52 @@ hr {
 		height: auto;
 	}
 	.PhotoView_title {
-		height: 250px;
+		min-height: 250px;
+	}
+	.PhotoView_img_mosaic {
+		float: left;
+		display: block;
+		margin: 5px;
+		width: 100%;
+	}
+	.PhotoView_centering_container_mosaic {
+		margin: 0;
+		position: relative;
+		width: 100%;
+		top: 0;
+		left: 0;
+		-ms-transform: translate(0, 0);
+		transform: translate(0, 0);
+	}
+	.PhotoView_img_container {
+		float: left;
+		width: 100%;
+	}
+	.PhotoView_img_overlay {
+		position: relative;
+		display: block;
+		opacity: 1;
+		background-color: transparent;
+		border-radius: 0px;
+	}
+
+	.PhotoView_img_text {
+		color: black;
+		font-size: 20px;
+		position: relative;
+		top: 0;
+		left: 0;
+		transform: translate(0, 0);
+		text-align: left;
+	}
+	.PhotoView_centering_container_mosaic {
+		margin: 0;
+		position: relative;
+		width: 100%;
+		top: 0;
+		left: 0;
+		display: block;
+		-ms-transform: translate(0, 0);
+		transform: translate(0, 0);
 	}
 }

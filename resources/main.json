@@ -1,4 +1,28 @@
 {
 	"title": "El viaje de mi madre",
-	"content": [{}, {}]
+	"content": [
+		{
+			"type": "title_view",
+			"content": { "title": "Bogota", "subtitles": ["1", "2"] }
+		},
+		{
+			"type": "photo_view",
+			"img_src": "./resources/images/avion.jpg",
+			"camera": "Vivitar 3000 - Fuji iso 200",
+			"location": "Lisboa, Portugal",
+			"contents": [
+				{ "title": "Avionsitosuu", "text": "Loren Ipsum" },
+				{ "title": "Otracosas", "text": "Loren Ipsum" }
+			]
+		},
+		{
+			"type": "mosaic_view",
+			"imgs": [
+				{"src": "./resources/images/puente.jpg","description": "Avionsitosuu"},
+				{"src": "./resources/images/a.jpg","description": "Otracosas"}
+				{"src": "./resources/images/a.jpg","description": "Otracosas"}
+				{"src": "./resources/images/a.jpg","description": "Otracosas"}
+			]
+		}
+	]
 }
