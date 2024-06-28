@@ -7,7 +7,7 @@
 		},
 		{
 			"type": "photo_view",
-			"img_src": "./resources/images/avion.jpg",
+			"img_src": "./resources/images/WIPBG.jpg",
 			"camera": "Vivitar 3000 - Fuji iso 200",
 			"location": "Lisboa, Portugal",
 			"contents": [
@@ -18,10 +18,22 @@
 		{
 			"type": "mosaic_view",
 			"imgs": [
-				{"src": "./resources/images/puente.jpg","description": "Avionsitosuu"},
-				{"src": "./resources/images/a.jpg","description": "Otracosas"}
-				{"src": "./resources/images/a.jpg","description": "Otracosas"}
-				{"src": "./resources/images/a.jpg","description": "Otracosas"}
+				{
+					"src": "./resources/images/WIPBG.jpg",
+					"description": "Avionsitosuu"
+				},
+				{
+					"src": "./resources/images/WIPBG.jpg",
+					"description": "Otracosas"
+				},
+				{
+					"src": "./resources/images/WIPBG.jpg",
+					"description": "Otracosas3"
+				},
+				{
+					"src": "./resources/images/WIPBG.jpg",
+					"description": "Otracosas65"
+				}
 			]
 		}
 	]
