@@ -160,6 +160,7 @@
 	width: 36%;
 	padding: 0;
 	margin: 10px;
+	margin-left: 20px;
 }
 .PhotoView_img_mosaic {
 	float: left;
@@ -170,6 +171,9 @@
 hr {
 	border: 1px solid rgb(236, 236, 236);
 	margin: 0;
+}
+.PhotoView_content2 {
+	width: 60%;
 }
 @media only screen and (max-width: 768px) {
 	.PhotoView_container {
@@ -196,6 +200,10 @@ hr {
 		font-size: 0.5em;
 	}
 	.PhotoView_content {
+		width: 95%;
+		margin-left: 10px;
+	}
+	.PhotoView_content2 {
 		width: 95%;
 	}
 	.PhotoView_separator {

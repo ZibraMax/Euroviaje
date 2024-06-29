@@ -125,11 +125,17 @@ class NPhotoView {
 			if (image.location) {
 				footer_right.innerHTML = `<p><i class="fa fa-map-marker"></i> ${image.location}</p>`;
 			}
+			if (image.color) {
+				console.log(image.color);
+				footer_left.style.color = image.color;
+				footer_right.style.color = image.color;
+			}
 			this.separator.appendChild(content);
 			container.appendChild(img);
 			container.appendChild(footer_left);
 			container.appendChild(footer_right);
 			this.separator.appendChild(container);
+			this.separator.appendChild(document.createElement("br"));
 		}
 
 		this.line_separator = document.createElement("hr");

@@ -1,17 +1,23 @@
 {
-	"title": "El viaje de mi madre",
+	"title": "El viaje",
 	"content": [
 		{
-			"type": "title_view",
-			"content": {
-				"title": "Hola!",
-				"subtitles": [
-					"Si estas viendo esta página es porque recibiste una postal!",
-					"Esta es la historia de mi viaje",
-					"Algunas partes tienen audio!, no olvides subir el volumen!!",
-					"Desliza para ver las fotos!"
-				]
-			}
+			"type": "photo_view",
+			"img_src": "./resources/images/WIPBG.jpg",
+			"camera": "Vivitar 3000 - Fuji iso 200",
+			"location": "Lisboa, Portugal",
+			"contents": [
+				{
+					"title": "Hola!",
+					"text": "Si estas viendo esta página es porque recibiste una postal!"
+				},
+				{ "title": "", "text": "Esta es la historia de mi viaje" },
+				{
+					"title": "",
+					"text": "Algunas partes tienen audio!, no olvides subir el volumen!!"
+				},
+				{ "title": "", "text": "Desliza para ver las fotos!" }
+			]
 		},
 		{
 			"type": "title_view",
@@ -26,65 +32,89 @@
 			}
 		},
 		{
+			"type": "nphoto_view",
+			"images": [
+				{
+					"src": "./resources/images/uandes.jpg",
+					"camera": "Vivitar 3000",
+					"location": "Bogotá",
+					"color": "white"
+				},
+				{
+					"src": "./resources/images/trabajo.jpg",
+					"camera": "Olympus pen EE3",
+					"location": "Bogotá",
+					"color": "white"
+				}
+			],
+			"contents": [
+				{
+					"title": "Trabajo y universidad",
+					"text": "Despues de 7 años, se convirtió en una segunda casa...<br><br>En febrero mandamos el abstract para un congreso<br>El congreso era en Lisboa<br>Era la excusa perfecta para estrenar el pasaporte, apenas tenia 2 meses de emitido<br>Para conocer nuevo mundo, nuevas experiencias. Una oportunidad que no todo el mundo tiene"
+				},
+				{
+					"title": "Toda casa tiene su rincón de checheres",
+					"text": "El rincón de checheres en la universidad es final de semestre. Se acumulan entregas, calificaciones pendientes y estudiantes con reclamos de semana 2<br><br>Uno se acostumbra al rincon de checheres, tanto que el solo hecho de pensar en irse pasa a ser una idea lejana, incluso irreal<br>Es el mismo sentimiento del 2017 cuando llegué a Bogotá..."
+				}
+			]
+		},
+		{
 			"type": "title_view",
-			"content": { "title": "Bogota", "subtitles": ["1", "2"] }
+			"content": { "title": "Bogotá", "subtitles": ["29/5/24 - 1/6/24"] }
 		},
 		{
 			"type": "nphoto_view",
 			"images": [
 				{
-					"src": "./resources/images/WIPBG.jpg",
-					"camera": "Vivitar 3000 - Fuji iso 200",
-					"location": "Lisboa, Portugal"
+					"src": "./resources/images/ml126.jpg",
+					"camera": "Vivitar 3000",
+					"location": "Bogotá",
+					"color": "white"
 				},
 				{
-					"src": "./resources/images/WIPBG.jpg",
-					"camera": "Vivitar 3000 - Fuji iso 200",
-					"location": "Lisboa, Portugal"
+					"src": "./resources/images/frijolada.jpg",
+					"camera": "Algun iPhone seguramente",
+					"location": "Bogotá",
+					"color": "white"
 				}
 			],
 			"contents": [
-				{ "title": "Avionsitosuu", "text": "Loren Ipsum" },
-				{ "title": "Otracosas", "text": "Loren Ipsum" }
-			]
-		},
-		{
-			"type": "photo_view",
-			"img_src": "./resources/images/WIPBG.jpg",
-			"camera": "Vivitar 3000 - Fuji iso 200",
-			"location": "Lisboa, Portugal",
-			"contents": [
-				{ "title": "Avionsitosuu", "text": "Loren Ipsum" },
-				{ "title": "Otracosas", "text": "Loren Ipsum" }
-			]
-		},
-		{
-			"type": "mosaic_view",
-			"imgs": [
 				{
-					"src": "./resources/images/WIPBG.jpg",
-					"description": "Avionsitosuu"
+					"title": "ML 126",
+					"text": "Ya han sido una buena cantidad de años en esta sala. La oficina o el hueco. La habitacion de checheres<br><br>En esa sala he conocido a gente grandiosa. He visto pasar a muchos estudiantes, que se convirtieron en amigos.<br>La sensación ha sido de ver pasar a la gente, porque al fin y al cabo, el computador 14 desde pandemia ha sido ocupado por la misma persona"
 				},
 				{
-					"src": "./resources/images/WIPBG.jpg",
-					"description": "Otracosas"
-				},
-				{
-					"src": "./resources/images/WIPBG.jpg",
-					"description": "Otracosas3"
-				},
-				{
-					"src": "./resources/images/WIPBG.jpg",
-					"description": "Otracosas65"
+					"title": "Frijolada",
+					"text": "En final de semestre hay otro tipo de afanes, las celebraciones obligatorias. En este caso fue una \"frijolada\" que terminó siendo un asado improvisado. Un miercoles por la noche en City U<br>Fue bueno, pero no podía dejar de pensar que tenía un viaje planeado a medias. Mi vuelo salía el sábado, la maleta no estaba lista y honestamente, yo tampoco<br><br>Al otro día me enfermé..."
 				}
 			]
 		},
 		{
-			"type": "title_view",
-			"content": {
-				"title": "Gracias!",
-				"subtitles": []
-			}
+			"type": "nphoto_view",
+			"images": [
+				{
+					"src": "./resources/images/oportunidades.jpg",
+					"camera": "Olympus pen EE3",
+					"location": "Bogotá",
+					"color": "white"
+				},
+				{
+					"src": "./resources/images/afrisal.jpeg",
+					"camera": "Mi celular",
+					"location": "Bogotá",
+					"color": "white"
+				}
+			],
+			"contents": [
+				{
+					"title": "Ph.D. en Rice",
+					"text": ""
+				},
+				{
+					"title": "¿Y podría viajar enfermo?",
+					"text": ""
+				}
+			]
 		}
 	]
 }

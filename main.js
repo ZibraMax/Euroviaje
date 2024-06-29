@@ -40,6 +40,7 @@ function parse_data(json) {
 			for (const content of page.contents) {
 				const parsed_content = document.createElement("div");
 				parsed_content.classList.add("PhotoView_content");
+				parsed_content.classList.add("PhotoView_content2");
 				parsed_content.innerHTML = `<h3>${content.title}</h3><p>${content.text}</p><br>`;
 				contents.push(parsed_content);
 			}
