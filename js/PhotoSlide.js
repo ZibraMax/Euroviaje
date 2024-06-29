@@ -3,6 +3,7 @@ class PhotoView {
 		this.img_src = img_src;
 		this.separator = document.createElement("div");
 		this.separator.classList.add("PhotoView_separator");
+		this.separator.classList.add("PhotoView_separator2");
 		this.container = document.createElement("div");
 		this.container.classList.add("PhotoView_container");
 		this.img = document.createElement("img");
@@ -96,4 +97,45 @@ class MosaicView {
 	}
 }
 
-export { PhotoView, TitleView, MosaicView };
+class NPhotoView {
+	constructor(parent, contents, imgs) {
+		this.separator = document.createElement("div");
+		this.separator.classList.add("PhotoView_separator");
+		this.separator.classList.add("PhotoView_separator2");
+
+		for (let i = 0; i < contents.length; i++) {
+			const content = contents[i];
+			const image = imgs[i];
+
+			const container = document.createElement("div");
+			container.classList.add("PhotoView_container2");
+			const img = document.createElement("img");
+			img.classList.add("PhotoView_img2");
+			img.src = image.src;
+
+			const footer_left = document.createElement("div");
+			const footer_right = document.createElement("div");
+			footer_left.classList.add("PhotoView_footer");
+			footer_right.classList.add("PhotoView_footer");
+			footer_left.classList.add("PhotoView_bottom-left");
+			footer_right.classList.add("PhotoView_bottom-right");
+			if (image.camera) {
+				footer_left.innerHTML = `<p><i class="fa fa-camera"></i> ${image.camera}</p>`;
+			}
+			if (image.location) {
+				footer_right.innerHTML = `<p><i class="fa fa-map-marker"></i> ${image.location}</p>`;
+			}
+			this.separator.appendChild(content);
+			container.appendChild(img);
+			container.appendChild(footer_left);
+			container.appendChild(footer_right);
+			this.separator.appendChild(container);
+		}
+
+		this.line_separator = document.createElement("hr");
+		this.separator.appendChild(this.line_separator);
+		parent.appendChild(this.separator);
+	}
+}
+
+export { PhotoView, TitleView, MosaicView, NPhotoView };

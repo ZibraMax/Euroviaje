@@ -6,6 +6,25 @@
 			"content": { "title": "Bogota", "subtitles": ["1", "2"] }
 		},
 		{
+			"type": "nphoto_view",
+			"images": [
+				{
+					"src": "./resources/images/WIPBG.jpg",
+					"camera": "Vivitar 3000 - Fuji iso 200",
+					"location": "Lisboa, Portugal"
+				},
+				{
+					"src": "./resources/images/WIPBG.jpg",
+					"camera": "Vivitar 3000 - Fuji iso 200",
+					"location": "Lisboa, Portugal"
+				}
+			],
+			"contents": [
+				{ "title": "Avionsitosuu", "text": "Loren Ipsum" },
+				{ "title": "Otracosas", "text": "Loren Ipsum" }
+			]
+		},
+		{
 			"type": "photo_view",
 			"img_src": "./resources/images/WIPBG.jpg",
 			"camera": "Vivitar 3000 - Fuji iso 200",

@@ -1,4 +1,9 @@
-import { PhotoView, TitleView, MosaicView } from "./js/PhotoSlide.js";
+import {
+	PhotoView,
+	TitleView,
+	MosaicView,
+	NPhotoView,
+} from "./js/PhotoSlide.js";
 
 const parent = document.getElementById("page_content");
 
@@ -10,8 +15,8 @@ function parse_data(json) {
 	document.title = json.title;
 	for (const page of json.content) {
 		const type = page.type;
-		const content = page.content;
 		if (type == "title_view") {
+			const content = page.content;
 			new TitleView(parent, content.title, content.subtitles);
 		} else if (type == "photo_view") {
 			const img_src = page.img_src;
@@ -29,6 +34,16 @@ function parse_data(json) {
 			parsed_content["camera"] = page.camera;
 			parsed_content["location"] = page.location;
 			new PhotoView(parent, parsed_content, img_src);
+		} else if (type == "nphoto_view") {
+			const contents = [];
+			const images = page.images;
+			for (const content of page.contents) {
+				const parsed_content = document.createElement("div");
+				parsed_content.classList.add("PhotoView_content");
+				parsed_content.innerHTML = `<h3>${content.title}</h3><p>${content.text}</p><br>`;
+				contents.push(parsed_content);
+			}
+			new NPhotoView(parent, contents, images);
 		} else {
 			new MosaicView(parent, page.imgs);
 		}
