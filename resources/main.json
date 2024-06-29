@@ -373,6 +373,80 @@
 					"description": "Parque donde me sente un buen rato"
 				}
 			]
+		},
+		{
+			"type": "nphoto_view",
+			"images": [
+				{
+					"src": "./resources/images/castillo1.jpg",
+					"camera": "Mi celular",
+					"location": "Lisboa, Portugal",
+					"color": "white"
+				},
+				{
+					"src": "./resources/images/castillo2.jpg",
+					"camera": "Mi celular",
+					"location": "Lisboa, Portugal",
+					"color": "white"
+				}
+			],
+			"contents": [
+				{
+					"title": "Castillo de San Jorge",
+					"text": "El viernes empezó la parte de turismo. Ese día tenía que salir del hotel. Así que estuve con mi maleta pesada caminando solo hasta el castillo. <br>El castillo como tal es pequeño. Son unas cuantas paredes y torres donde se puede caminar. Pero la vista desde el castillo es espectacular."
+				},
+				{
+					"title": "",
+					"text": "Se ve toda Lisboa. Estuve sentado en las piedras del castillo por buen tiempo, esperando un poco. Estaba solo y lo unico que podía hacer era enviar fotos a amigos por WhatsApp que estaban dormidos por el cambio de horario. Despues de terminar el recorrido en el castillo, empezó a llover..."
+				}
+			]
+		},
+		{
+			"type": "nphoto_view",
+			"images": [
+				{
+					"src": "./resources/images/plaza.jpg",
+					"camera": "Mi celular",
+					"location": "Lisboa, Portugal",
+					"color": "white"
+				},
+				{
+					"src": "./resources/images/plaza2.jpg",
+					"camera": "Mi celular",
+					"location": "Lisboa, Portugal"
+				}
+			],
+			"contents": [
+				{
+					"title": "Plaza de comercio",
+					"text": "En la lluvia me escondí en una tienda de regalos y me compré un impermeable azul. Luego de eso almorzé en un sitio con terraza y vista increible. Llegué empapado al restaurante, cansadisimo de llevar las maletas. Luego de comer me dieron café. No se que sería, si fue el café, la comida, la vista o que dejó de llover. Desde ese momento el viaje tomó una forma distinta. Yo dije que NO me gustaba viajar solo, y asi como muchas cosas en la vida, hay que ser autodidacta. Estoy en el otro lado del mundo, hay incluso que aprender a disfrutarlo. Del restaurante caminé con mi maleta que sentía que pesaba menos, mi impermeable y mucho ánimo de conocer la plaza de comercio"
+				},
+				{
+					"title": "",
+					"text": "La plaza de comercio es bonita, es una plaza principal que tiene mar al frente!!!! Un monumento bonito en la mitad y una arquitectura muy agradable en general. Al lado hay una estación de metro, bus Y BARCOS!! usan el barco para cruzar el rio y pasar de norte a sur de Portugal. Me pareció fantástico... Es el centro de Lisboa, las calles son un poco mas angostas en general y hay un monton de casas con los típicos azulejos!!. De ahí, salí al terminal de transporte de Lisboa. Rumbo a Guimaraes---->"
+				}
+			]
+		},
+		{
+			"type": "mosaic_view",
+			"imgs": [
+				{
+					"src": "./resources/images/azulejos.jpg",
+					"description": "Azulejos en los edificios de Lisboa"
+				},
+				{
+					"src": "./resources/images/corona.jpg",
+					"description": "Arco de la plaza de comercio"
+				},
+				{
+					"src": "./resources/images/iglesiaesa.jpg",
+					"description": "Vista donde se ve la famosa iglesa sismoresistente de Lisboa"
+				},
+				{
+					"src": "./resources/images/rio.jpg",
+					"description": "El mar en frente de la plaza de comercio, con mi impermeable"
+				}
+			]
 		}
 	]
 }
