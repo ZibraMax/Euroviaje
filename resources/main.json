@@ -325,6 +325,54 @@
 					"Dormí 18 horas seguidas..."
 				]
 			}
+		},
+		{
+			"type": "nphoto_view",
+			"images": [
+				{
+					"src": "./resources/images/paisajes_lisboa1.jpg",
+					"camera": "Vivitar 3000",
+					"location": "Lisboa, Portugal",
+					"color": "white"
+				},
+				{
+					"src": "./resources/images/paisajes_lisboa2.jpg",
+					"camera": "Vivitar 3000",
+					"location": "Lisboa, Portugal",
+					"color": "white"
+				}
+			],
+			"contents": [
+				{
+					"title": "Reagendar la presentación",
+					"text": "Luego del hospital, tenia que arreglar el tema del congreso. La presentación se reagendó para el jueves (afortunadamente se pudo). Ese día la presentación fue bien, en un salón pequeño, no hubo muchas preguntas.<br><br>La foto son dos paisajes/calles de Lisboa. Todas las casas son de colores pastel y los carros los parquean donde pueden. Es una cultura muy distinta a la de Bogotá"
+				},
+				{
+					"title": "Dar el siguiente paso",
+					"text": "Los días pasaron entre mañanas asistiendo a conferencias y tardes calificando parciales de IP. Atencion a estudiantes, calcular notas finales y eventualmente subir notas finales. Eso días recorrí algunas calles extra de camino al hotel, como la foto a continuación.<br>Durante el día tome unas cuantas fotos de los paisajes y las calles con la cámara de rollo."
+				}
+			]
+		},
+		{
+			"type": "mosaic_view",
+			"imgs": [
+				{
+					"src": "./resources/images/paisajes_lisboa3.jpg",
+					"description": "Calles y callejones"
+				},
+				{
+					"src": "./resources/images/paisajes_lisboa4.jpg",
+					"description": "Esplanadas tipicas de los restaurantes"
+				},
+				{
+					"src": "./resources/images/paisajes_lisboa5.jpg",
+					"description": "Hostal LX, es uno famoso"
+				},
+				{
+					"src": "./resources/images/paisajes_lisboa6.jpg",
+					"description": "Parque donde me sente un buen rato"
+				}
+			]
 		}
 	]
 }
