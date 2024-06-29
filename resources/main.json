@@ -4,7 +4,7 @@
 		{
 			"type": "photo_view",
 			"img_src": "./resources/images/WIPBG.jpg",
-			"camera": "Vivitar 3000 - Fuji iso 200",
+			"camera": "Vivitar 3000",
 			"location": "Lisboa, Portugal",
 			"contents": [
 				{
@@ -194,6 +194,137 @@
 					"description": "Llegada a Europa"
 				}
 			]
+		},
+		{
+			"type": "title_view",
+			"content": {
+				"title": "Lisboa",
+				"subtitles": [
+					"2/6/2024 - 7/6/2024",
+					"Población: 504718 habitantes"
+				]
+			}
+		},
+		{
+			"type": "nphoto_view",
+			"images": [
+				{
+					"src": "./resources/images/hospital.jpg",
+					"camera": "Vivitar 3000",
+					"location": "Lisboa, Portugal",
+					"color": "white"
+				},
+				{
+					"src": "./resources/images/puente.jpg",
+					"camera": "Vivitar 3000",
+					"location": "Lisboa, Portugal"
+				}
+			],
+			"contents": [
+				{
+					"title": "Primera foto en Lisboa",
+					"text": "Desde una ventana de la habitación tomé la foto del primer edifico que vi. Nada especial..."
+				},
+				{
+					"title": "Lisboa",
+					"text": "Lisboa es una ciudad hermosa. Todas las aceras (y se repite en todo portugal) tienen baldosas pequeñas. Lisboa es ciudad costera ubicada en el delta del río Tagus, ese delta divide portugal en la parte norte y sur. Para conectar las dos partes hay un puente suspendido gigantesco! Se llama el puente 25 de abril. Todos los días pase por debajo de ese puente"
+				}
+			]
+		},
+		{
+			"type": "nphoto_view",
+			"images": [
+				{
+					"src": "./resources/images/called1.jpg",
+					"camera": "Mi celular",
+					"location": "Lisboa, Portugal",
+					"color": "white"
+				},
+				{
+					"src": "./resources/images/congresod1.jpg",
+					"camera": "Mi celular",
+					"location": "Lisboa, Portugal"
+				}
+			],
+			"contents": [
+				{
+					"title": "Recorrido de primer día",
+					"text": "Sin una nube, empezando el verano, empezé a caminar por las calles de Lisboa. Me quedé en una zona que no es tan turística. Recorrí un buen rato hasta que llegue hasta el congreso. Caminar por esa ciudad es muy bnito. Hay una sensación de seguridad por donde quiera que uno pase. Ese primer día fui a un spermercado y una panadería. Estrenando mi frase insignia mientras estuve en portugal: \"No falo portugues\"..."
+				},
+				{
+					"title": "Llegada al congreso",
+					"text": "Luego de un largo rato llegué al congreso. Me registré y me dieron una bolsa de tela, un frasco para agua de aluminio y un carton de los que se cuelgan al cuello con mi nombre. Fue un buen día, volví a cenar un sandwich hecho con las compras del supermercado.<br><br>Mi presentación era al día siguiente, así que despues de cenar hice un par de intentos de la presentación. En verano anochece muy tarde, cuando me di cuenta eran las 11:30pm, llevaba sin dormir un buen tiempo..."
+				}
+			]
+		},
+		{
+			"type": "title_view",
+			"content": {
+				"title": "Al día siguiente...",
+				"subtitles": [
+					"Me siento cansado, iré al congreso y me tomaré un café",
+					"Ya casi presento, sentemonos un rato... Me siento algo mareado",
+					"Siento que los hombros se me caen...",
+					"Hola, nao falo portugues, ¿Donde esta la enfermería?"
+				]
+			}
+		},
+		{
+			"type": "title_view",
+			"content": {
+				"title": "<i class=\"fa fa-h-square\" aria-hidden=\"true\"></i>",
+				"subtitles": ["Ayuda...", "Escriba le Nayled...", "Enfermo..."]
+			}
+		},
+		{
+			"type": "nphoto_view",
+			"images": [
+				{
+					"src": "./resources/images/hospital.jpg",
+					"camera": "Vivitar 3000",
+					"location": "Lisboa, Portugal",
+					"color": "white"
+				},
+				{
+					"src": "./resources/images/hospital1.jpg",
+					"camera": "Mi celular",
+					"location": "Lisboa, Portugal"
+				}
+			],
+			"contents": [
+				{
+					"title": "El lejano hospital",
+					"text": "De la enfermería del congreso me mandaron a \"descansar\". Durante el vuelo casi no pude dormir, sobretodo por el miedo que mis oidos se reventaran. El vuelo fue casi todo de noche. Al día siguiente tampoco dormi mucho, no tuve en cuenta las diferencias de horario ni de hora en la que anochecia.<br><br>Básicamente, me dio jet lag...<br><br>Los síntomas son dificiles de describir. Cuando llegue a la habitación, entré en pánico porque no pude dormir. Un ataque de pánico por pensar que me podía pasar algo grave al otro lado del mundo... solo..."
+				},
+				{
+					"title": "Nao falo portuges",
+					"text": "Despues de buscar ayuda en el hotel, despues de llamar al numero de emergencias. Nos dimos cuenta que el edifico que estaba al frente del hotel es un hospital... El mismo edificio que le tomé la primera foto el día anterior...<br> No tenía seguro médico de viaje..."
+				}
+			]
+		},
+		{
+			"type": "title_view",
+			"content": {
+				"title": "Hice un escándalo terrible",
+				"subtitles": [
+					"Me ayudó una persona que hablaba español. Se llama Isabel y es de cali. Gracias",
+					"Me dieron una bolsa para respirar. Yo metí en la bolsa mi pasaporte, celular y billetera. Por si me desmayaba",
+					"Hablando por telefono con Nayled",
+					"Me atendieron, me dieron dos medicinas y a los 5 minutos me dormí..."
+				]
+			}
+		},
+		{
+			"type": "title_view",
+			"content": {
+				"title": "No me robaron...",
+				"subtitles": [
+					"Cuando desperté, en mi bolsa estaban mis cosas. Gracias europeos",
+					"A la salida me dijeron que me devolverían parte del dinero",
+					"Me dieron medicinas y me recomendaron descansar",
+					"Dormí 18 horas seguidas..."
+				]
+			}
 		}
 	]
 }
