@@ -115,7 +115,7 @@
 	width: 100%;
 	opacity: 0;
 	transition: 0.5s ease;
-	background-color: #9f9f9f;
+	background-color: #000000;
 	border-radius: var(--border-radius);
 	animation-name: none;
 }
@@ -166,6 +166,7 @@
 	float: left;
 	margin: 5px;
 	width: 97%;
+	max-height: 50vh;
 	animation-name: none;
 }
 hr {

@@ -78,10 +78,27 @@ class MosaicView {
 			const img_wrap = document.createElement("div");
 			img_wrap.classList.add("PhotoView_img_container");
 
-			const img = document.createElement("img");
+			//<video width="320" height="240" controls>
+			//	<source src="movie.mp4" type="video/mp4">
+			//	<source src="movie.ogg" type="video/ogg">
+			//</video>
+			var img;
+			if (photo_value.src.includes(".mp4")) {
+				img = document.createElement("video");
+				img.autoplay = true;
+				img.loop = true;
+				img.muted = true;
+				const source = document.createElement("source");
+				source.src = photo_value.src;
+				source.type = "video/mp4";
+				img.appendChild(source);
+			} else {
+				img = document.createElement("img");
+				img.src = photo_value.src;
+			}
+
 			img.classList.add("PhotoView_img");
 			img.classList.add("PhotoView_img_mosaic");
-			img.src = photo_value.src;
 
 			const desc_cont = document.createElement("div");
 			desc_cont.classList.add("PhotoView_img_overlay");

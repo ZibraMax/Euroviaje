@@ -447,6 +447,136 @@
 					"description": "El mar en frente de la plaza de comercio, con mi impermeable"
 				}
 			]
+		},
+		{
+			"type": "title_view",
+			"content": {
+				"title": "Lisboa <i class=\"fa fa-bus\" aria-hidden=\"true\"></i> Guimaraes",
+				"subtitles": [
+					"Luego de Lisboa, seguia visitar a Nayled",
+					"Ella vive en Guimaraes, queda a 6 horas en bus de Lisboa"
+				]
+			}
+		},
+		{
+			"type": "photo_view",
+			"img_src": "./resources/images/viento.jpg",
+			"camera": "Mi celular",
+			"location": "Portugal",
+			"color": "white",
+			"contents": [
+				{
+					"title": "Buses europeos",
+					"text": "Tambien tienen ruedas y conductor. La diferencia es que salen puntuales. Para pedir el bus se usa una aplicación (Omio) y al comprar el tiquete llega un pdf con la información. No hay necesidad de comprar el tiquete en el terminal de buses. Los buses salen a la hora exacta que dice en el tiquete, asi que hay que ser muy puntuales. Casi me quedo del bus de Lisboa a Guimaraes por un par de minutos..."
+				},
+				{
+					"title": "Camino...",
+					"text": "Durante el viaje pasamos por varias ciudades/pueblos de portugal. Además que en el camino vi turbinas de viento, nunca las había visto antes!!!"
+				}
+			]
+		},
+		{
+			"type": "mosaic_view",
+			"imgs": [
+				{
+					"src": "./resources/images/porto.jpg",
+					"description": "Foto desenfocada de porto"
+				},
+				{
+					"src": "./resources/images/mapa.jpg",
+					"description": "Básicamente estaba atravezando Portugal"
+				}
+			]
+		},
+		{
+			"type": "title_view",
+			"content": {
+				"title": "Guimaraes",
+				"subtitles": [
+					"7/6/24 - 9/6/24",
+					"Población: pocos habitantes + Nayled"
+				]
+			}
+		},
+		{
+			"type": "nphoto_view",
+			"images": [
+				{
+					"src": "./resources/images/guimaraes_castillo.jpg",
+					"camera": "Vivitar 3000",
+					"location": "Guimaraes, Portugal"
+				},
+				{
+					"src": "./resources/images/nayled1.jpg",
+					"camera": "Vivitar 3000",
+					"location": "Guimaraes, Portugal"
+				}
+			],
+			"contents": [
+				{
+					"title": "Guimaraes",
+					"text": "Un pueblo colonial hermoso, de pocos habitantes que guarda una historia increible. Tiene un castillo, En ese pueblo se dice que nace portugal (de hecho tienen un cartel que dice eso). El estilo de la plaza del pueblo es gótica, las calles son estrechas y los edificios se notan antiguos. Es un pueblo que tiene un centro comercial y una universidad. Se consigue tambien el típico postre de Portugal, el pastel de natas. Es un postre muy sencillo en concepto y por eso muy dificil en ejecución. Es simplemente, delicioso"
+				},
+				{
+					"title": "Nayled",
+					"text": "Gracias por la hospitalidad, gracias por acompañarme.<br><br>Con Nayled comimos una cosa rara llamada Francesiña. Un sandwich de carnes, jamones, huevo y papa que es una combinación de sabores exquisita.<br><br>Ya no estaba solo, aprovechar para salir al \"TOUR DE SHOTS\" recomendado por Nayled"
+				}
+			]
+		},
+		{
+			"type": "mosaic_view",
+			"imgs": [
+				{
+					"src": "./resources/images/chimeneas.jpg",
+					"description": "Casa de las +30 chimeneas"
+				},
+				{
+					"src": "./resources/images/parquemino.jpg",
+					"description": "Parque principal"
+				},
+				{
+					"src": "./resources/images/parquemino2.jpg",
+					"description": "Otra foto del parque principal"
+				},
+				{
+					"src": "./resources/images/francesa.jpg",
+					"description": "Francesiña"
+				}
+			]
+		},
+		{
+			"type": "mosaic_view",
+			"imgs": [
+				{
+					"src": "./resources/images/bonito.jpg",
+					"description": "Camino a la universidad de Nayled"
+				},
+				{
+					"src": "./resources/images/mino.jpg",
+					"description": "Paisajes de la universidad de Nayled"
+				},
+				{
+					"src": "./resources/images/mino2.jpg",
+					"description": "Hacia calor asi que tenia pantaloneta"
+				},
+				{
+					"src": "./resources/images/minocamino.jpg",
+					"description": "Camino bonito"
+				}
+			]
+		},
+		{
+			"type": "mosaic_view",
+			"imgs": [
+				{
+					"src": "./resources/images/natas.jpg",
+					"description": "Pastel de natas y aqui nace portugal"
+				},
+				{
+					"src": "./resources/images/shots.mp4",
+					"description": "Tour de shots"
+				}
+			]
 		}
 	]
 }
