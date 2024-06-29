@@ -41,7 +41,7 @@
 					"color": "white"
 				},
 				{
-					"src": "./resources/images/trabajo.jpg",
+					"src": "./resources/images/oportunidades.jpg",
 					"camera": "Olympus pen EE3",
 					"location": "Bogotá",
 					"color": "white"
@@ -53,8 +53,8 @@
 					"text": "Despues de 7 años, se convirtió en una segunda casa...<br><br>En febrero mandamos el abstract para un congreso<br>El congreso era en Lisboa<br>Era la excusa perfecta para estrenar el pasaporte, apenas tenia 2 meses de emitido<br>Para conocer nuevo mundo, nuevas experiencias. Una oportunidad que no todo el mundo tiene"
 				},
 				{
-					"title": "Toda casa tiene su rincón de checheres",
-					"text": "El rincón de checheres en la universidad es final de semestre. Se acumulan entregas, calificaciones pendientes y estudiantes con reclamos de semana 2<br><br>Uno se acostumbra al rincon de checheres, tanto que el solo hecho de pensar en irse pasa a ser una idea lejana, incluso irreal<br>Es el mismo sentimiento del 2017 cuando llegué a Bogotá..."
+					"title": "Ph.D. en Rice",
+					"text": "Entre todas las cosas pendientes salió una oportunidad. Dos semanas antes me presenté en Rice para hacer el PhD en Estados Unidos.<br>Fue una aplicación extracurricular. Se empieza en agosto de este año y las admisiones habían terminado hace tiempo. Fue de un momento a otro... <br><br>Y pues funcionó... Me admitieron..."
 				}
 			]
 		},
@@ -66,26 +66,26 @@
 			"type": "nphoto_view",
 			"images": [
 				{
-					"src": "./resources/images/ml126.jpg",
+					"src": "./resources/images/trabajo.jpg",
 					"camera": "Vivitar 3000",
 					"location": "Bogotá",
 					"color": "white"
 				},
 				{
-					"src": "./resources/images/frijolada.jpg",
-					"camera": "Algun iPhone seguramente",
+					"src": "./resources/images/ml126.jpg",
+					"camera": "Vivitar 3000",
 					"location": "Bogotá",
 					"color": "white"
 				}
 			],
 			"contents": [
 				{
-					"title": "ML 126",
-					"text": "Ya han sido una buena cantidad de años en esta sala. La oficina o el hueco. La habitacion de checheres<br><br>En esa sala he conocido a gente grandiosa. He visto pasar a muchos estudiantes, que se convirtieron en amigos.<br>La sensación ha sido de ver pasar a la gente, porque al fin y al cabo, el computador 14 desde pandemia ha sido ocupado por la misma persona"
+					"title": "Toda casa tiene su rincón de checheres",
+					"text": "El rincón de checheres en la universidad es final de semestre. Se acumulan entregas, calificaciones pendientes y estudiantes con reclamos de semana 2<br><br>Uno se acostumbra al rincon de checheres, tanto que el solo hecho de pensar en irse pasa a ser una idea lejana, incluso irreal<br>Es el mismo sentimiento del 2017 cuando llegué a Bogotá..."
 				},
 				{
-					"title": "Frijolada",
-					"text": "En final de semestre hay otro tipo de afanes, las celebraciones obligatorias. En este caso fue una \"frijolada\" que terminó siendo un asado improvisado. Un miercoles por la noche en City U<br>Fue bueno, pero no podía dejar de pensar que tenía un viaje planeado a medias. Mi vuelo salía el sábado, la maleta no estaba lista y honestamente, yo tampoco<br><br>Al otro día me enfermé..."
+					"title": "ML 126",
+					"text": "Ya han sido una buena cantidad de años en esta sala. La oficina o el hueco. La habitacion de checheres<br><br>En esa sala he conocido a gente grandiosa. He visto pasar a muchos estudiantes, que se convirtieron en amigos.<br>La sensación ha sido de ver pasar a la gente, porque al fin y al cabo, el computador 14 desde pandemia ha sido ocupado por la misma persona"
 				}
 			]
 		},
@@ -93,8 +93,8 @@
 			"type": "nphoto_view",
 			"images": [
 				{
-					"src": "./resources/images/oportunidades.jpg",
-					"camera": "Olympus pen EE3",
+					"src": "./resources/images/frijolada.jpg",
+					"camera": "Algún iPhone seguramente",
 					"location": "Bogotá",
 					"color": "white"
 				},
@@ -107,12 +107,91 @@
 			],
 			"contents": [
 				{
-					"title": "Ph.D. en Rice",
-					"text": ""
+					"title": "Frijolada",
+					"text": "En final de semestre hay otro tipo de afanes, las celebraciones obligatorias. En este caso fue una \"frijolada\" que terminó siendo un asado improvisado. Un miercoles por la noche en City U<br>Fue bueno, pero no podía dejar de pensar que tenía un viaje planeado a medias. Mi vuelo salía el sábado, la maleta no estaba lista y honestamente, yo tampoco<br><br>Al otro día me enfermé..."
 				},
 				{
 					"title": "¿Y podría viajar enfermo?",
-					"text": ""
+					"text": "Entre fiebres, mareos y mucha congestion, me llegó compañía. Mi mamá viajo a \"despedirme en el aeropuerto\". El viernes, despues de una visita al médico de la universidad me dieron una buena cantidad de medicamentos...<br><br>También me dijeron que no podía viajar... Había un riesgo de que se me reventara el tímpano (por cambios de presión en el vuelo).<br>Mi presentación era el lunes. No viajar significaba perder el dinero del hotel, los vuelos y el congreso."
+				}
+			]
+		},
+		{
+			"type": "title_view",
+			"content": {
+				"title": "Al día siguiente tomé un avion",
+				"subtitles": [
+					"+10 horas de vuelo",
+					"Escala en madrid",
+					"Miedo de perder un oido",
+					"Y me faltaba una semana para terminar semestre. Esto no son vacaciones..."
+				]
+			}
+		},
+		{
+			"type": "nphoto_view",
+			"images": [
+				{
+					"src": "./resources/images/equpiaje_mano.jpg",
+					"color": "white"
+				},
+				{
+					"src": "./resources/images/vivitar.jpeg",
+					"color": "white"
+				}
+			],
+			"contents": [
+				{
+					"title": "Mi equipaje",
+					"text": "Me fui a viajar con una maleta, y otra maleta, y una bolsa, y otras cuantas cosas.<br><br>La maleta principal no era de rodachines, la escogí a propósito para que fuera facil de llevar en cabina del avión. En esa maleta estaría toda la ropa que llevaba desde Bogotá y la medicina<br>Colgando de la maleta estaría el compañero de sueños, osea la almohada que me regaló Danna antes de salir<br>En frente una \"tula\" donde estaba el computador, telefono, papeles, camara, cargadores, etc.<br>En algunas ocasiones una bolsa de tela remplazo a la tula para tener mas espacio.<br>El peso máximo que se puede llevar en cabina es de 10 Kg. Mi maleta amarilla pesaba 11 Kg saliendo de Bogotá..."
+				},
+				{
+					"title": "¿Vivitar?",
+					"text": "La camara que llevé al viaje fue una cámara prestada. Una camara de rollo, analoga. Para las fotos, 4 rollos Fuji iso 200 de 36 fotos cada uno."
+				}
+			]
+		},
+		{
+			"type": "title_view",
+			"content": {
+				"title": "Bogotá <i class=\"fa fa-plane\" aria-hidden=\"true\"></i> Lisboa",
+				"subtitles": [
+					"1/6/2024 5:00pm - 1/6/2024 12:50pm",
+					"Escala en Madrid, y no el de Cundinamarca"
+				]
+			}
+		},
+		{
+			"type": "photo_view",
+			"img_src": "./resources/images/paipa.jpg",
+			"camera": "Mi celular",
+			"location": "Boyacá a 8000 msnm",
+			"color": "white",
+			"contents": [
+				{
+					"title": "Una lágrima cae 6000 metros",
+					"text": "La ruta del vuelo fue peculiar. El avión salió de Bogotá hacia el noreste. La ruta pasó justamente por encima de Boyacá...<br><br>Todavía había luz del día y mi asiento tenía ventana. En un punto pude ver la distintiva forma del lago sochagota, de la laguna de enfriamiento de la termo electrica y la inconfundible calle 25. Unos 6000 metros debajo de mi se encontraba mi hogar.<br><br>Despues de unas cuantas horas, llegué a Madrid. Allí pasé controles de aeropuerto y tomé un mini-metro dentro del aeropuerto para llegar a la terminal donde salía la conexión. Luego de un vuelo mas pequeño de 1 hora, llegamos a Lisboa... "
+				}
+			]
+		},
+		{
+			"type": "mosaic_view",
+			"imgs": [
+				{
+					"src": "./resources/images/nubes.jpg",
+					"description": "Foto genérica de las nubes"
+				},
+				{
+					"src": "./resources/images/tota.jpg",
+					"description": "Embalse de la copa"
+				},
+				{
+					"src": "./resources/images/cocuy.jpg",
+					"description": "Sierra nevada del Cocuy"
+				},
+				{
+					"src": "./resources/images/europa.jpg",
+					"description": "Llegada a Europa"
 				}
 			]
 		}

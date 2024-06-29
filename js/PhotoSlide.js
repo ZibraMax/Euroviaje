@@ -29,6 +29,10 @@ class PhotoView {
 		if (content.location) {
 			this.footer_right.innerHTML = `<p><i class="fa fa-map-marker"></i> ${content.location}</p>`;
 		}
+		if (content.color) {
+			this.footer_left.style.color = content.color;
+			this.footer_right.style.color = content.color;
+		}
 		this.separator.appendChild(this.content);
 		this.container.appendChild(this.img);
 		this.container.appendChild(this.footer_left);
@@ -126,7 +130,6 @@ class NPhotoView {
 				footer_right.innerHTML = `<p><i class="fa fa-map-marker"></i> ${image.location}</p>`;
 			}
 			if (image.color) {
-				console.log(image.color);
 				footer_left.style.color = image.color;
 				footer_right.style.color = image.color;
 			}
