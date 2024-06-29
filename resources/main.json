@@ -504,12 +504,14 @@
 				{
 					"src": "./resources/images/guimaraes_castillo.jpg",
 					"camera": "Vivitar 3000",
-					"location": "Guimaraes, Portugal"
+					"location": "Guimaraes, Portugal",
+					"color": "white"
 				},
 				{
 					"src": "./resources/images/nayled1.jpg",
 					"camera": "Vivitar 3000",
-					"location": "Guimaraes, Portugal"
+					"location": "Guimaraes, Portugal",
+					"color": "black"
 				}
 			],
 			"contents": [
