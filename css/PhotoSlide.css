@@ -1,12 +1,31 @@
+@keyframes show {
+	from {
+		opacity: 0;
+	}
+	to {
+		opacity: 1;
+	}
+}
+
+* {
+	view-timeline-name: --image;
+	view-timeline-axis: block;
+	animation-timeline: --image;
+	animation-name: show;
+	animation-range: entry 30%;
+	animation-fill-mode: both;
+}
+
 :root {
 	--border-radius: 8px;
-	font-size: 25px;
+	font-size: 20px;
 }
 
 .PhotoView_separator {
 	display: block;
 	position: relative;
 	text-align: center;
+	background-color: white;
 	color: black;
 	width: 100%;
 	height: 100%;
@@ -23,7 +42,6 @@
 	color: black;
 	width: 60%;
 	padding: 0;
-	margin: 0;
 	margin: 10px;
 }
 .PhotoView_container2 {
@@ -33,7 +51,6 @@
 	color: black;
 	height: 45%;
 	padding: 0;
-	margin: 0;
 	margin: 10px;
 	font-size: 12px;
 }
@@ -70,6 +87,7 @@
 	left: 50%;
 	-ms-transform: translate(-50%, -50%);
 	transform: translate(-50%, -50%);
+	animation-name: none;
 }
 .PhotoView_img {
 	width: 100%;
@@ -84,6 +102,7 @@
 	position: relative;
 	display: inline-block;
 	width: 45%;
+	animation-name: none;
 }
 
 .PhotoView_img_overlay {
@@ -98,6 +117,7 @@
 	transition: 0.5s ease;
 	background-color: #9f9f9f;
 	border-radius: var(--border-radius);
+	animation-name: none;
 }
 
 .PhotoView_img_container:hover .PhotoView_img_overlay {
@@ -111,6 +131,7 @@
 	left: 50%;
 	transform: translate(-50%, -50%);
 	text-align: center;
+	animation-name: none;
 }
 
 .PhotoView_top-left {
@@ -123,13 +144,13 @@
 .PhotoView_bottom-right {
 	position: absolute;
 	bottom: 8px;
-	right: var(--border-radius);
+	right: 2em;
 	text-align: right;
 }
 .PhotoView_bottom-left {
 	position: absolute;
 	bottom: 8px;
-	left: var(--border-radius);
+	left: 2em;
 	text-align: left;
 }
 .PhotoView_content {
@@ -144,20 +165,25 @@
 	float: left;
 	margin: 5px;
 	width: 97%;
+	animation-name: none;
 }
 hr {
 	border: 1px solid rgb(236, 236, 236);
+	margin: 0;
 }
 @media only screen and (max-width: 768px) {
 	.PhotoView_container {
 		width: 100%;
+		margin: 0px;
 	}
 	.PhotoView_img {
 		border-radius: 0px;
+		width: 100%;
 	}
 
 	.PhotoView_container2 {
 		width: 100%;
+		margin: 0px;
 		font-size: 1em;
 	}
 	.PhotoView_img2 {
@@ -170,18 +196,18 @@ hr {
 		font-size: 0.5em;
 	}
 	.PhotoView_content {
-		width: 100%;
+		width: 95%;
 	}
 	.PhotoView_separator {
 		height: auto;
 	}
 	.PhotoView_title {
-		min-height: 250px;
+		min-height: 100%;
 	}
 	.PhotoView_img_mosaic {
 		float: left;
 		display: block;
-		margin: 5px;
+		margin: 0px;
 		width: 100%;
 	}
 	.PhotoView_centering_container_mosaic {
@@ -222,5 +248,11 @@ hr {
 		display: block;
 		-ms-transform: translate(0, 0);
 		transform: translate(0, 0);
+	}
+	.PhotoView_mosaic {
+		background-color: white;
+		color: black;
+		margin: 0px;
+		height: 130%;
 	}
 }

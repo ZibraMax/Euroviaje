@@ -3,6 +3,30 @@
 	"content": [
 		{
 			"type": "title_view",
+			"content": {
+				"title": "Hola!",
+				"subtitles": [
+					"Si estas viendo esta página es porque recibiste una postal!",
+					"Esta es la historia de mi viaje",
+					"Algunas partes tienen audio!, no olvides subir el volumen!!",
+					"Desliza para ver las fotos!"
+				]
+			}
+		},
+		{
+			"type": "title_view",
+			"content": {
+				"title": "",
+				"subtitles": [
+					"<i>Vida antes que muerte</i>",
+					"<i>Fuerza antes que debilidad</i>",
+					"<i>Viaje antes que destino</i>",
+					"<i style=\"font-size:19px\">- Brandon Sanderson en uno de esos libros...</i>"
+				]
+			}
+		},
+		{
+			"type": "title_view",
 			"content": { "title": "Bogota", "subtitles": ["1", "2"] }
 		},
 		{
@@ -54,6 +78,13 @@
 					"description": "Otracosas65"
 				}
 			]
+		},
+		{
+			"type": "title_view",
+			"content": {
+				"title": "Gracias!",
+				"subtitles": []
+			}
 		}
 	]
 }
