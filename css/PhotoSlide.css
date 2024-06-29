@@ -12,7 +12,7 @@
 	view-timeline-axis: block;
 	animation-timeline: --image;
 	animation-name: show;
-	animation-range: entry 30%;
+	animation-range: entry 15%;
 	animation-fill-mode: both;
 }
 
