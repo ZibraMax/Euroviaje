@@ -579,6 +579,33 @@
 					"description": "Tour de shots"
 				}
 			]
+		},
+		{
+			"type": "nphoto_view",
+			"images": [
+				{
+					"src": "./resources/images/busesito.gif",
+					"camera": "iPhone de Nayled",
+					"location": "Guimaraes, Portugal",
+					"color": "white"
+				},
+				{
+					"src": "./resources/images/dentrodelbus.jpg",
+					"camera": "Mi celular",
+					"location": "En algun sitio de Portugal",
+					"color": "white"
+				}
+			],
+			"contents": [
+				{
+					"title": "El \"Eurotour\"",
+					"text": "Hora de cambiar de pais"
+				},
+				{
+					"title": "Hora de partir",
+					"text": ""
+				}
+			]
 		}
 	]
 }
