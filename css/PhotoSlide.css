@@ -78,6 +78,7 @@
 	left: 50%;
 	-ms-transform: translate(-50%, -50%);
 	transform: translate(-50%, -50%);
+	width: 90%;
 }
 .PhotoView_centering_container_mosaic {
 	margin: 0;
