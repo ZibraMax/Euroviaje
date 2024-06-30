@@ -931,6 +931,49 @@
 					"description": "Don Quijote"
 				}
 			]
+		},
+		{
+			"type": "title_view",
+			"content": {
+				"title": "Madrid <i class=\"fa fa-plane\" aria-hidden=\"true\"></i> Roma",
+				"subtitles": ["El vuelo se retrasó 1 hora y media..."]
+			}
+		},
+		{
+			"type": "nphoto_view",
+			"images": [
+				{
+					"src": "./resources/images/trenybirra.jpg",
+					"camera": "Mi celular",
+					"location": "Fuimicino, Italia",
+					"color": "white"
+				},
+				{
+					"src": "./resources/images/pizzacuadrada.jpg",
+					"camera": "Mi celular",
+					"location": "Roma, Italia"
+				}
+			],
+			"contents": [
+				{
+					"title": "El tren en el aeropuerto",
+					"text": "No saber tomar un tren"
+				},
+				{
+					"title": "El metro de mierda",
+					"text": "Historia de perdida y llegada sin batería. La pizza y la Birra"
+				}
+			]
+		},
+		{
+			"type": "title_view",
+			"content": {
+				"title": "Roma",
+				"subtitles": [
+					"12/6/24 14/6/24",
+					"Población: 2873000 habitantes"
+				]
+			}
 		}
 	]
 }
