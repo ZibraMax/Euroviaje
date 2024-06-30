@@ -696,6 +696,241 @@
 					"text": "Un bus amplio, desde Porto hasta Madrid. En la mitad de la nada se detuvo en una gasolinería para ir al baño y comer algo. En la tienda de la gasolinería había un stand con cassettes. Compré uno de recuerdo."
 				}
 			]
+		},
+		{
+			"type": "title_view",
+			"content": {
+				"title": "Madrid",
+				"subtitles": [
+					"10/6/24 - 12/6/24",
+					"Población: 3223000 habitantes"
+				]
+			}
+		},
+		{
+			"type": "nphoto_view",
+			"images": [
+				{
+					"src": "./resources/images/metromadrid.jpg",
+					"camera": "Mi celular",
+					"location": "Madrid, España",
+					"color": "white"
+				},
+				{
+					"src": "./resources/images/macdonals.jpg",
+					"camera": "Mi celular",
+					"location": "Madrid, España",
+					"color": "white"
+				}
+			],
+			"contents": [
+				{
+					"title": "Esperar en un terminal",
+					"text": "Tomar el metro de madrid, entender lo facil que es, hablar de transmilenio. Esperanza con el de Bogotá"
+				},
+				{
+					"title": "Llegar al hostal",
+					"text": "Esta lloviendo, el macdonalds, la perdida, el impermeable. Llegar al hostal y dormir"
+				}
+			]
+		},
+		{
+			"type": "nphoto_view",
+			"images": [
+				{
+					"src": "./resources/images/plazamayor.jpg",
+					"camera": "Vivitar 3000",
+					"location": "Madrid, España",
+					"color": "white"
+				},
+				{
+					"src": "./resources/images/paella.jpg",
+					"camera": "Mi celular",
+					"location": "Madrid, España",
+					"color": "white"
+				}
+			],
+			"contents": [
+				{
+					"title": "Plaza Mayor",
+					"text": "Que lindo sitio, que bonitos restaurantes alrededor"
+				},
+				{
+					"title": "Paella",
+					"text": "Tenia hambre"
+				}
+			]
+		},
+		{
+			"type": "nphoto_view",
+			"images": [
+				{
+					"src": "./resources/images/sol.jpg",
+					"camera": "Vivitar 3000",
+					"location": "Madrid, España",
+					"color": "white"
+				},
+				{
+					"src": "./resources/images/prado.jpg",
+					"camera": "Mi celular",
+					"location": "Madrid, España",
+					"color": "white"
+				}
+			],
+			"contents": [
+				{
+					"title": "Sol",
+					"text": "Bocadillo, helado, etc"
+				},
+				{
+					"title": "Alrededores y pluma",
+					"text": "Aqui mencionar el museo del prado"
+				}
+			]
+		},
+		{
+			"type": "nphoto_view",
+			"images": [
+				{
+					"src": "./resources/images/granvia.jpg",
+					"camera": "Vivitar 3000",
+					"location": "Madrid, España",
+					"color": "white"
+				},
+				{
+					"src": "./resources/images/retiro.jpg",
+					"camera": "Vivitar 3000",
+					"location": "Madrid, España",
+					"color": "white"
+				}
+			],
+			"contents": [
+				{
+					"title": "Gran via!",
+					"text": "Ciudad falsa"
+				},
+				{
+					"title": "Parque del retiro",
+					"text": "El simon bolivar pero mas tranquilo"
+				}
+			]
+		},
+		{
+			"type": "nphoto_view",
+			"images": [
+				{
+					"src": "./resources/images/palacio.jpg",
+					"camera": "Vivitar 3000",
+					"location": "Madrid, España",
+					"color": "white"
+				},
+				{
+					"src": "./resources/images/almudena.jpg",
+					"camera": "Vivitar 3000",
+					"location": "Madrid, España",
+					"color": "white"
+				}
+			],
+			"contents": [
+				{
+					"title": "Palacio real",
+					"text": "De aqui nos mandaron la gente a sacar el oro"
+				},
+				{
+					"title": "Catedral de madrid",
+					"text": "Hay poca luz para las fotos, se me acabo el rollo"
+				}
+			]
+		},
+		{
+			"type": "nphoto_view",
+			"images": [
+				{
+					"src": "./resources/images/alcala.jpg",
+					"camera": "Mi celular",
+					"location": "Madrid, España",
+					"color": "white"
+				},
+				{
+					"src": "./resources/images/guiness.jpg",
+					"camera": "Mi celular",
+					"location": "Madrid, España",
+					"color": "white"
+				}
+			],
+			"contents": [
+				{
+					"title": "Puerta de Alcalá",
+					"text": "El sol, atardecer"
+				},
+				{
+					"title": "El pub y la Guiness",
+					"text": "Cerveza que siempre había querido"
+				}
+			]
+		},
+		{
+			"type": "mosaic_view",
+			"imgs": [
+				{
+					"src": "./resources/images/madrid_m1.jpg",
+					"description": "Felipe III"
+				},
+				{
+					"src": "./resources/images/madrid_m2.jpg",
+					"description": "Calles hermosas de Madrid"
+				},
+				{
+					"src": "./resources/images/madrid_m3.jpg",
+					"description": "Arcos y gran via"
+				},
+				{
+					"src": "./resources/images/madrid_m4.jpg",
+					"description": "Metro de gran via"
+				}
+			]
+		},
+		{
+			"type": "mosaic_view",
+			"imgs": [
+				{
+					"src": "./resources/images/madrid_m11.jpg",
+					"description": "Cultura latina"
+				},
+				{
+					"src": "./resources/images/madrid_m6.jpg",
+					"description": "Puerta de alcala desde el parque del retiro"
+				},
+				{
+					"src": "./resources/images/madrid_m12.jpg",
+					"description": "Edificio metropolis"
+				},
+				{
+					"src": "./resources/images/madrid_m8.jpg",
+					"description": "Edificio que no tengo ni idea que es"
+				}
+			]
+		},
+		{
+			"type": "mosaic_view",
+			"imgs": [
+				{
+					"src": "./resources/images/madrid_m9.jpg",
+					"description": "El edificio que casi tumban"
+				},
+				{
+					"src": "./resources/images/madrid_m10.jpg",
+					"description": "Madrid de verdad"
+				},
+				{
+					"src": "./resources/images/madrid_m5.jpg",
+					"description": "Tapa"
+				},
+				{
+					"src": "./resources/images/madrid_m7.jpg",
+					"description": "Don Quijote"
+				}
+			]
 		}
 	]
 }
