@@ -17,7 +17,12 @@ function parse_data(json) {
 		const type = page.type;
 		if (type == "title_view") {
 			const content = page.content;
-			new TitleView(parent, content.title, content.subtitles);
+			new TitleView(
+				parent,
+				content.title,
+				content.subtitles,
+				page.classes
+			);
 		} else if (type == "photo_view") {
 			const img_src = page.img_src;
 			const el_content = document.createElement("div");

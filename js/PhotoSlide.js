@@ -45,10 +45,15 @@ class PhotoView {
 }
 
 class TitleView {
-	constructor(parent, title, subtitles) {
+	constructor(parent, title, subtitles, classes) {
 		this.separator = document.createElement("div");
 		this.separator.classList.add("PhotoView_separator");
 		this.separator.classList.add("PhotoView_title");
+		if (classes) {
+			for (const ss of classes) {
+				this.separator.classList.add(ss);
+			}
+		}
 		this.container = document.createElement("div");
 		this.container.classList.add("PhotoView_centering_container");
 
@@ -59,6 +64,13 @@ class TitleView {
 		for (const subtitle_value of subtitles) {
 			const subtitle = document.createElement("h3");
 			subtitle.classList.add("PhotoView_title_subtitle");
+			if (classes) {
+				for (const ss of classes) {
+					if (ss.includes("text")) {
+						subtitle.classList.add(ss);
+					}
+				}
+			}
 			subtitle.innerHTML = subtitle_value;
 			this.container.appendChild(subtitle);
 		}
@@ -77,11 +89,6 @@ class MosaicView {
 		for (const photo_value of photos) {
 			const img_wrap = document.createElement("div");
 			img_wrap.classList.add("PhotoView_img_container");
-
-			//<video width="320" height="240" controls>
-			//	<source src="movie.mp4" type="video/mp4">
-			//	<source src="movie.ogg" type="video/ogg">
-			//</video>
 			var img;
 			if (photo_value.src.includes(".mp4")) {
 				img = document.createElement("video");

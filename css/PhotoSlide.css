@@ -12,7 +12,7 @@
 	view-timeline-axis: block;
 	animation-timeline: --image;
 	animation-name: show;
-	animation-range: entry 15%;
+	animation-range: entry 10%;
 	animation-fill-mode: both;
 }
 
@@ -264,4 +264,11 @@ hr {
 		margin: 0px;
 		height: 130%;
 	}
+}
+.noise-bg {
+	background: url("../resources/images/random.gif");
+	animation-name: none;
+}
+.black-text {
+	color: black;
 }

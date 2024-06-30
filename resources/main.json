@@ -1,5 +1,5 @@
 {
-	"title": "El viaje",
+	"title": "El viaje imposible",
 	"content": [
 		{
 			"type": "photo_view",
@@ -8,7 +8,7 @@
 			"location": "Lisboa, Portugal",
 			"contents": [
 				{
-					"title": "Hola!",
+					"title": "El viaje imposible",
 					"text": "Si estas viendo esta página es porque recibiste una postal!"
 				},
 				{ "title": "", "text": "Esta es la historia de mi viaje" },
@@ -419,7 +419,7 @@
 			"contents": [
 				{
 					"title": "Plaza de comercio",
-					"text": "En la lluvia me escondí en una tienda de regalos y me compré un impermeable azul. Luego de eso almorzé en un sitio con terraza y vista increible. Llegué empapado al restaurante, cansadisimo de llevar las maletas. Luego de comer me dieron café. No se que sería, si fue el café, la comida, la vista o que dejó de llover. Desde ese momento el viaje tomó una forma distinta. Yo dije que NO me gustaba viajar solo, y asi como muchas cosas en la vida, hay que ser autodidacta. Estoy en el otro lado del mundo, hay incluso que aprender a disfrutarlo. Del restaurante caminé con mi maleta que sentía que pesaba menos, mi impermeable y mucho ánimo de conocer la plaza de comercio"
+					"text": "En la lluvia me escondí en una tienda de regalos y me compré un impermeable azul. Luego de eso almorzé en un sitio con terraza y vista increible. Llegué empapado al restaurante, cansadisimo de llevar las maletas. Luego de comer me dieron café. No si fue el café, la comida o que dejó de llover, pero, la maleta pesaba menos. Del restaurante caminé con mi maleta, mi impermeable y ganas de conocer la plaza de comercio"
 				},
 				{
 					"title": "",
@@ -521,7 +521,7 @@
 				},
 				{
 					"title": "Nayled",
-					"text": "Gracias por la hospitalidad, gracias por acompañarme.<br><br>Con Nayled comimos una cosa rara llamada Francesiña. Un sandwich de carnes, jamones, huevo y papa que es una combinación de sabores exquisita.<br><br>Ya no estaba solo, aprovechar para salir al \"TOUR DE SHOTS\" recomendado por Nayled"
+					"text": "Gracias por la hospitalidad, gracias por acompañarme.<br><br>Con Nayled comimos una cosa rara llamada Francesiña. Un sandwich de carnes, jamones, huevo y papa que es una combinación de sabores exquisita.<br><br>Ya no estaba solo, aprovechar para salir al \"TOUR DE SHOTS\" recomendado por Nayled.<br>"
 				}
 			]
 		},
@@ -581,6 +581,96 @@
 			]
 		},
 		{
+			"type": "title_view",
+			"content": {
+				"title": "",
+				"subtitles": [
+					"Pero ya acabó Guimaraes. Ahora me tengo que ir",
+					"Esa primera semana fue tropezada",
+					"Me quedan otras 2 semanas...",
+					"Vuelvo a quedar solo..."
+				]
+			}
+		},
+		{
+			"type": "title_view",
+			"content": {
+				"title": "Stop",
+				"subtitles": ["¿Yo que hago aquí?"]
+			},
+			"classes": ["noise-bg", "black-text"]
+		},
+		{
+			"type": "title_view",
+			"content": {
+				"title": "",
+				"subtitles": [
+					"No tengo visa todavía... Me queda poco tiempo",
+					"¿Que pasará con el apartamento en Bogotá si me voy?",
+					"¿Yo que hago viajando solo si igual no me gusta?",
+					"¿Y cuando llegue a quien le cuento?",
+					"Miercoles, ya me aceptaron en Rice, me tengo que ir en agosto...",
+					"Me tengo que ir en agosto...",
+					"No me queda tiempo",
+					"¿Yo que hago aquí? Debería devolverme..."
+				]
+			},
+			"classes": ["noise-bg", "black-text"]
+		},
+		{
+			"type": "title_view",
+			"content": {
+				"title": "",
+				"subtitles": [
+					"<i>Vida antes que muerte</i>",
+					"Ya terminé en un hospital, incomodando a todo el mundo",
+
+					"<i>Fuerza antes que debilidad</i>",
+					"No soy capaz de afrontar la soledad...",
+
+					"<b><i>Viaje antes que destino..</i></b>",
+					"El objetivo era conocer lo mas que se pueda y con ese objetivo, se daña el proceso. No se disfruta",
+					"No tengo que conocer toda Europa en un viaje, lo haré a mi manera, y solo...",
+					"Hay que recortar el viaje. Lo voy a disfrutar..."
+				]
+			}
+		},
+		{
+			"type": "title_view",
+			"content": {
+				"title": "",
+				"subtitles": [
+					"Saliendo de Guimaraes, decidí recortar el viaje. Una semana menos."
+				]
+			}
+		},
+		{
+			"type": "title_view",
+			"content": {
+				"title": "",
+				"subtitles": [
+					"Fue la mejor decisión... Por poder arreglar mis cosas en Bogotá"
+				]
+			}
+		},
+		{
+			"type": "title_view",
+			"content": {
+				"title": "",
+				"subtitles": [
+					"El viaje imposible, se volvió posible",
+					"Desde ese momento el viaje tomó una forma distinta. Yo dije que NO me gustaba viajar solo, y asi como muchas cosas en la vida, hay que ser autodidacta. Estoy en el otro lado del mundo, hay incluso que aprender a disfrutarlo."
+				]
+			}
+		},
+		{
+			"type": "title_view",
+			"content": {
+				"title": "Guimaraes <i class=\"fa fa-bus\" aria-hidden=\"true\"></i> Madrid",
+				"subtitles": ["Un bus internacional, de 10 horas", ""]
+			}
+		},
+		{
 			"type": "nphoto_view",
 			"images": [
 				{
@@ -599,11 +689,11 @@
 			"contents": [
 				{
 					"title": "El \"Eurotour\"",
-					"text": "Hora de cambiar de pais"
+					"text": "De viajar entre paises montado en un bus. Algo que en esta parte del mundo parece imposible.<br>Durante mi visita en Guimaraes pasé por el centro comercial. Guimaraes se puede recorrer enteramente a pie. En eso similar a Paipa, y aún y así, Paipa no tiene un centro comercial como ese. Es relativamente grande, entré buscando 2 items. El primero y mas importante era una lagsaña para comer y el segundo, un libro de Fernando Pessoa.<br><br>Encotré una versión en inglés del \"Book of Disquiet\". Al parecer, una de sus grandes obras. Pessoa escrobe muy raro, y el libro en cierta forma me hizo sentir acompañado."
 				},
 				{
 					"title": "Hora de partir",
-					"text": ""
+					"text": "Un bus amplio, desde Porto hasta Madrid. En la mitad de la nada se detuvo en una gasolinería para ir al baño y comer algo. En la tienda de la gasolinería había un stand con cassettes. Compré uno de recuerdo."
 				}
 			]
 		}
