@@ -115,9 +115,9 @@ class MosaicView {
 			desc.classList.add("PhotoView_img_text");
 			desc.innerHTML = photo_value.description;
 
-			img_wrap.appendChild(img);
 			desc_cont.appendChild(desc);
 			img_wrap.appendChild(desc_cont);
+			img_wrap.appendChild(img);
 			this.container.appendChild(img_wrap);
 		}
 		this.separator.appendChild(this.container);

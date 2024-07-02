@@ -70,7 +70,7 @@ function parse_data(json) {
 	imgs2.forEach((img) => {
 		img.addEventListener("click", function () {
 			console.log("sds");
-			const ch = img.childNodes[0];
+			const ch = img.childNodes[1];
 			fullPage.style.backgroundImage = "url(" + ch.src + ")";
 			fullPage.style.display = "block";
 		});
