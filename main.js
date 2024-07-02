@@ -59,10 +59,19 @@ function parse_data(json) {
 	}
 	const imgs = document.querySelectorAll("img");
 	const fullPage = document.querySelector("#fullpage");
-	console.log(imgs);
 	imgs.forEach((img) => {
 		img.addEventListener("click", function () {
 			fullPage.style.backgroundImage = "url(" + img.src + ")";
+			fullPage.style.display = "block";
+		});
+	});
+
+	const imgs2 = document.querySelectorAll(".PhotoView_img_container");
+	imgs2.forEach((img) => {
+		img.addEventListener("click", function () {
+			console.log("sds");
+			const ch = img.childNodes[0];
+			fullPage.style.backgroundImage = "url(" + ch.src + ")";
 			fullPage.style.display = "block";
 		});
 	});
