@@ -22,3 +22,23 @@ body {
 	left: 16px;
 	text-align: left;
 }
+#fullpage {
+	display: none;
+	position: fixed;
+	z-index: 9999;
+	top: 0;
+	left: 0;
+	width: 100vw;
+	height: 100vh;
+	background-size: contain;
+	background-repeat: no-repeat no-repeat;
+	background-position: center center;
+	background-color: #000000a1;
+}
+.exit_button {
+	position: fixed;
+	top: 35px;
+	right: 50px;
+	scale: 200%;
+	color: white;
+}

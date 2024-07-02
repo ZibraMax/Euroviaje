@@ -14,9 +14,13 @@
 				{ "title": "", "text": "Esta es la historia de mi viaje" },
 				{
 					"title": "",
-					"text": "Algunas partes tienen audio!, no olvides subir el volumen!!"
+					"text": "Puedes hacer click en cualquier foto para ampliar"
 				},
-				{ "title": "", "text": "Desliza para ver las fotos!" }
+				{ "title": "", "text": "Desliza para ver las fotos!" },
+				{
+					"title": "",
+					"text": "PSDT: Es mejor si lo ves en un computador!"
+				}
 			]
 		},
 		{
