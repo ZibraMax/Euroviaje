@@ -253,7 +253,7 @@
 			"contents": [
 				{
 					"title": "Recorrido de primer día",
-					"text": "Sin una nube, empezando el verano, empezé a caminar por las calles de Lisboa. Me quedé en una zona que no es tan turística. Recorrí un buen rato hasta que llegue hasta el congreso. Caminar por esa ciudad es muy bnito. Hay una sensación de seguridad por donde quiera que uno pase. Ese primer día fui a un spermercado y una panadería. Estrenando mi frase insignia mientras estuve en portugal: \"No falo portugues\"..."
+					"text": "Sin una nube, empezando el verano, empezé a caminar por las calles de Lisboa. Me quedé en una zona que no es tan turística. Recorrí un buen rato hasta que llegue hasta el congreso. Caminar por esa ciudad es muy bnito. Hay una sensación de seguridad por donde quiera que uno pase. Ese primer día fui a un spermercado y una panadería. Estrenando mi frase insignia mientras estuve en portugal: \"Nao falo portugues\"..."
 				},
 				{
 					"title": "Llegada al congreso",
@@ -266,10 +266,10 @@
 			"content": {
 				"title": "Al día siguiente...",
 				"subtitles": [
-					"Me siento cansado, iré al congreso y me tomaré un café",
-					"Ya casi presento, sentemonos un rato... Me siento algo mareado",
-					"Siento que los hombros se me caen...",
-					"Hola, nao falo portugues, ¿Donde esta la enfermería?"
+					"\"Me siento cansado, iré al congreso y me tomaré un café\"",
+					"\"Ya casi presento, sentemonos un rato... Me siento algo mareado\"",
+					"\"Siento que los hombros se me caen...\"",
+					"\"Hola, nao falo portugues, ¿Donde esta la enfermería?\""
 				]
 			}
 		},
@@ -313,7 +313,6 @@
 				"subtitles": [
 					"Me ayudó una persona que hablaba español. Se llama Isabel y es de cali. Gracias",
 					"Me dieron una bolsa para respirar. Yo metí en la bolsa mi pasaporte, celular y billetera. Por si me desmayaba",
-					"Hablando por telefono con Nayled",
 					"Me atendieron, me dieron dos medicinas y a los 5 minutos me dormí..."
 				]
 			}
@@ -609,14 +608,8 @@
 			"content": {
 				"title": "",
 				"subtitles": [
-					"No tengo visa todavía... Me queda poco tiempo",
-					"¿Que pasará con el apartamento en Bogotá si me voy?",
-					"¿Yo que hago viajando solo si igual no me gusta?",
-					"¿Y cuando llegue a quien le cuento?",
-					"Miercoles, ya me aceptaron en Rice, me tengo que ir en agosto...",
-					"Me tengo que ir en agosto...",
-					"No me queda tiempo",
-					"¿Yo que hago aquí? Debería devolverme..."
+					"No tengo visa todavía... Me queda poco tiempo<br>¿Que pasará con el apartamento en Bogotá si me voy?<br>¿Yo que hago viajando solo si igual no me gusta?",
+					"Miercoles, ya me aceptaron en Rice, me tengo que ir en agosto...<br>No me queda tiempo<br>¿Yo que hago aquí? Debería devolverme..."
 				]
 			},
 			"classes": ["noise-bg", "black-text"]
@@ -626,16 +619,11 @@
 			"content": {
 				"title": "",
 				"subtitles": [
-					"<i>Vida antes que muerte</i>",
-					"Ya terminé en un hospital, incomodando a todo el mundo",
+					"<i>Vida antes que muerte</i><br>\"Ya terminé en un hospital, asustando a todo el mundo\"",
 
-					"<i>Fuerza antes que debilidad</i>",
-					"No soy capaz de afrontar la soledad...",
+					"<i>Fuerza antes que debilidad</i><br>\"No soy capaz de afrontar la soledad...\"",
 
-					"<b><i>Viaje antes que destino..</i></b>",
-					"El objetivo era conocer lo mas que se pueda y con ese objetivo, se daña el proceso. No se disfruta",
-					"No tengo que conocer toda Europa en un viaje, lo haré a mi manera, y solo...",
-					"Hay que recortar el viaje. Lo voy a disfrutar..."
+					"<b><i>Viaje antes que destino..</i></b><br>El objetivo era conocer lo mas que se pueda y con ese objetivo, se daña el proceso. No se disfruta<br>\"No tengo que conocer toda Europa en un viaje, lo haré a mi manera, y solo...<br>Hay que recortar el viaje. Lo voy a disfrutar...\""
 				]
 			}
 		},
