@@ -105,6 +105,18 @@
 	width: 45%;
 	animation-name: none;
 }
+.PhotoView_separator {
+	animation-name: none;
+}
+.PhotoView_title {
+	animation-name: none;
+}
+.PhotoView_title_header {
+	animation-name: none;
+}
+.PhotoView_title_subtitle {
+	animation-name: none;
+}
 
 .PhotoView_title_header {
 	animation-name: none;
