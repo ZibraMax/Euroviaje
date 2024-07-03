@@ -966,6 +966,32 @@
 					"Población: 2873000 habitantes"
 				]
 			}
+		},
+		{
+			"type": "nphoto_view",
+			"images": [
+				{
+					"src": "./resources/images/trenybirra.jpg",
+					"camera": "Vivitar 3000",
+					"location": "Roma, Italia",
+					"color": "white"
+				},
+				{
+					"src": "./resources/images/trenybirra.jpg",
+					"camera": "Vivitar 3000",
+					"location": "Roma, Italia"
+				}
+			],
+			"contents": [
+				{
+					"title": "",
+					"text": "Dummy"
+				},
+				{
+					"title": "",
+					"text": "Dummy"
+				}
+			]
 		}
 	]
 }
