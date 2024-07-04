@@ -19,7 +19,7 @@
 				{ "title": "", "text": "Desliza para ver las fotos!" },
 				{
 					"title": "",
-					"text": "PSDT: Es mejor si lo ves en un computador!"
+					"text": "Se puede ver en celular o computador, yo prefiero verlo en un computador!"
 				}
 			]
 		},
@@ -919,8 +919,8 @@
 					"description": "Tapa"
 				},
 				{
-					"src": "./resources/images/madrid_m7.jpg",
-					"description": "Don Quijote"
+					"src": "./resources/images/madrid_m7.jpeg",
+					"description": "Tinto de verano y pluma. En el parque del retiro comenzé a diagramar esta página"
 				}
 			]
 		},
@@ -935,13 +935,13 @@
 			"type": "nphoto_view",
 			"images": [
 				{
-					"src": "./resources/images/trenybirra.jpg",
+					"src": "./resources/images/Italia/trenybirra.jpg",
 					"camera": "Mi celular",
 					"location": "Fuimicino, Italia",
 					"color": "white"
 				},
 				{
-					"src": "./resources/images/pizzacuadrada.jpg",
+					"src": "./resources/images/Italia/tarjeta_metro_roma.jpg",
 					"camera": "Mi celular",
 					"location": "Roma, Italia"
 				}
@@ -971,14 +971,14 @@
 			"type": "nphoto_view",
 			"images": [
 				{
-					"src": "./resources/images/trenybirra.jpg",
-					"camera": "Vivitar 3000",
+					"src": "./resources/images/Italia/pizzacuadrada.jpg",
+					"camera": "Mi celular",
 					"location": "Roma, Italia",
-					"color": "white"
+					"color": "black"
 				},
 				{
-					"src": "./resources/images/trenybirra.jpg",
-					"camera": "Vivitar 3000",
+					"src": "./resources/images/Italia/vista_hostal.jpg",
+					"camera": "Mi celular",
 					"location": "Roma, Italia"
 				}
 			],
@@ -990,6 +990,792 @@
 				{
 					"title": "",
 					"text": "Dummy"
+				}
+			]
+		},
+		{
+			"type": "title_view",
+			"content": {
+				"title": "El viaje de mi madre",
+				"subtitles": [
+					"No soy muy religioso, pero quería ir al vaticano<br>Afortunadamente quedaba \"cerca\" al hostal.",
+					"Despues de una EXTENSA fila pude entrar, en el momento en que estaba pasando por la puerta, recibí este audio",
+					"<audio controls controlsList=\"nodownload\"><source src=\"./resources/images/Italia/audiovaticano.mp3\" type=\"audio/mpeg\"></audio>",
+					"Este no era solamente mi viaje...",
+					"<h6>Sigue mirando las fotos mientras el audio suena, el audio sigue reproduciendose</h6>"
+				]
+			}
+		},
+		{
+			"type": "mosaic_view",
+			"imgs": [
+				{
+					"src": "./resources/images/Italia/vaticano1.jpg",
+					"description": "Basílica de San Pedro"
+				},
+				{
+					"src": "./resources/images/Italia/vaticano2.jpg",
+					"description": "Columnata"
+				},
+				{
+					"src": "./resources/images/Italia/vaticano3.jpg",
+					"description": "Solar importante para mi, historia larga y poco tiempo"
+				},
+				{
+					"src": "./resources/images/Italia/vaticano4.jpg",
+					"description": "Entrada de la plaza del vaticano. En esta foto hay dos paises al tiempo"
+				}
+			]
+		},
+		{
+			"type": "photo_view",
+			"img_src": "./resources/images/Italia/vaticano5.jpg",
+			"camera": "Mi celular",
+			"color": "white",
+			"location": "Ciudad del Vaticano",
+			"contents": [
+				{ "title": "La basílica", "text": "" },
+				{ "title": "El arte, las esculturas y religión", "text": "" }
+			]
+		},
+		{
+			"type": "title_view",
+			"content": {
+				"title": "El inicio de la caminata",
+				"subtitles": [
+					"Mi idea era llegar al coliseo viendo las atracciones turísticas",
+					"Del vaticano al coliseo hay MUCHA distancia, hay que caminar...",
+					"Así que primero a tomar fuerzas comiendo algo"
+				]
+			}
+		},
+		{
+			"type": "nphoto_view",
+			"images": [
+				{
+					"src": "./resources/images/Italia/pasta.jpg",
+					"camera": "Mi celular",
+					"location": "Roma, Italia",
+					"color": "white"
+				},
+				{
+					"src": "./resources/images/Italia/angelo.jpg",
+					"camera": "Vivitar 3000",
+					"location": "Roma, Italia",
+					"color": "white"
+				}
+			],
+			"contents": [
+				{
+					"title": "Almuerzo en Roma",
+					"text": "Dummy"
+				},
+				{
+					"title": "Vistas estupidamente bonitas!",
+					"text": "Dummy"
+				}
+			]
+		},
+		{
+			"type": "title_view",
+			"content": {
+				"title": "",
+				"subtitles": []
+			},
+			"classes": ["paloma-bg"]
+		},
+		{
+			"type": "mosaic_view",
+			"imgs": [
+				{
+					"src": "./resources/images/Italia/calles1.jpg",
+					"description": "Calles de Roma"
+				},
+				{
+					"src": "./resources/images/Italia/calles2.jpg",
+					"description": "Calles de Roma"
+				}
+			]
+		},
+		{
+			"type": "nphoto_view",
+			"images": [
+				{
+					"src": "./resources/images/Italia/calles3.jpg",
+					"camera": "Vivitar 3000",
+					"location": "Roma, Italia",
+					"color": "white"
+				},
+				{
+					"src": "./resources/images/Italia/palaneo.jpg",
+					"camera": "Mi celular",
+					"location": "Roma, Italia",
+					"color": "white"
+				}
+			],
+			"contents": [
+				{
+					"title": "El primer destino",
+					"text": ""
+				},
+				{
+					"title": "El libro de sociales",
+					"text": ""
+				}
+			]
+		},
+		{
+			"type": "title_view",
+			"content": {
+				"title": "",
+				"subtitles": []
+			},
+			"classes": ["black-bg"]
+		},
+		{
+			"type": "nphoto_view",
+			"images": [
+				{
+					"src": "./resources/images/Italia/palaneo2.jpg",
+					"camera": "Mi celular",
+					"location": "Roma, Italia",
+					"color": "white"
+				},
+				{
+					"src": "./resources/images/Italia/bialeti.jpg",
+					"camera": "Vivitar 3000",
+					"location": "Roma, Italia",
+					"color": "white"
+				}
+			],
+			"contents": [
+				{
+					"title": "La famosa bóveda",
+					"text": ""
+				},
+				{
+					"title": "Tienda bialeti",
+					"text": ""
+				}
+			]
+		},
+		{
+			"type": "nphoto_view",
+			"images": [
+				{
+					"src": "./resources/images/Italia/trevi.jpg",
+					"camera": "Vivitar 3000",
+					"location": "Roma, Italia",
+					"color": "white"
+				},
+				{
+					"src": "./resources/images/Italia/trevideo.mp4",
+					"camera": "",
+					"location": "",
+					"color": "white"
+				}
+			],
+			"contents": [
+				{
+					"title": "El balneario de trevi y Le Luthiers",
+					"text": ""
+				},
+				{
+					"title": "El agua que ha visto mil vidas",
+					"text": ""
+				}
+			]
+		},
+		{
+			"type": "nphoto_view",
+			"images": [
+				{
+					"src": "./resources/images/Italia/delman.jpg",
+					"camera": "Vivitar 3000",
+					"location": "Roma, Italia",
+					"color": "white"
+				},
+				{
+					"src": "./resources/images/Italia/vistas.jpg",
+					"camera": "Vivitar 3000",
+					"location": "Roma, Italia",
+					"color": "white"
+				}
+			],
+			"contents": [
+				{
+					"title": "El man que unificó Italia",
+					"text": ""
+				},
+				{
+					"title": "Las extrañas vistas del cercano destino",
+					"text": ""
+				}
+			]
+		},
+		{
+			"type": "nphoto_view",
+			"images": [
+				{
+					"src": "./resources/images/Italia/foro.jpg",
+					"camera": "Mi celular",
+					"location": "Roma, Italia",
+					"color": "white"
+				},
+				{
+					"src": "./resources/images/Italia/awa.jpg",
+					"camera": "Vivitar 3000",
+					"location": "Roma, Italia",
+					"color": "white"
+				}
+			],
+			"contents": [
+				{
+					"title": "El foro romano",
+					"text": ""
+				},
+				{
+					"title": "El agua",
+					"text": ""
+				}
+			]
+		},
+		{
+			"type": "photo_view",
+			"img_src": "./resources/images/Italia/coliseo1.jpg",
+			"camera": "Vivitar 3000",
+			"color": "white",
+			"location": "Roma, Italia",
+			"contents": [
+				{ "title": "La foto que venía a tomar", "text": "" },
+				{ "title": "Los 18.8 euros", "text": "" }
+			]
+		},
+		{
+			"type": "mosaic_view",
+			"imgs": [
+				{
+					"src": "./resources/images/Italia/coliseo2.jpg",
+					"description": "Tribuna Norte"
+				},
+				{
+					"src": "./resources/images/Italia/coliseo3.jpg",
+					"description": "Grama del estadio"
+				},
+				{
+					"src": "./resources/images/Italia/coliseo4.jpg",
+					"description": "Tribuna oriental"
+				},
+				{
+					"src": "./resources/images/Italia/coliseo5.jpg",
+					"description": "Arco que esta afuera del coliseo"
+				}
+			]
+		},
+		{
+			"type": "nphoto_view",
+			"images": [
+				{
+					"src": "./resources/images/Italia/barato.jpg",
+					"camera": "Mi celular",
+					"location": "Roma, Italia",
+					"color": "white"
+				},
+				{
+					"src": "./resources/images/Italia/seacabaroma.jpg",
+					"camera": "Mi celular",
+					"location": "Roma, Italia",
+					"color": "white"
+				}
+			],
+			"contents": [
+				{
+					"title": "¿Que es mas valioso?",
+					"text": "<i>¿El queso o el vino?</i><br>EL QUESO. En los paises que visité el vino es EXAGERADAMENTE barato. Esa botella costó 1.35 euros. Que buena vida se dan...<br><br><i>¿Una moka Bialetti o 4 rollos de 35mm?</i><br>Los rollos, no porque tangan mayor precio monetario, sino porque en Roma se acabaron, tome las 144 fotos de los 4 rollos que llevé. Son mas valiosos porque ahora llevan mis recuerdos"
+				},
+				{
+					"title": "Todos los caminos llevan a Roma*",
+					"text": "*En realidad el tren Leonardo Express lleva a roma desde el aeropuerto de Fuimicino. Y tengo que ir al aeropuerto temprano... Ahora por fin, voy para Londres"
+				}
+			]
+		},
+		{
+			"type": "title_view",
+			"content": {
+				"title": "Roma <i class=\"fa fa-plane\" aria-hidden=\"true\"></i> Londres",
+				"subtitles": ["Tomé 1 metro, 2 trenes, un bus y un avión"]
+			}
+		},
+		{
+			"type": "nphoto_view",
+			"images": [
+				{
+					"src": "./resources/images/UK/llegada.jpg",
+					"camera": "Mi celular",
+					"location": "En el aire",
+					"color": "white"
+				},
+				{
+					"src": "./resources/images/UK/tren.mp4",
+					"camera": "Mi celular",
+					"location": "Gatwick, UK"
+				}
+			],
+			"contents": [
+				{
+					"title": "Seguir contando la historia",
+					"text": "dsa"
+				},
+				{
+					"title": "Los trenes y el avion",
+					"text": "das"
+				}
+			]
+		},
+		{
+			"type": "title_view",
+			"content": {
+				"title": "Londres",
+				"subtitles": [
+					"14/6/24 16/6/24",
+					"Población: 8982000 habitantes"
+				]
+			}
+		},
+		{
+			"type": "nphoto_view",
+			"images": [
+				{
+					"src": "./resources/images/UK/buckin1.jpg",
+					"camera": "Mi celular",
+					"location": "Londres, UK",
+					"color": "white"
+				},
+				{
+					"src": "./resources/images/UK/nuck2.jpg",
+					"camera": "Mi celular",
+					"location": "Londres, UK",
+					"color": "white"
+				}
+			],
+			"contents": [
+				{
+					"title": "",
+					"text": ""
+				},
+				{
+					"title": "",
+					"text": ""
+				}
+			]
+		},
+		{
+			"type": "nphoto_view",
+			"images": [
+				{
+					"src": "./resources/images/UK/parque.jpg",
+					"camera": "Mi celular",
+					"location": "Londres, UK",
+					"color": "white"
+				},
+				{
+					"src": "./resources/images/UK/parque2.jpg",
+					"camera": "Mi celular",
+					"location": "Londres, UK",
+					"color": "white"
+				}
+			],
+			"contents": [
+				{
+					"title": "",
+					"text": ""
+				},
+				{
+					"title": "",
+					"text": ""
+				}
+			]
+		},
+		{
+			"type": "nphoto_view",
+			"images": [
+				{
+					"src": "./resources/images/UK/telefonoground.jpg",
+					"camera": "Mi celular",
+					"location": "Londres, UK",
+					"color": "white"
+				},
+				{
+					"src": "./resources/images/UK/brandon.jpg",
+					"camera": "Mi celular",
+					"location": "Londres, UK",
+					"color": "white"
+				}
+			],
+			"contents": [
+				{
+					"title": "",
+					"text": ""
+				},
+				{
+					"title": "",
+					"text": ""
+				}
+			]
+		},
+		{
+			"type": "nphoto_view",
+			"images": [
+				{
+					"src": "./resources/images/UK/westminsterabbey.jpg",
+					"camera": "Mi celular",
+					"location": "Londres, UK",
+					"color": "white"
+				},
+				{
+					"src": "./resources/images/UK/parlamento.jpg",
+					"camera": "Mi celular",
+					"location": "Londres, UK",
+					"color": "white"
+				}
+			],
+			"contents": [
+				{
+					"title": "",
+					"text": ""
+				},
+				{
+					"title": "",
+					"text": ""
+				}
+			]
+		},
+		{
+			"type": "nphoto_view",
+			"images": [
+				{
+					"src": "./resources/images/UK/bigben.jpg",
+					"camera": "Mi celular",
+					"location": "Londres, UK",
+					"color": "white"
+				},
+				{
+					"src": "./resources/images/UK/market.jpg",
+					"camera": "Mi celular",
+					"location": "Londres, UK",
+					"color": "white"
+				}
+			],
+			"contents": [
+				{
+					"title": "",
+					"text": ""
+				},
+				{
+					"title": "",
+					"text": ""
+				}
+			]
+		},
+		{
+			"type": "mosaic_view",
+			"imgs": [
+				{
+					"src": "./resources/images/UK/eye.jpg",
+					"description": "London Eye"
+				},
+				{
+					"src": "./resources/images/UK/parlamento2.jpg",
+					"description": "Parlamento"
+				},
+				{
+					"src": "./resources/images/UK/londonmoderno.jpg",
+					"description": "Londres moderno"
+				},
+				{
+					"src": "./resources/images/UK/famoso.jpg",
+					"description": "Edificio famoso que recuerdo de algun video de arquitectura"
+				}
+			]
+		},
+		{
+			"type": "nphoto_view",
+			"images": [
+				{
+					"src": "./resources/images/UK/bridge.jpg",
+					"camera": "Mi celular",
+					"location": "Londres, UK",
+					"color": "white"
+				},
+				{
+					"src": "./resources/images/UK/bd.jpg",
+					"camera": "Mi celular",
+					"location": "Londres, UK",
+					"color": "white"
+				}
+			],
+			"contents": [
+				{
+					"title": "",
+					"text": ""
+				},
+				{
+					"title": "",
+					"text": ""
+				}
+			]
+		},
+		{
+			"type": "nphoto_view",
+			"images": [
+				{
+					"src": "./resources/images/UK/tower.jpg",
+					"camera": "Mi celular",
+					"location": "Londres, UK",
+					"color": "white"
+				},
+				{
+					"src": "./resources/images/UK/tower2.jpg",
+					"camera": "Mi celular",
+					"location": "Londres, UK",
+					"color": "white"
+				}
+			],
+			"contents": [
+				{
+					"title": "",
+					"text": ""
+				},
+				{
+					"title": "",
+					"text": ""
+				}
+			]
+		},
+		{
+			"type": "nphoto_view",
+			"images": [
+				{
+					"src": "./resources/images/UK/tower3.jpg",
+					"camera": "Mi celular",
+					"location": "Londres, UK",
+					"color": "white"
+				},
+				{
+					"src": "./resources/images/UK/tower4.jpg",
+					"camera": "Mi celular",
+					"location": "Londres, UK",
+					"color": "white"
+				}
+			],
+			"contents": [
+				{
+					"title": "",
+					"text": ""
+				},
+				{
+					"title": "",
+					"text": ""
+				}
+			]
+		},
+		{
+			"type": "title_view",
+			"content": {
+				"title": "La caminata larga ha terminado",
+				"subtitles": [
+					"Saliendo de la torre, decidí que era momento de volver.",
+					"Pero faltaba algo...",
+					"<audio controls controlsList=\"nodownload\"><source src=\"./resources/images/UK/lib.m4a\" type=\"audio/mpeg\"></audio>",
+					"Reprodicir y seguir viendo fotos, es mi propia version sin copyright..."
+				]
+			}
+		},
+		{
+			"type": "photo_view",
+			"img_src": "./resources/images/UK/abbroad.mp4",
+			"camera": "",
+			"location": "",
+			"contents": [{ "title": "The Beatles", "text": "" }]
+		},
+		{
+			"type": "nphoto_view",
+			"images": [
+				{
+					"src": "./resources/images/UK/abbey.jpg",
+					"camera": "Mi celular",
+					"location": "Londres, UK",
+					"color": "white"
+				},
+				{
+					"src": "./resources/images/UK/ABBEY2.jpg",
+					"camera": "Mi celular",
+					"location": "Londres, UK",
+					"color": "white"
+				}
+			],
+			"contents": [
+				{
+					"title": "",
+					"text": ""
+				},
+				{
+					"title": "",
+					"text": ""
+				}
+			]
+		},
+		{
+			"type": "title_view",
+			"content": {
+				"title": "El viaje terminó",
+				"subtitles": [
+					"Al día siguiente era mi vuelo, era a las 10:00pm",
+					"Así que tomé un pequeño encime..."
+				]
+			}
+		},
+		{
+			"type": "nphoto_view",
+			"images": [
+				{
+					"src": "./resources/images/UK/gf.jpg",
+					"camera": "Mi celular",
+					"location": "Guildford, UK",
+					"color": "white"
+				},
+				{
+					"src": "./resources/images/UK/gf2.jpg",
+					"camera": "Mi celular",
+					"location": "Guildford, UK",
+					"color": "white"
+				}
+			],
+			"contents": [
+				{
+					"title": "",
+					"text": ""
+				},
+				{
+					"title": "",
+					"text": ""
+				}
+			]
+		},
+		{
+			"type": "title_view",
+			"content": {
+				"title": "",
+				"subtitles": [
+					"Llegué con mi maleta, mi tula, mi almohada y una bolsa al otro aeropuerto de Londes",
+					"Me hicieron tirar a la basrua un par de frascos",
+					"En la sala de espera, vi sombreros vueltiaos, personas comiendo almojabana con queso y muchos pasasportes cafés con dorado que en la parte superior decían: Republica de Colombia",
+					"Hora de volver a casa..."
+				]
+			}
+		},
+		{
+			"type": "title_view",
+			"content": {
+				"title": "Bogotá",
+				"subtitles": ["17/6/24 - ??/08/24"]
+			}
+		},
+		{
+			"type": "title_view",
+			"content": {
+				"title": "",
+				"subtitles": ["Población: 8034649 habitantes"]
+			}
+		},
+		{
+			"type": "photo_view",
+			"img_src": "./resources/images/Colombia/monserrate.jpg",
+			"camera": "Mi celular",
+			"location": "Bogotá, Colombia",
+			"contents": [
+				{
+					"title": "El viaje imposible",
+					"text": "Si estas viendo esta página es porque recibiste una postal!"
+				}
+			]
+		},
+		{
+			"type": "nphoto_view",
+			"images": [
+				{
+					"src": "./resources/images/Colombia/fotos.jpg",
+					"camera": "Mi celular",
+					"location": "Bogotá, Colombia",
+					"color": "white"
+				},
+				{
+					"src": "./resources/images/Colombia/terjetas.jpg",
+					"camera": "Mi celular",
+					"location": "Bogotá, Colombia",
+					"color": "white"
+				}
+			],
+			"contents": [
+				{
+					"title": "",
+					"text": ""
+				},
+				{
+					"title": "",
+					"text": ""
+				}
+			]
+		},
+		{
+			"type": "title_view",
+			"content": {
+				"title": "Ultimo audio, lo prometo",
+				"subtitles": [
+					"<audio controls controlsList=\"nodownload\"><source src=\"./resources/images/Colombia/libs.mp3\" type=\"audio/mpeg\"></audio>",
+					"Como en los otros, dejalo sonar mientras pasas las fotos"
+				]
+			}
+		},
+		{
+			"type": "title_view",
+			"content": {
+				"title": "FIN...",
+				"subtitles": [""]
+			},
+			"classes": ["kiti-bg", "no-line-text"]
+		},
+		{
+			"type": "title_view",
+			"content": {
+				"title": "Gracias!",
+				"subtitles": [
+					"Al final, esta página no quedo nada cortica, hay un montón de cosas que no salieron",
+					"Fue un intento de hacer algo distinto con las fotos del viaje, fue algo que me ayudó muchísimo",
+					"Gracias a todos los que me pensaron antes durante o despues del viaje. En especial a:",
+					"Mi madre, mi Nonita, mi padre, FRR, Danna, JCM, Temporal 🧀, PG, SM, Iberia, Vueling, Avianca y Kiti",
+					"Y por supuesto, les agradezco su hospitalidad a Nayled, Johan, Mónica y Carmen. Muchas muchas muchas muchas gracias",
+					"Al final, en el viaje donde viajaba solo, siempre estuve acompañado por todos ustedes..."
+				]
+			}
+		},
+		{
+			"type": "title_view",
+			"content": {
+				"title": "Gracias!",
+				"subtitles": []
+			}
+		},
+		{
+			"type": "photo_view",
+			"img_src": "./resources/images/Colombia/lisbo.jpeg",
+			"camera": "",
+			"location": "",
+			"contents": [
+				{ "title": "", "text": "Estoy seguro que volveré<br>" },
+				{
+					"title": "",
+					"text": "Y esta vez, sin pasar por el **** hospital..."
 				}
 			]
 		}

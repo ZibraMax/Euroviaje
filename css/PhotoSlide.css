@@ -92,6 +92,7 @@
 }
 .PhotoView_img {
 	width: 100%;
+	max-height: 800px;
 	border-radius: var(--border-radius);
 }
 .PhotoView_img2 {
@@ -122,6 +123,10 @@
 	animation-name: none;
 }
 .PhotoView_title_header {
+	animation-name: none;
+}
+
+h6 {
 	animation-name: none;
 }
 
@@ -288,4 +293,28 @@ hr {
 }
 .black-text {
 	color: black;
+}
+.black-bg {
+	background: url("../resources/images/Italia/hoyo.jpg");
+	animation-name: none;
+	background-size: contain;
+	background-repeat: no-repeat no-repeat;
+	background-position: center center;
+}
+.paloma-bg {
+	background: url("../resources/images/Italia/paloma.jpg");
+	animation-name: none;
+	background-size: contain;
+	background-repeat: no-repeat no-repeat;
+	background-position: center center;
+}
+.kiti-bg {
+	background: url("../resources/images/Colombia/kiti.jpg");
+	animation-name: none;
+	background-size: contain;
+	background-repeat: no-repeat no-repeat;
+	background-position: center center;
+}
+.no-line-text {
+	border-bottom: 0px !important;
 }

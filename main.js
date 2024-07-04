@@ -69,9 +69,39 @@ function parse_data(json) {
 	const imgs2 = document.querySelectorAll(".PhotoView_img_container");
 	imgs2.forEach((img) => {
 		img.addEventListener("click", function () {
-			const ch = img.childNodes[1];
-			fullPage.style.backgroundImage = "url(" + ch.src + ")";
-			fullPage.style.display = "block";
+			if (!img.innerHTML.includes(".mp4")) {
+				const ch = img.childNodes[1];
+				fullPage.style.backgroundImage = "url(" + ch.src + ")";
+				fullPage.style.display = "block";
+			}
 		});
 	});
+	const vids = document.querySelectorAll("video");
+	vids.forEach((div) => {
+		div.addEventListener("click", function () {
+			if (div.requestFullscreen) div.requestFullscreen();
+			else if (div.webkitRequestFullscreen) div.webkitRequestFullscreen();
+			else if (div.msRequestFullScreen) div.msRequestFullScreen();
+			div.muted = false;
+		});
+	});
+}
+if (document.addEventListener) {
+	document.addEventListener("fullscreenchange", exitHandler, false);
+	document.addEventListener("mozfullscreenchange", exitHandler, false);
+	document.addEventListener("MSFullscreenChange", exitHandler, false);
+	document.addEventListener("webkitfullscreenchange", exitHandler, false);
+}
+
+function exitHandler() {
+	if (
+		!document.webkitIsFullScreen &&
+		!document.mozFullScreen &&
+		!document.msFullscreenElement
+	) {
+		const vids = document.querySelectorAll("video");
+		vids.forEach((vid) => {
+			vid.muted = true;
+		});
+	}
 }

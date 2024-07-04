@@ -6,9 +6,24 @@ class PhotoView {
 		this.separator.classList.add("PhotoView_separator2");
 		this.container = document.createElement("div");
 		this.container.classList.add("PhotoView_container");
-		this.img = document.createElement("img");
+		var img;
+		if (img_src.includes(".mp4")) {
+			img = document.createElement("video");
+			img.autoplay = true;
+			img.loop = true;
+			img.muted = true;
+			const source = document.createElement("source");
+			source.src = img_src;
+			source.type = "video/mp4";
+			img.appendChild(source);
+		} else {
+			img = document.createElement("img");
+			img.src = img_src;
+		}
+
+		this.img = img;
 		this.img.classList.add("PhotoView_img");
-		this.img.src = this.img_src;
+
 		if (content.main.type == "text") {
 			this.content = document.createElement("p");
 			this.content.classList.add("PhotoView_content");
@@ -60,7 +75,16 @@ class TitleView {
 		this.title = document.createElement("h1");
 		this.title.classList.add("PhotoView_title_header");
 		this.title.innerHTML = title;
-		this.container.appendChild(this.title);
+		if (title) {
+			this.container.appendChild(this.title);
+		}
+		if (classes) {
+			for (const ss of classes) {
+				if (ss.includes("text")) {
+					this.title.classList.add(ss);
+				}
+			}
+		}
 		for (const subtitle_value of subtitles) {
 			const subtitle = document.createElement("h3");
 			subtitle.classList.add("PhotoView_title_subtitle");
@@ -137,9 +161,21 @@ class NPhotoView {
 
 			const container = document.createElement("div");
 			container.classList.add("PhotoView_container2");
-			const img = document.createElement("img");
+			var img;
+			if (image.src.includes(".mp4")) {
+				img = document.createElement("video");
+				img.autoplay = true;
+				img.loop = true;
+				img.muted = true;
+				const source = document.createElement("source");
+				source.src = image.src;
+				source.type = "video/mp4";
+				img.appendChild(source);
+			} else {
+				img = document.createElement("img");
+				img.src = image.src;
+			}
 			img.classList.add("PhotoView_img2");
-			img.src = image.src;
 
 			const footer_left = document.createElement("div");
 			const footer_right = document.createElement("div");
