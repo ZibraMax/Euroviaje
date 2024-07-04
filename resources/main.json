@@ -14,12 +14,15 @@
 				{ "title": "", "text": "Esta es la historia de mi viaje" },
 				{
 					"title": "",
-					"text": "Puedes hacer click en cualquier foto para ampliar"
+					"text": "Puedes hacer click en cualquier foto para ampliarla"
 				},
-				{ "title": "", "text": "Desliza para ver las fotos!" },
 				{
 					"title": "",
-					"text": "Se puede ver en celular o computador, yo prefiero verlo en un computador!"
+					"text": "Desliza para ver las fotos! Cuando veas el botón <i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i> pulsalo para escuchar los audios. Recuerda subir el volumen!"
+				},
+				{
+					"title": "",
+					"text": "Se puede ver en celular o computador. Yo prefiero verlo en un computador!"
 				}
 			]
 		},
@@ -54,11 +57,11 @@
 			"contents": [
 				{
 					"title": "Trabajo y universidad",
-					"text": "Despues de 7 años, se convirtió en una segunda casa...<br><br>En febrero mandamos el abstract para un congreso<br>El congreso era en Lisboa<br>Era la excusa perfecta para estrenar el pasaporte, apenas tenia 2 meses de emitido<br>Para conocer nuevo mundo, nuevas experiencias. Una oportunidad que no todo el mundo tiene"
+					"text": "Despues de 7 años, se convirtió en una segunda casa...<br><br>En febrero mandamos el abstract para un congreso<br>El congreso era en Lisboa<br>Era la excusa perfecta para estrenar el pasaporte, apenas tenia 2 meses de emitido<br>Para conocer nuevo mundo, nuevas experiencias. Una oportunidad que no todo el mundo tiene<br><br>El congreso duraba una semana y decidí tomar dos semanas despues del congreso para conocer mas países. El viaje empezaría el 1 de junio y terminaría el 23 de junio. Eran 3 semanas en total"
 				},
 				{
 					"title": "Ph.D. en Rice",
-					"text": "Entre todas las cosas pendientes salió una oportunidad. Dos semanas antes me presenté en Rice para hacer el PhD en Estados Unidos.<br>Fue una aplicación extracurricular. Se empieza en agosto de este año y las admisiones habían terminado hace tiempo. Fue de un momento a otro... <br><br>Y pues funcionó... Me admitieron..."
+					"text": "Entre todas las cosas pendientes salió una oportunidad. Dos semanas antes me presenté en Rice para hacer el PhD en Estados Unidos<br>Fue una aplicación extracurricular. Se empieza en agosto de este año y las admisiones habían terminado hace tiempo. Fue de un momento a otro... <br><br>Y pues funcionó... Me admitieron..."
 				}
 			]
 		},
@@ -89,7 +92,7 @@
 				},
 				{
 					"title": "ML 126",
-					"text": "Ya han sido una buena cantidad de años en esta sala. La oficina o el hueco. La habitacion de checheres<br><br>En esa sala he conocido a gente grandiosa. He visto pasar a muchos estudiantes, que se convirtieron en amigos.<br>La sensación ha sido de ver pasar a la gente, porque al fin y al cabo, el computador 14 desde pandemia ha sido ocupado por la misma persona"
+					"text": "Ya han sido una buena cantidad de años en esta sala. La oficina o el hueco. La habitacion de checheres<br><br>En esa sala he conocido a gente grandiosa. He visto pasar a muchos estudiantes, que se convirtieron en amigos<br>La sensación ha sido de ver pasar a la gente, porque al fin y al cabo, el computador 14 desde pandemia ha sido ocupado por la misma persona"
 				}
 			]
 		},
@@ -1000,7 +1003,7 @@
 				"subtitles": [
 					"No soy muy religioso, pero quería ir al vaticano<br>Afortunadamente quedaba \"cerca\" al hostal.",
 					"Despues de una EXTENSA fila pude entrar, en el momento en que estaba pasando por la puerta, recibí este audio",
-					"<audio controls controlsList=\"nodownload\"><source src=\"./resources/images/Italia/audiovaticano.mp3\" type=\"audio/mpeg\"></audio>",
+					"<a class=\"player\" onclick=\"this.firstChild.play()\"><audio controlsList=\"nodownload\"><source src=\"./resources/images/Italia/audiovaticano.mp3\" type=\"audio/mpeg\"></audio><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></a>",
 					"Este no era solamente mi viaje...",
 					"<h6>Sigue mirando las fotos mientras el audio suena, el audio sigue reproduciendose</h6>"
 				]
@@ -1586,7 +1589,7 @@
 				"subtitles": [
 					"Saliendo de la torre, decidí que era momento de volver.",
 					"Pero faltaba algo...",
-					"<audio controls controlsList=\"nodownload\"><source src=\"./resources/images/UK/lib.m4a\" type=\"audio/mpeg\"></audio>",
+					"<a class=\"player\" onclick=\"this.firstChild.play()\"><audio controlsList=\"nodownload\"><source src=\"./resources/images/UK/lib.m4a\" type=\"audio/mpeg\"></audio></audio><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></a>",
 					"Reprodicir y seguir viendo fotos, es mi propia version sin copyright..."
 				]
 			}
@@ -1732,7 +1735,8 @@
 			"content": {
 				"title": "Ultimo audio, lo prometo",
 				"subtitles": [
-					"<audio controls controlsList=\"nodownload\"><source src=\"./resources/images/Colombia/libs.mp3\" type=\"audio/mpeg\"></audio>",
+					"<a class=\"player\" onclick=\"this.firstChild.play()\"><audio controlsList=\"nodownload\"><source src=\"./resources/images/Colombia/libs.mp3\" type=\"audio/mpeg\"></audio></audio><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></a>",
+
 					"Como en los otros, dejalo sonar mientras pasas las fotos"
 				]
 			}
@@ -1748,12 +1752,12 @@
 		{
 			"type": "title_view",
 			"content": {
-				"title": "Gracias!",
+				"title": "",
 				"subtitles": [
 					"Al final, esta página no quedo nada cortica, hay un montón de cosas que no salieron",
 					"Fue un intento de hacer algo distinto con las fotos del viaje, fue algo que me ayudó muchísimo",
 					"Gracias a todos los que me pensaron antes durante o despues del viaje. En especial a:",
-					"Mi madre, mi Nonita, mi padre, FRR, Danna, JCM, Temporal 🧀, PG, SM, Iberia, Vueling, Avianca y Kiti",
+					"Mi madre, mi Nonita, mi padre, FRR, Danna, JCM, AP, Temporal 🧀, PG, SM, Iberia, Vueling, Avianca y Kiti",
 					"Y por supuesto, les agradezco su hospitalidad a Nayled, Johan, Mónica y Carmen. Muchas muchas muchas muchas gracias",
 					"Al final, en el viaje donde viajaba solo, siempre estuve acompañado por todos ustedes..."
 				]
