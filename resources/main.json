@@ -22,6 +22,10 @@
 				},
 				{
 					"title": "",
+					"text": "Hay un par de videos, para activar el audio de los videos has click sobre el video"
+				},
+				{
+					"title": "",
 					"text": "Se puede ver en celular o computador. Yo prefiero verlo en un computador!"
 				}
 			]
@@ -624,9 +628,9 @@
 				"subtitles": [
 					"<i>Vida antes que muerte</i><br>\"Ya terminé en un hospital, asustando a todo el mundo\"",
 
-					"<i>Fuerza antes que debilidad</i><br>\"No soy capaz de afrontar la soledad...\"",
+					"<i>Fuerza antes que debilidad</i><br>\"Estoy solo en el otro lado del mundo...\"",
 
-					"<b><i>Viaje antes que destino..</i></b><br>El objetivo era conocer lo mas que se pueda y con ese objetivo, se daña el proceso. No se disfruta<br>\"No tengo que conocer toda Europa en un viaje, lo haré a mi manera, y solo...<br>Hay que recortar el viaje. Lo voy a disfrutar...\""
+					"<b><i>Viaje antes que destino..</i></b><br>El objetivo era conocer lo mas que se pueda y con ese objetivo, se dañó el proceso<br>\"No tengo que conocer toda Europa en un viaje, lo haré a mi manera, y solo...<br>Hay que recortar el viaje. Lo voy a disfrutar...\""
 				]
 			}
 		},
@@ -721,11 +725,11 @@
 			"contents": [
 				{
 					"title": "Esperar en un terminal",
-					"text": "Tomar el metro de madrid, entender lo facil que es, hablar de transmilenio. Esperanza con el de Bogotá"
+					"text": "Cuando tomé el bus desde Portugal, la aplicación decía que el bus llegaría a las 7 de la mañana, lo que ocurrio fue que el conductor le apuró y llego a las 6. Eso no parece gran lío, solo que en verano AMANECE CASI A LAS 8 AM... Además, en el hostal solo me dejaban dejar las maletas desde las 9. Decidí quedarme sentado en una mesa del terminal (y honestamente durmiendo un poco) hasta que llego la hora"
 				},
 				{
 					"title": "Llegar al hostal",
-					"text": "Esta lloviendo, el macdonalds, la perdida, el impermeable. Llegar al hostal y dormir"
+					"text": "No había usado un metro en mi vida. Resulta que no es tan dificil!!!. Tomé un metro con 2 transbordos desde el terminal de Madrid hasta la estación Sol (muy central). El metro de Madrid es MUY bonito, y huele como a lavanda<br>Cuando salí de la estación, estaba lloviendo, como era temprano y tenía hambre, me metí a un MacDonalds para descampar y entrar al baño. Cuando sali del McDonalds seguia lloviendo, me puse el impermeable y caminé hacia el hostal. Despues de una pequeña perdida por las angostas calles del centro de Madrid, llegué a un edificio mas viejo que la moda de caminar a pie. Hostal Alfaro... Detrás de la recepcion, de una puerta que decía \"Solo personal autorizado\" estaba mi \"cuarto\". Me quite la ropa mojada y me puse a dormir para salir por la tarde a recorrer"
 				}
 			]
 		},
@@ -748,11 +752,11 @@
 			"contents": [
 				{
 					"title": "Plaza Mayor",
-					"text": "Que lindo sitio, que bonitos restaurantes alrededor"
+					"text": "Resulta que todo queda cerca!!!!<br> El primer destino fue la plaza mayor de Madrid. Osea, la plaza Simón Bolivar pero versión Felipe III. La plaza esta cubierta por edificos residenciales (que al parecer se siguen usando) y excelentes restaurantes. Las entradas tienen unos arcos muy característicos (fotos adelante) y en general hay mucho comercio. En fin, tenia hambre"
 				},
 				{
 					"title": "Paella",
-					"text": "Tenia hambre"
+					"text": "Encontre un restaurante pequeño en una esquina que apenas le cabían unas 10 personas. Pedí paella. Solo puedo decir que los españoles pueden no comer muy sano, pero comen muy muy delicioso. Estaba rica"
 				}
 			]
 		},
@@ -775,11 +779,11 @@
 			"contents": [
 				{
 					"title": "Sol",
-					"text": "Bocadillo, helado, etc"
+					"text": "Luego me fui a recorrer la puerta del sol, ahí fue donde llegué del metro pero como tal no pude ver nada porque estaba lloviendo. En esta plaza hay una estatua de un oso que es supremamente famoso y que no entiendo porque... Además, todo el mundo le toca el \"culo\". Alrededor hay varias cosas, en especial dos negocios que me dejaron \"ojiplático\". Uno que se llama Rodilla dobde comí bocadillo ibérico (emparedado). Ese sandwich es de lo mas rico que comí... Es que es muy rico, de solo escribir este texto se los juro que me esta dando hambre. El otro sitio es una heladeria pequeña, tambien es cosa deliciosa"
 				},
 				{
 					"title": "Alrededores y pluma",
-					"text": "Aqui mencionar el museo del prado"
+					"text": "Ya despues de tomar energías con la paella y el helado, tomé rumbo al museo del prado. En el camino encontre una tienda de plumas/estilografos. Las plumas son un hobby/vicio/coleccion que le heredé a mi papá. Me compré una pluma Kaweco que me acompañó por todo el viaje. Esto tiene importancia porque en Bogotá no existen tiendas así como esa.<br>Me fui al museo, y los aguafiestas no dejan tomar fotos... Yo no se mucho de historia y pintura, no me alcanzaron a enseñar lo suficiente de eso. Sin embargo, el museo es muy bonito, hay un montón de pinturas históricas de gran relevancia. Lo que mas me impresionó fueron las esculturas (en especial romanas). Es increible porque las fotos que uno ve en internet no le hacen justicia. Estan hechas de un aglomerado de muchas piedras transparentes, entonces la luz es como si entrara a la piedra y se ve mas profundidad, osea. No, es que no lo puedo describir bien, les tocó ir..."
 				}
 			]
 		},
@@ -802,11 +806,11 @@
 			"contents": [
 				{
 					"title": "Gran via!",
-					"text": "Ciudad falsa"
+					"text": "Saliendo del museo del prado me encontre con Johan y Mónica, compadres de Colombia. Me llevaron por el tour madrileño de gran via. Gran vía es una calle grande donde hay edificios grandes que son falsos. En Madrid decidieron que los edificios viejos deberían seguir en pie, conservan su patrimonio. Pero como son TAN viejos no son seguros, lo que hacen es que dejan solo la fachada y por dentro son edificios modernos. Es una idea que me encantó pero que me terminó dando la impresión de una ciudad falsa. Toda esa homogeneidad no es de una ciudad moderna donde hay movimiento e intercambio cultural. Cuando esten en gran via, miren hacia arriba, los edificios son increibles de verdad"
 				},
 				{
 					"title": "Parque del retiro",
-					"text": "El simon bolivar pero mas tranquilo"
+					"text": "Es el parque Símon Bolivar pero mas tranquilo. Es una extension bonita, con jardines, caminos y tienditas. El lago principal es bonito y uno puede subirse en un barquito. Ese lago es muy antiguo y los reyes lo usaban como entretenimiento (y la historia es mas bien tetrica). Esta foto es de mis favoritas del viaje. El contraste de los colores es muy peculiar. <br>En el parque del retiro hay una actividad muy relevante para hacer. Sentarse a tomarse un TINTO DE VERANO y ver pasar la gente. En el parque me pedí uno de esos tintos de verano, me senté con mi pluma y el bloco de notas que compré en Lisboa para hacer dibujos. Los dibujos fueron los diagramas de esta página. Ahí decidi que quería contar esta historia a travez de postales y de una página web"
 				}
 			]
 		},
@@ -829,11 +833,11 @@
 			"contents": [
 				{
 					"title": "Palacio real",
-					"text": "De aqui nos mandaron la gente a sacar el oro"
+					"text": "El ultimo día de madrid visité el palacio real. Es una estructura impactante, es de los mas grandes que hay. No pude dejar de pensar en forma irónica que de ese recinto mandaron traer el oro de America"
 				},
 				{
 					"title": "Catedral de madrid",
-					"text": "Hay poca luz para las fotos, se me acabo el rollo"
+					"text": "La catedral almudena, queda al frente del palacio. Es muy bonita y sus interiores (como es costumbre) estan llenos de arte. Afuera del palacio y la catedral hay una terraza, desde ahí se puede ver Madrid de verdad, no la parte turística."
 				}
 			]
 		},
@@ -856,11 +860,11 @@
 			"contents": [
 				{
 					"title": "Puerta de Alcalá",
-					"text": "El sol, atardecer"
+					"text": "Hoy en día una glorieta, antes era parte de la muralla que protegía la ciudad. Es un sitio agradable, con atardecer bonito"
 				},
 				{
 					"title": "El pub y la Guiness",
-					"text": "Cerveza que siempre había querido"
+					"text": "Desde hace rato había querido probar esta cerveza. Es irlandesa, pero curiosamente la terminé probando en un pub Inglés en Madrid... La pint de Guiness es gigantesca... Estaba muy sabrosa... Luego de salir el Pub, recorde (efectos del alcohol) que no hbía probado las tapas. Así que cerca al hostal fui a un sitio donde me vendieron vino y tapas. No tomé fotos desafortunadamente pero es algo que si o si hay que probar. Las tapas son sencillas, es poquita comida que le enciman a uno cuando pide cerveza o vino. La gracia es pedir varias porque sirven de distintas variedades. Velvo y digo, la gente de España come demasiado rico<br><br>Ese fue el último día en Madrid. Al dia siguiente tenía que tomar un avion hasta Roma"
 				}
 			]
 		},
@@ -952,11 +956,11 @@
 			"contents": [
 				{
 					"title": "El tren en el aeropuerto",
-					"text": "No saber tomar un tren"
+					"text": "Para llegar al aeropuerto de Madrid tomé un metro (la verdad fue largo el recorrido) pero todo salió perfecto, el vuelo se retrasó un buen tiempo que aproveché para dormir<br><br>Cuando llegamos a Roma me di cuenta que el aerupuerto Leoardo da Vinci de Fuimicino no queda en Roma. Osea, queda en rionegro. Una persona me ayudó y me dijo que tenía que tomar un tren desde el aerupuerto hasta Roma, en una estación que se llama Termini. Yo nunca había tomado un tren<br>Compré mi ticket (no son baratos) y corriendo llegué a un tren que curiosamente se llama Leonardo Express. Apenas me subí al tren y me senté, el tren cerró las puertas y arrancó... Casi me quedo del tren..."
 				},
 				{
 					"title": "El metro de mierda",
-					"text": "Historia de perdida y llegada sin batería. La pizza y la Birra"
+					"text": "Estaba haciendo muchisismo calor. Llegué a termini casi a las 8:30 de la noche, mi telefono estaba casi sin batería y para entrar al hostal necesitaba un código que se tenía que poner en la recepción. Del miedo que se me apagara el telefono anoté el código de entrada en la tarjeta de metro (con la pluma). No es que la pluma sea mágica y escriba sobre cualquier superficie. En Roma la opción que dan para los turistas es una tarjeta de metro de PAPEL que tiene 3 tiquetes de metro. Luego de eso, me subí al metro y me di cuenta que es muy inferior comparado al de Madrid. Del afán y de la angustia de quedarme sin batería, me equivoqué de linea y me perdí. Ese primer día (bueno, eran casi las 9 pm pero era de día todavía) terminé en la estación del coliseo romano...<br>Ya luego devolverse hasta termini para volver a tomar el metro que si era... Llegué muy tarde y apenas entré al hostal se me acabó la batería."
 				}
 			]
 		},
@@ -987,11 +991,11 @@
 			],
 			"contents": [
 				{
-					"title": "",
-					"text": "Dummy"
+					"title": "La pizza de Roma y la cerveza",
+					"text": ""
 				},
 				{
-					"title": "",
+					"title": "Las vistas",
 					"text": "Dummy"
 				}
 			]
