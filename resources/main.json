@@ -9,7 +9,7 @@
 			"contents": [
 				{
 					"title": "El viaje imposible",
-					"text": "Si estas viendo esta página es porque recibiste una postal!"
+					"text": "Si estás viendo esta página es porque recibiste una postal!"
 				},
 				{ "title": "", "text": "Esta es la historia de mi viaje" },
 				{
@@ -18,7 +18,7 @@
 				},
 				{
 					"title": "",
-					"text": "Desliza para ver las fotos! Cuando veas el botón <i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i> pulsalo para escuchar los audios. Recuerda subir el volumen!"
+					"text": "Desliza para ver las fotos! Cuando veas el botón <i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i> púlsalo para escuchar los audios. ¡Recuerda subir el volumen!"
 				},
 				{
 					"title": "",
@@ -26,7 +26,7 @@
 				},
 				{
 					"title": "",
-					"text": "Se puede ver en celular o computador. Yo prefiero verlo en un computador!"
+					"text": "Se puede ver en celular o computador. ¡Yo prefiero verlo en un computador!"
 				}
 			]
 		},
@@ -61,7 +61,7 @@
 			"contents": [
 				{
 					"title": "Trabajo y universidad",
-					"text": "Despues de 7 años, se convirtió en una segunda casa...<br><br>En febrero mandamos el abstract para un congreso<br>El congreso era en Lisboa<br>Era la excusa perfecta para estrenar el pasaporte, apenas tenia 2 meses de emitido<br>Para conocer nuevo mundo, nuevas experiencias. Una oportunidad que no todo el mundo tiene<br><br>El congreso duraba una semana y decidí tomar dos semanas despues del congreso para conocer mas países. El viaje empezaría el 1 de junio y terminaría el 23 de junio. Eran 3 semanas en total"
+					"text": "Después de 7 años, se convirtió en una segunda casa...<br><br>En febrero mandamos el abstract para un congreso<br>El congreso era en Lisboa<br>Era la excusa perfecta para estrenar el pasaporte, apenas tenía 2 meses de emitido<br>Para conocer nuevo mundo, nuevas experiencias. Una oportunidad que no todo el mundo tiene<br><br>El congreso duraba una semana y decidí tomar dos semanas después del congreso para conocer más países. El viaje empezaría el 1 de junio y terminaría el 23 de junio. Eran 3 semanas en total"
 				},
 				{
 					"title": "Ph.D. en Rice",
@@ -91,12 +91,12 @@
 			],
 			"contents": [
 				{
-					"title": "Toda casa tiene su rincón de checheres",
-					"text": "El rincón de checheres en la universidad es final de semestre. Se acumulan entregas, calificaciones pendientes y estudiantes con reclamos de semana 2<br><br>Uno se acostumbra al rincon de checheres, tanto que el solo hecho de pensar en irse pasa a ser una idea lejana, incluso irreal<br>Es el mismo sentimiento del 2017 cuando llegué a Bogotá..."
+					"title": "Toda casa tiene su rincón de chécheres",
+					"text": "El rincón de chécheres en la universidad es final de semestre. Se acumulan entregas, calificaciones pendientes y estudiantes con reclamos de semana 2<br><br>Uno se acostumbra al rincón de chécheres, tanto que el solo hecho de pensar en irse pasa a ser una idea lejana, incluso irreal<br>Es el mismo sentimiento del 2017 cuando llegué a Bogotá..."
 				},
 				{
 					"title": "ML 126",
-					"text": "Ya han sido una buena cantidad de años en esta sala. La oficina o el hueco. La habitacion de checheres<br><br>En esa sala he conocido a gente grandiosa. He visto pasar a muchos estudiantes, que se convirtieron en amigos<br>La sensación ha sido de ver pasar a la gente, porque al fin y al cabo, el computador 14 desde pandemia ha sido ocupado por la misma persona"
+					"text": "Ya han sido una buena cantidad de años en esta sala. La oficina o el hueco. La habitación de chécheres<br><br>En esa sala he conocido a gente grandiosa. He visto pasar a muchos estudiantes, que se convirtieron en amigos<br>La sensación ha sido de ver pasar a la gente, porque, al fin y al cabo, el computador 14 desde pandemia ha sido ocupado por la misma persona"
 				}
 			]
 		},
@@ -119,22 +119,22 @@
 			"contents": [
 				{
 					"title": "Frijolada",
-					"text": "En final de semestre hay otro tipo de afanes, las celebraciones obligatorias. En este caso fue una \"frijolada\" que terminó siendo un asado improvisado. Un miercoles por la noche en City U<br>Fue bueno, pero no podía dejar de pensar que tenía un viaje planeado a medias. Mi vuelo salía el sábado, la maleta no estaba lista y honestamente, yo tampoco<br><br>Al otro día me enfermé..."
+					"text": "En final de semestre hay otro tipo de afanes, las celebraciones obligatorias. En este caso fue una \"frijolada\" que terminó siendo un asado improvisado. Un miércoles por la noche en City U<br>Fue bueno, pero no podía dejar de pensar que tenía un viaje planeado a medias. Mi vuelo salía el sábado, la maleta no estaba lista y honestamente, yo tampoco<br><br>Al otro día me enfermé..."
 				},
 				{
 					"title": "¿Y podría viajar enfermo?",
-					"text": "Entre fiebres, mareos y mucha congestion, me llegó compañía. Mi mamá viajo a \"despedirme en el aeropuerto\". El viernes, despues de una visita al médico de la universidad me dieron una buena cantidad de medicamentos...<br><br>También me dijeron que no podía viajar... Había un riesgo de que se me reventara el tímpano (por cambios de presión en el vuelo).<br>Mi presentación era el lunes. No viajar significaba perder el dinero del hotel, los vuelos y el congreso."
+					"text": "Entre fiebres, mareos y mucha congestión, me llegó compañía. Mi mamá viajo a \"despedirme en el aeropuerto\". El viernes, después de una visita al médico de la universidad me dieron una buena cantidad de medicamentos...<br><br>También me dijeron que no podía viajar... Había un riesgo de que se me reventara el tímpano (por cambios de presión en el vuelo).<br>Mi presentación era el lunes. No viajar significaba perder el dinero del hotel, los vuelos y el congreso."
 				}
 			]
 		},
 		{
 			"type": "title_view",
 			"content": {
-				"title": "Al día siguiente tomé un avion",
+				"title": "Al día siguiente tomé un avión",
 				"subtitles": [
 					"+10 horas de vuelo",
-					"Escala en madrid",
-					"Miedo de perder un oido",
+					"Escala en Madrid",
+					"Miedo de perder un oído",
 					"Y me faltaba una semana para terminar semestre. Esto no son vacaciones..."
 				]
 			}
@@ -154,11 +154,11 @@
 			"contents": [
 				{
 					"title": "Mi equipaje",
-					"text": "Me fui a viajar con una maleta, y otra maleta, y una bolsa, y otras cuantas cosas.<br><br>La maleta principal no era de rodachines, la escogí a propósito para que fuera facil de llevar en cabina del avión. En esa maleta estaría toda la ropa que llevaba desde Bogotá y la medicina<br>Colgando de la maleta estaría el compañero de sueños, osea la almohada que me regaló Danna antes de salir<br>En frente una \"tula\" donde estaba el computador, telefono, papeles, camara, cargadores, etc.<br>En algunas ocasiones una bolsa de tela remplazo a la tula para tener mas espacio.<br>El peso máximo que se puede llevar en cabina es de 10 Kg. Mi maleta amarilla pesaba 11 Kg saliendo de Bogotá..."
+					"text": "Me fui a viajar con una maleta, y otra maleta, y una bolsa, y otras cuantas cosas. <br><br>La maleta principal no era de rodachines, la escogí a propósito para que fuera fácil de llevar en cabina del avión. En esa maleta estaría toda la ropa que llevaba desde Bogotá y la medicina<br>Colgando de la maleta estaría el compañero de sueños, osea, la almohada que me regaló Danna antes de salir<br>En frente una \"tula\" donde estaba el computador, teléfono, papeles, cámara, cargadores, etc.<br>En algunas ocasiones una bolsa de tela remplazo a la tula para tener más espacio. <br>El peso máximo que se puede llevar en cabina es de 10 Kg. Mi maleta amarilla pesaba 11 Kg saliendo de Bogotá..."
 				},
 				{
 					"title": "¿Vivitar?",
-					"text": "La camara que llevé al viaje fue una cámara prestada. Una camara de rollo, analoga. Para las fotos, 4 rollos Fuji iso 200 de 36 fotos cada uno."
+					"text": "La cámara que llevé al viaje fue una cámara prestada. Una cámara de rollo, análoga. Para las fotos, 4 rollos Fuji iso 200 de 36 fotos cada uno."
 				}
 			]
 		},
@@ -181,7 +181,7 @@
 			"contents": [
 				{
 					"title": "Una lágrima cae 6000 metros",
-					"text": "La ruta del vuelo fue peculiar. El avión salió de Bogotá hacia el noreste. La ruta pasó justamente por encima de Boyacá...<br><br>Todavía había luz del día y mi asiento tenía ventana. En un punto pude ver la distintiva forma del lago sochagota, de la laguna de enfriamiento de la termo electrica y la inconfundible calle 25. Unos 6000 metros debajo de mi se encontraba mi hogar.<br><br>Despues de unas cuantas horas, llegué a Madrid. Allí pasé controles de aeropuerto y tomé un mini-metro dentro del aeropuerto para llegar a la terminal donde salía la conexión. Luego de un vuelo mas pequeño de 1 hora, llegamos a Lisboa... "
+					"text": "La ruta del vuelo fue peculiar. El avión salió de Bogotá hacia el noreste. La ruta pasó justamente por encima de Boyacá...<br><br>Todavía había luz del día y mi asiento tenía ventana. En un punto pude ver la distintiva forma del lago Sochagota, de la laguna de enfriamiento de la termo-eléctrica y la inconfundible calle 25. Unos 6000 metros debajo de mi se encontraba mi hogar. <br><br>Después de unas cuantas horas, llegué a Madrid. Allí pasé controles de aeropuerto y tomé un mini-metro dentro del aeropuerto para llegar a la terminal donde salía la conexión. Luego de un vuelo más pequeño de 1 hora, llegamos a Lisboa... "
 				}
 			]
 		},
@@ -238,7 +238,7 @@
 				},
 				{
 					"title": "Lisboa",
-					"text": "Lisboa es una ciudad hermosa. Todas las aceras (y se repite en todo portugal) tienen baldosas pequeñas. Lisboa es ciudad costera ubicada en el delta del río Tagus, ese delta divide portugal en la parte norte y sur. Para conectar las dos partes hay un puente suspendido gigantesco! Se llama el puente 25 de abril. Todos los días pase por debajo de ese puente"
+					"text": "Lisboa es una ciudad hermosa. Todas las aceras (y se repite en todo Portugal) tienen baldosas pequeñas. Lisboa es ciudad costera ubicada en el delta del río Tagus, ese delta divide Portugal en la parte norte y sur. ¡Para conectar las dos partes hay un puente suspendido gigantesco! Se llama el puente 25 de abril. Todos los días pase por debajo de ese puente"
 				}
 			]
 		},
@@ -260,11 +260,11 @@
 			"contents": [
 				{
 					"title": "Recorrido de primer día",
-					"text": "Sin una nube, empezando el verano, empezé a caminar por las calles de Lisboa. Me quedé en una zona que no es tan turística. Recorrí un buen rato hasta que llegue al congreso. Caminar por esa ciudad es muy bonito. Hay una sensación de seguridad por donde quiera que uno pase. Ese primer día fui a un supermercado y una panadería. Estrenando mi frase insignia mientras estuve en portugal: \"Nao falo portugues\"..."
+					"text": "Sin una nube, empezando el verano, empecé a caminar por las calles de Lisboa. Me quedé en una zona que no es tan turística. Recorrí un buen rato hasta que llegué al congreso. Caminar por esa ciudad es muy bonito. Hay una sensación de seguridad por donde quiera que uno pase. Ese primer día fui a un supermercado y una panadería. Estrenando mi frase insignia mientras estuve en Portugal: \"Nao falo portugues\"..."
 				},
 				{
 					"title": "Llegada al congreso",
-					"text": "Luego de un largo rato llegué al congreso. Me registré y me dieron una bolsa de tela, un frasco para agua de aluminio y un carton de los que se cuelgan al cuello con mi nombre. Fue un buen día, volví a cenar un sandwich hecho con las compras del supermercado.<br><br>Mi presentación era al día siguiente, así que despues de cenar hice un par de intentos de la presentación. En verano anochece muy tarde, cuando me di cuenta eran las 11:30pm, llevaba sin dormir un buen tiempo..."
+					"text": "Luego de un largo rato llegué al congreso. Me registré y me dieron una bolsa de tela, un frasco para agua de aluminio y un cartón de los que se cuelgan al cuello con mi nombre. Fue un buen día, volví a cenar un sándwich hecho con las compras del supermercado. <br><br>Mi presentación era al día siguiente, así que después de cenar hice un par de intentos de la presentación. En verano anochece muy tarde, cuando me di cuenta eran las 11:30pm, llevaba sin dormir un buen tiempo..."
 				}
 			]
 		},
@@ -274,9 +274,9 @@
 				"title": "Al día siguiente...",
 				"subtitles": [
 					"\"Me siento cansado, iré al congreso y me tomaré un café\"",
-					"\"Ya casi presento, sentemonos un rato... Me siento algo mareado\"",
+					"\"Ya casi presento, sentémonos un rato... Me siento algo mareado\"",
 					"\"Siento que los hombros se me caen...\"",
-					"\"Hola, nao falo portugues, ¿Donde esta la enfermería?\""
+					"\"Hola, nao falo portugues, ¿Dónde está la enfermería?\""
 				]
 			}
 		},
@@ -305,11 +305,11 @@
 			"contents": [
 				{
 					"title": "El lejano hospital",
-					"text": "De la enfermería del congreso me mandaron a \"descansar\". Durante el vuelo casi no pude dormir, sobretodo por el miedo que mis oidos se reventaran. El vuelo fue casi todo de noche. Al día siguiente tampoco dormi mucho, no tuve en cuenta las diferencias de horario ni de hora en la que anochecia.<br><br>Básicamente, me dio jet lag...<br><br>Los síntomas son dificiles de describir. Cuando llegue a la habitación, entré en pánico porque no pude dormir. Un ataque de pánico por pensar que me podía pasar algo grave al otro lado del mundo... solo..."
+					"text": "De la enfermería del congreso me mandaron a \"descansar\". Durante el vuelo casi no pude dormir, sobre todo por el miedo que mis oídos se reventaran. El vuelo fue casi todo de noche. Al día siguiente tampoco dormí mucho, no tuve en cuenta las diferencias de horario ni de hora en la que anochecía. <br><br>Básicamente, me dio jet lag...<br><br>Los síntomas son difíciles de describir. Cuando llegué a la habitación, entré en pánico porque no pude dormir. Un ataque de pánico por pensar que me podía pasar algo grave al otro lado del mundo... solo..."
 				},
 				{
 					"title": "Nao falo portuges",
-					"text": "Despues de buscar ayuda en el hotel, despues de llamar al numero de emergencias. Nos dimos cuenta que el edifico que estaba al frente del hotel es un hospital... El mismo edificio que le tomé la primera foto el día anterior...<br> No tenía seguro médico de viaje..."
+					"text": "Después de buscar ayuda en el hotel, después de llamar al número de emergencias. Nos dimos cuenta de que el edifico que estaba al frente del hotel es un hospital... El mismo edificio que le tomé la primera foto el día anterior...<br> No tenía seguro médico de viaje..."
 				}
 			]
 		},
@@ -318,7 +318,7 @@
 			"content": {
 				"title": "Hice un escándalo terrible",
 				"subtitles": [
-					"Me ayudó una persona que hablaba español. Se llama Isabel y es de cali. Gracias",
+					"Me ayudó una persona que hablaba español. Se llama Isabel y es de Cali. Gracias",
 					"Me dieron una bolsa para respirar. Yo metí en la bolsa mi pasaporte, celular y billetera. Por si me desmayaba",
 					"Me atendieron, me dieron dos medicinas y a los 5 minutos me dormí..."
 				]
@@ -355,11 +355,11 @@
 			"contents": [
 				{
 					"title": "Reagendar la presentación",
-					"text": "Luego del hospital, tenia que arreglar el tema del congreso. La presentación se reagendó para el jueves (afortunadamente se pudo). Ese día la presentación fue bien, en un salón pequeño, no hubo muchas preguntas.<br><br>La foto son dos paisajes/calles de Lisboa. Todas las casas son de colores pastel y los carros los parquean donde pueden. Es una cultura muy distinta a la de Bogotá"
+					"text": "Luego del hospital, tenía que arreglar el tema del congreso. La presentación se reagendó para el jueves (afortunadamente se pudo). Ese día la presentación fue bien, en un salón pequeño, no hubo muchas preguntas. <br><br>La foto son dos paisajes/calles de Lisboa. Todas las casas son de colores pastel y los carros los parquean donde pueden. Es una cultura muy distinta a la de Bogotá"
 				},
 				{
 					"title": "Dar el siguiente paso",
-					"text": "Los días pasaron entre mañanas asistiendo a conferencias y tardes calificando parciales de IP. Atencion a estudiantes, calcular notas finales y eventualmente subir notas finales. Eso días recorrí algunas calles extra de camino al hotel, como la foto a continuación.<br>Durante el día tome unas cuantas fotos de los paisajes y las calles con la cámara de rollo."
+					"text": "Los días pasaron entre mañanas asistiendo a conferencias y tardes calificando parciales de IP. Atención a estudiantes, calcular notas finales y eventualmente subir notas finales. Eso días recorrí algunas calles extra de camino al hotel, como la foto a continuación. <br>Durante el día tome unas cuantas fotos de los paisajes y las calles con la cámara de rollo."
 				}
 			]
 		},
@@ -372,7 +372,7 @@
 				},
 				{
 					"src": "./resources/images/paisajes_lisboa4.jpg",
-					"description": "Esplanadas tipicas de los restaurantes"
+					"description": "Esplanadas típicas de los restaurantes"
 				},
 				{
 					"src": "./resources/images/paisajes_lisboa5.jpg",
@@ -380,7 +380,7 @@
 				},
 				{
 					"src": "./resources/images/paisajes_lisboa6.jpg",
-					"description": "Parque donde me sente un buen rato"
+					"description": "Parque donde me senté un buen rato"
 				}
 			]
 		},
@@ -403,11 +403,11 @@
 			"contents": [
 				{
 					"title": "Castillo de San Jorge",
-					"text": "El viernes empezó la parte de turismo. Ese día tenía que salir del hotel. Así que estuve con mi maleta pesada caminando solo hasta el castillo. <br>El castillo como tal es pequeño. Son unas cuantas paredes y torres donde se puede caminar. Pero la vista desde el castillo es espectacular.<br>Fue claro desde un principio que San Jorge era primo de San Felipe, del castillo de Cartagena"
+					"text": "El viernes empezó la parte de turismo. Ese día tenía que salir del hotel. Así que estuve con mi maleta pesada caminando solo hasta el castillo. <br>El castillo como tal es pequeño. Son unas cuantas paredes y torres donde se puede caminar. Pero la vista desde el castillo es espectacular. <br>Fue claro desde un principio que San Jorge era primo de San Felipe, del castillo de Cartagena"
 				},
 				{
 					"title": "",
-					"text": "Se ve toda Lisboa. Estuve sentado en las piedras del castillo por buen tiempo, esperando un poco. Estaba solo y lo unico que podía hacer era enviar fotos a amigos por WhatsApp que estaban dormidos por el cambio de horario. Despues de terminar el recorrido en el castillo, empezó a llover..."
+					"text": "Se ve toda Lisboa. Estuve sentado en las piedras del castillo por buen tiempo, esperando un poco. Estaba solo y lo único que podía hacer era enviar fotos a amigos por WhatsApp que estaban dormidos por el cambio de horario. Después de terminar el recorrido en el castillo, empezó a llover..."
 				}
 			]
 		},
@@ -429,11 +429,11 @@
 			"contents": [
 				{
 					"title": "Plaza de comercio",
-					"text": "En la lluvia me escondí en una tienda de regalos y me compré un impermeable azul. Luego de eso almorzé en un sitio con terraza y vista increible. Llegué empapado al restaurante, cansadisimo de llevar las maletas. Luego de comer me dieron café. No si fue el café, la comida o que dejó de llover, pero, la maleta pesaba menos. Del restaurante caminé con mi maleta, mi impermeable y ganas de conocer la plaza de comercio"
+					"text": "En la lluvia me escondí en una tienda de regalos y me compré un impermeable azul. Luego de eso almorcé en un sitio con terraza y vista increíble. Llegué empapado al restaurante, cansadísimo de llevar las maletas. Luego de comer me dieron café. No si fue el café, la comida o que dejó de llover, pero, la maleta pesaba menos. Del restaurante caminé con mi maleta, mi impermeable y ganas de conocer la plaza de comercio"
 				},
 				{
 					"title": "",
-					"text": "La plaza de comercio es bonita, es una plaza principal que tiene mar al frente!!!! Un monumento bonito en la mitad y una arquitectura muy agradable en general. Al lado hay una estación de metro, bus Y BARCOS!! usan el barco para cruzar el rio y pasar de norte a sur de Portugal. Me pareció fantástico... Es el centro de Lisboa, las calles son un poco mas angostas en general y hay un monton de casas con los típicos azulejos!!. De ahí, salí al terminal de transporte de Lisboa. Rumbo a Guimaraes---->"
+					"text": "La plaza de comercio es bonita, es una plaza principal que tiene mar al frente!!!! Un monumento bonito en la mitad y una arquitectura muy agradable en general. ¡¡Al lado hay una estación de metro, bus Y BARCOS!! usan el barco para cruzar el rio y pasar de norte a sur de Portugal. Me pareció fantástico... Es el centro de Lisboa, las calles son un poco más angostas en general y hay un montón de casas con los típicos azulejos!!. De ahí, salí al terminal de transporte de Lisboa. Rumbo a Guimarães---->"
 				}
 			]
 		},
@@ -450,7 +450,7 @@
 				},
 				{
 					"src": "./resources/images/iglesiaesa.jpg",
-					"description": "Vista donde se ve la famosa iglesa sismoresistente de Lisboa"
+					"description": "Vista donde se ve la famosa iglesia sismorresistente de Lisboa"
 				},
 				{
 					"src": "./resources/images/rio.jpg",
@@ -461,10 +461,10 @@
 		{
 			"type": "title_view",
 			"content": {
-				"title": "Lisboa <i class=\"fa fa-bus\" aria-hidden=\"true\"></i> Guimaraes",
+				"title": "Lisboa <i class=\"fa fa-bus\" aria-hidden=\"true\"></i> Guimarães",
 				"subtitles": [
-					"Luego de Lisboa, seguia visitar a Nayled",
-					"Ella vive en Guimaraes, queda a 6 horas en bus de Lisboa"
+					"Luego de Lisboa, seguir visitar a Nayled",
+					"Ella vive en Guimarães, queda a 6 horas en bus de Lisboa"
 				]
 			}
 		},
@@ -477,11 +477,11 @@
 			"contents": [
 				{
 					"title": "Buses europeos",
-					"text": "Tambien tienen ruedas y conductor. La diferencia es que salen puntuales. Para pedir el bus se usa una aplicación (Omio) y al comprar el tiquete llega un pdf con la información. No hay necesidad de comprar el tiquete en el terminal de buses. Los buses salen a la hora exacta que dice en el tiquete, asi que hay que ser muy puntuales. Casi me quedo del bus de Lisboa a Guimaraes por un par de minutos..."
+					"text": "También tienen ruedas y conductor. La diferencia es que salen puntuales. Para pedir el bus se usa una aplicación (Omio) y al comprar el tiquete llega un pdf con la información. No hay necesidad de comprar el tiquete en el terminal de buses. Los buses salen a la hora exacta que dice en el tiquete, así que hay que ser muy puntuales. Casi me quedo del bus de Lisboa a Guimarães por un par de minutos..."
 				},
 				{
 					"title": "Camino...",
-					"text": "Durante el viaje pasamos por varias ciudades/pueblos de portugal. Además que en el camino vi turbinas de viento, nunca las había visto antes!!!"
+					"text": "Durante el viaje pasamos por varias ciudades/pueblos de Portugal. Además, que en el camino vi turbinas de viento, ¡¡¡nunca las había visto antes!!!"
 				}
 			]
 		},
@@ -494,14 +494,14 @@
 				},
 				{
 					"src": "./resources/images/mapa.jpg",
-					"description": "Básicamente estaba atravezando Portugal"
+					"description": "Básicamente estaba atravesando Portugal"
 				}
 			]
 		},
 		{
 			"type": "title_view",
 			"content": {
-				"title": "Guimaraes",
+				"title": "Guimarães",
 				"subtitles": [
 					"7/6/24 - 9/6/24",
 					"Población: pocos habitantes + Nayled"
@@ -514,24 +514,24 @@
 				{
 					"src": "./resources/images/guimaraes_castillo.jpg",
 					"camera": "Vivitar 3000",
-					"location": "Guimaraes, Portugal",
+					"location": "Guimarães, Portugal",
 					"color": "white"
 				},
 				{
 					"src": "./resources/images/nayled1.jpg",
 					"camera": "Mi celular",
-					"location": "Guimaraes, Portugal",
+					"location": "Guimarães, Portugal",
 					"color": "black"
 				}
 			],
 			"contents": [
 				{
-					"title": "Guimaraes",
-					"text": "Un pueblo colonial hermoso, de pocos habitantes que guarda una historia increible. Tiene un castillo, En ese pueblo se dice que nace portugal (de hecho tienen un cartel que dice eso). El estilo de la plaza del pueblo es gótica, las calles son estrechas y los edificios se notan antiguos. Es un pueblo que tiene un centro comercial y una universidad. Se consigue tambien el típico postre de Portugal, el pastel de natas. Es un postre muy sencillo en concepto y por eso muy dificil en ejecución. Es simplemente, delicioso"
+					"title": "Guimarães",
+					"text": "Un pueblo colonial hermoso, de pocos habitantes que guarda una historia increíble. Tiene un castillo, En ese pueblo se dice que nace Portugal (de hecho, tienen un cartel que dice eso). El estilo de la plaza del pueblo es gótico, las calles son estrechas y los edificios se notan antiguos. Es un pueblo que tiene un centro comercial y una universidad. Se consigue también el típico postre de Portugal, el pastel de natas. Es un postre muy sencillo en concepto y por eso muy difícil en ejecución. Es simplemente, delicioso"
 				},
 				{
 					"title": "Nayled",
-					"text": "Gracias por la hospitalidad, gracias por acompañarme.<br><br>Con Nayled comimos una cosa rara llamada Francesiña. Un sandwich de carnes, jamones, huevo y papa que es una combinación de sabores exquisita.<br><br>Ya no estaba solo, aprovechar para salir al \"TOUR DE SHOTS\" recomendado por Nayled.<br>"
+					"text": "Gracias por la hospitalidad, gracias por acompañarme. <br><br>Con Nayled comimos una cosa rara llamada Francesiña. Un sándwich de carnes, jamones, huevo y papa que es una combinación de sabores exquisita. <br><br>Ya no estaba solo, aprovechar para salir al \"TOUR DE SHOTS\" recomendado por Nayled.<br>"
 				}
 			]
 		},
@@ -569,7 +569,7 @@
 				},
 				{
 					"src": "./resources/images/mino2.jpg",
-					"description": "Hacia calor asi que tenia pantaloneta"
+					"description": "Hacia calor así que tenía pantaloneta"
 				},
 				{
 					"src": "./resources/images/minocamino.jpg",
@@ -582,7 +582,7 @@
 			"imgs": [
 				{
 					"src": "./resources/images/natas.jpg",
-					"description": "Pastel de natas y aqui nace portugal"
+					"description": "Pastel de natas y aquí nace Portugal"
 				},
 				{
 					"src": "./resources/images/shots.mp4",
@@ -595,7 +595,7 @@
 			"content": {
 				"title": "",
 				"subtitles": [
-					"Pero ya acabó Guimaraes. Ahora me tengo que ir",
+					"Pero ya acabó Guimarães. Ahora me tengo que ir",
 					"Esa primera semana fue tropezada",
 					"Me quedan otras 2 semanas...",
 					"Vuelvo a quedar solo..."
@@ -615,8 +615,8 @@
 			"content": {
 				"title": "",
 				"subtitles": [
-					"No tengo visa todavía... Me queda poco tiempo<br>¿Que pasará con el apartamento en Bogotá si me voy?<br>¿Yo que hago viajando solo si igual no me gusta?",
-					"Miercoles, ya me aceptaron en Rice, me tengo que ir en agosto...<br>No me queda tiempo<br>¿Yo que hago aquí? Debería devolverme..."
+					"No tengo visa todavía... Me queda poco tiempo<br>¿Qué pasará con el apartamento en Bogotá si me voy?<br>¿Yo que hago viajando solo si igual no me gusta?",
+					"Miércoles, ya me aceptaron en Rice, me tengo que ir en agosto...<br>No me queda tiempo<br>¿Yo que hago aquí? Debería devolverme..."
 				]
 			},
 			"classes": ["noise-bg", "black-text"]
@@ -630,7 +630,7 @@
 
 					"<i>Fuerza antes que debilidad</i><br>\"Estoy solo en el otro lado del mundo...\"",
 
-					"<b><i>Viaje antes que destino..</i></b><br>El objetivo era conocer lo mas que se pueda y con ese objetivo, se dañó el proceso<br>\"No tengo que conocer toda Europa en un viaje, lo haré a mi manera, y solo...<br>Hay que recortar el viaje. Lo voy a disfrutar...\""
+					"<b><i>Viaje antes que destino.</i></b><br>El objetivo era conocer lo más que se pueda y con ese objetivo, se dañó el proceso<br>\"No tengo que conocer toda Europa en un viaje, lo haré a mi manera, y solo...<br>Hay que recortar el viaje. Lo voy a disfrutar...\""
 				]
 			}
 		},
@@ -639,7 +639,7 @@
 			"content": {
 				"title": "",
 				"subtitles": [
-					"Saliendo de Guimaraes, decidí recortar el viaje. Una semana menos."
+					"Saliendo de Guimarães, decidí recortar el viaje. Una semana menos."
 				]
 			}
 		},
@@ -658,14 +658,14 @@
 				"title": "",
 				"subtitles": [
 					"El viaje imposible, se volvió posible",
-					"Desde ese momento el viaje tomó una forma distinta. Yo dije que NO me gustaba viajar solo, y asi como muchas cosas en la vida, hay que ser autodidacta. Estoy en el otro lado del mundo, hay incluso que aprender a disfrutarlo."
+					"Desde ese momento el viaje tomó una forma distinta. Yo dije que NO me gustaba viajar solo, y así como muchas cosas en la vida, hay que ser autodidacta. Estoy en el otro lado del mundo, hay incluso que aprender a disfrutarlo."
 				]
 			}
 		},
 		{
 			"type": "title_view",
 			"content": {
-				"title": "Guimaraes <i class=\"fa fa-bus\" aria-hidden=\"true\"></i> Madrid",
+				"title": "Guimarães <i class=\"fa fa-bus\" aria-hidden=\"true\"></i> Madrid",
 				"subtitles": ["Un bus internacional, de 10 horas", ""]
 			}
 		},
@@ -675,20 +675,20 @@
 				{
 					"src": "./resources/images/busesito.gif",
 					"camera": "iPhone de Nayled",
-					"location": "Guimaraes, Portugal",
+					"location": "Guimarães, Portugal",
 					"color": "white"
 				},
 				{
 					"src": "./resources/images/dentrodelbus.jpg",
 					"camera": "Mi celular",
-					"location": "En algun sitio de Portugal",
+					"location": "En algún sitio de Portugal",
 					"color": "white"
 				}
 			],
 			"contents": [
 				{
 					"title": "El \"Eurotour\"",
-					"text": "De viajar entre paises montado en un bus. Algo que en esta parte del mundo parece imposible.<br>Durante mi visita en Guimaraes pasé por el centro comercial. Guimaraes se puede recorrer enteramente a pie. En eso similar a Paipa, y aún y así, Paipa no tiene un centro comercial como ese. Es relativamente grande, entré buscando 2 items. El primero y mas importante era una lagsaña para comer y el segundo, un libro de Fernando Pessoa.<br><br>Encotré una versión en inglés del \"Book of Disquiet\". Al parecer, una de sus grandes obras. Pessoa escribe muy raro, y el libro en cierta forma me hizo sentir acompañado."
+					"text": "De viajar entre países montado en un bus. Algo que en esta parte del mundo parece imposible. <br>Durante mi visita en Guimarães pasé por el centro comercial. Guimarães se puede recorrer enteramente a pie. En eso similar a Paipa, y aún y así, Paipa no tiene un centro comercial como ese. Es relativamente grande, entré buscando 2 ítems. El primero y más importante era una lagsaña para comer y el segundo, un libro de Fernando Pessoa. <br><br>Encontré una versión en inglés del \"Book of Disquiet\". Al parecer, una de sus grandes obras. Pessoa escribe muy raro, y el libro en cierta forma me hizo sentir acompañado."
 				},
 				{
 					"title": "Hora de partir",
@@ -725,11 +725,11 @@
 			"contents": [
 				{
 					"title": "Esperar en un terminal",
-					"text": "Cuando tomé el bus desde Portugal, la aplicación decía que el bus llegaría a las 7 de la mañana, lo que ocurrio fue que el conductor le apuró y llego a las 6. Eso no parece gran lío, solo que en verano AMANECE CASI A LAS 8 AM... Además, en el hostal solo me dejaban dejar las maletas desde las 9. Decidí quedarme sentado en una mesa del terminal (y honestamente durmiendo un poco) hasta que llego la hora"
+					"text": "Cuando tomé el bus desde Portugal, la aplicación decía que el bus llegaría a las 7 de la mañana, lo que ocurrió fue que el conductor le apuró y llego a las 6. Eso no parece gran lío, solo que en verano AMANECE CASI A LAS 8 AM... Además, en el hostal solo me dejaban dejar las maletas desde las 9. Decidí quedarme sentado en una mesa del terminal (y honestamente durmiendo un poco) hasta que llegó la hora"
 				},
 				{
 					"title": "Llegar al hostal",
-					"text": "No había usado un metro en mi vida. Resulta que no es tan dificil!!!. Tomé un metro con 2 transbordos desde el terminal de Madrid hasta la estación Sol (muy central). El metro de Madrid es MUY bonito, y huele como a lavanda<br>Cuando salí de la estación, estaba lloviendo, como era temprano y tenía hambre, me metí a un MacDonalds para descampar y entrar al baño. Cuando sali del McDonalds seguia lloviendo, me puse el impermeable y caminé hacia el hostal. Despues de una pequeña perdida por las angostas calles del centro de Madrid, llegué a un edificio mas viejo que la moda de caminar a pie. Hostal Alfaro... Detrás de la recepcion, de una puerta que decía \"Solo personal autorizado\" estaba mi \"cuarto\". Me quite la ropa mojada y me puse a dormir para salir por la tarde a recorrer"
+					"text": "No había usado un metro en mi vida. ¡Resulta que no es tan difícil! Tomé un metro con 2 transbordos desde el terminal de Madrid hasta la estación Sol (muy central). El metro de Madrid es MUY bonito, y huele como a lavanda<br>Cuando salí de la estación, estaba lloviendo, como era temprano y tenía hambre, me metí a un McDonald para descampar y entrar al baño. Cuando salí del McDonald seguía lloviendo, me puse el impermeable y caminé hacia el hostal. Después de una pequeña perdida por las angostas calles del centro de Madrid, llegué a un edificio más viejo que la moda de caminar a pie. Hostal Alfaro... Detrás de la recepción, de una puerta que decía \"Solo personal autorizado\" estaba mi \"cuarto\". Me quité la ropa mojada y me puse a dormir para salir por la tarde a recorrer"
 				}
 			]
 		},
@@ -752,11 +752,11 @@
 			"contents": [
 				{
 					"title": "Plaza Mayor",
-					"text": "Resulta que todo queda cerca!!!!<br> El primer destino fue la plaza mayor de Madrid. Osea, la plaza Simón Bolivar pero versión Felipe III. La plaza esta cubierta por edificos residenciales (que al parecer se siguen usando) y excelentes restaurantes. Las entradas tienen unos arcos muy característicos (fotos adelante) y en general hay mucho comercio. En fin, tenia hambre"
+					"text": "Resulta que todo queda cerca!!!!<br> El primer destino fue la plaza mayor de Madrid. Osea, la plaza Simón Bolívar pero versión Felipe III. La plaza está cubierta por edificios residenciales (que al parecer se siguen usando) y excelentes restaurantes. Las entradas tienen unos arcos muy característicos (fotos adelante) y en general hay mucho comercio. En fin, tenía hambre"
 				},
 				{
 					"title": "Paella",
-					"text": "Encontre un restaurante pequeño en una esquina que apenas le cabían unas 10 personas. Pedí paella. Solo puedo decir que los españoles pueden no comer muy sano, pero comen muy muy delicioso. Estaba rica"
+					"text": "Encontré un restaurante pequeño en una esquina que apenas le cabían unas 10 personas. Pedí paella. Solo puedo decir que los españoles pueden no comer muy sano, pero comen muy muy delicioso. Estaba rica"
 				}
 			]
 		},
@@ -779,11 +779,11 @@
 			"contents": [
 				{
 					"title": "Sol",
-					"text": "Luego me fui a recorrer la puerta del sol, ahí fue donde llegué del metro pero como tal no pude ver nada porque estaba lloviendo. En esta plaza hay una estatua de un oso que es supremamente famoso y que no entiendo porque... Además, todo el mundo le toca el \"culo\". Alrededor hay varias cosas, en especial dos negocios que me dejaron \"ojiplático\". Uno que se llama Rodilla donde comí bocadillo ibérico (emparedado). Ese sandwich es de lo mas rico que comí... Es que es muy rico, de solo escribir este texto se los juro que me esta dando hambre. El otro sitio es una heladeria pequeña, tambien es cosa deliciosa"
+					"text": "Luego me fui a recorrer la puerta del sol, ahí fue donde llegué del metro, pero como tal no pude ver nada porque estaba lloviendo. En esta plaza hay una estatua de un oso que es supremamente famoso y que no entiendo porque... Además, todo el mundo le toca el \"culo\". Alrededor hay varias cosas, en especial dos negocios que me dejaron \"ojiplático\". Uno que se llama Rodilla donde comí bocadillo ibérico (emparedado). Ese sándwich es de lo más rico que comí... Es que es muy rico, de solo escribir este texto se los juro que me está dando hambre. El otro sitio es una heladería pequeña, también es cosa deliciosa"
 				},
 				{
 					"title": "Alrededores y pluma",
-					"text": "Ya despues de tomar energías con la paella y el helado, tomé rumbo al museo del prado. En el camino encontre una tienda de plumas/estilografos. Las plumas son un hobby/vicio/coleccion que le heredé a mi papá. Me compré una pluma Kaweco que me acompañó por todo el viaje. Esto tiene importancia porque en Bogotá no existen tiendas así como esa.<br>Me fui al museo, y los aguafiestas no dejan tomar fotos... Yo no se mucho de historia y pintura, no me alcanzaron a enseñar lo suficiente de eso. Sin embargo, el museo es muy bonito, hay un montón de pinturas históricas de gran relevancia. Lo que mas me impresionó fueron las esculturas (en especial romanas). Es increible porque las fotos que uno ve en internet no le hacen justicia. Estan hechas de un aglomerado de muchas piedras transparentes, entonces la luz es como si entrara a la piedra y se ve mas profundidad, osea. No, es que no lo puedo describir bien, les tocó ir..."
+					"text": "Ya después de tomar energías con la paella y el helado, tomé rumbo al museo del prado. En el camino encontré una tienda de plumas/estilógrafos. Las plumas son una afición/vicio/colección que le heredé a mi papá. Me compré una pluma Kaweco que me acompañó por todo el viaje. Esto tiene importancia porque en Bogotá no existen tiendas así como esa.<br>Me fui al museo, y los aguafiestas no dejan tomar fotos... Yo no sé mucho de historia y pintura, no me alcanzaron a enseñar lo suficiente de eso. Sin embargo, el museo es muy bonito, hay un montón de pinturas históricas de gran relevancia. Lo que más me impresionó fueron las esculturas (en especial romanas). Es increíble porque las fotos que uno ve en internet no le hacen justicia. Están hechas de un aglomerado de muchas piedras transparentes, entonces la luz es como si entrara a la piedra y se ve más profundidad, osea. No, es que no lo puedo describir bien, les tocó ir..."
 				}
 			]
 		},
@@ -805,12 +805,12 @@
 			],
 			"contents": [
 				{
-					"title": "Gran via!",
-					"text": "Saliendo del museo del prado me encontre con Johan y Mónica, compadres de Colombia. Me llevaron por el tour madrileño de gran via. Gran vía es una calle grande donde hay edificios grandes que son falsos. En Madrid decidieron que los edificios viejos deberían seguir en pie, conservan su patrimonio. Pero como son TAN viejos no son seguros, lo que hacen es que dejan solo la fachada y por dentro son edificios modernos. Es una idea que me encantó pero que me terminó dando la impresión de una ciudad falsa. Toda esa homogeneidad no es de una ciudad moderna donde hay movimiento e intercambio cultural. Cuando esten en gran via, miren hacia arriba, los edificios son increibles de verdad"
+					"title": "Gran vía!",
+					"text": "Saliendo del museo del prado me encontré con Johan y Mónica, compadres de Colombia. Me llevaron por el tour madrileño de gran vía. Gran vía es una calle grande donde hay edificios grandes que son falsos. En Madrid decidieron que los edificios viejos deberían seguir en pie, conservan su patrimonio. Pero como son TAN viejos no son seguros, lo que hacen es que dejan solo la fachada y por dentro son edificios modernos. Es una idea que me encantó pero que me terminó dando la impresión de una ciudad falsa. Toda esa homogeneidad no es de una ciudad moderna donde hay movimiento e intercambio cultural. Cuando están en gran vía, miren hacia arriba, los edificios son increíbles de verdad"
 				},
 				{
 					"title": "Parque del retiro",
-					"text": "Es el parque Símon Bolivar pero mas tranquilo. Es una extension bonita, con jardines, caminos y tienditas. El lago principal es bonito y uno puede subirse en un barquito. Ese lago es muy antiguo y los reyes lo usaban como entretenimiento (y la historia es mas bien tetrica). Esta foto es de mis favoritas del viaje. El contraste de los colores es muy peculiar. <br>En el parque del retiro hay una actividad muy relevante para hacer. Sentarse a tomarse un TINTO DE VERANO y ver pasar la gente. En el parque me pedí uno de esos tintos de verano, me senté con mi pluma y el bloco de notas que compré en Lisboa para hacer dibujos. Los dibujos fueron los diagramas de esta página. Ahí decidi que quería contar esta historia a travez de postales y de una página web"
+					"text": "Es el parque Simón Bolívar, pero más tranquilo. Es una extensión bonita, con jardines, caminos y tienditas. El lago principal es bonito y uno puede subirse en un barquito. Ese lago es muy antiguo y los reyes lo usaban como entretenimiento (y la historia es más bien tétrica). Esta foto es de mis favoritas del viaje. El contraste de los colores es muy peculiar. <br>En el parque del retiro hay una actividad muy relevante para hacer. Sentarse a tomarse un TINTO DE VERANO y ver pasar la gente. En el parque me pedí uno de esos tintos de verano, me senté con mi pluma y el <i>bloco de notas</i> que compré en Lisboa para hacer dibujos. Los dibujos fueron los diagramas de esta página. Ahí decidí que quería contar esta historia a través de postales y de una página web"
 				}
 			]
 		},
@@ -833,11 +833,11 @@
 			"contents": [
 				{
 					"title": "Palacio real",
-					"text": "El ultimo día de madrid visité el palacio real. Es una estructura impactante, es de los mas grandes que hay. No pude dejar de pensar en forma irónica que de ese recinto mandaron traer el oro de America"
+					"text": "El último día de Madrid visité el palacio real. Es una estructura impactante, es de los más grandes que hay. No pude dejar de pensar en forma irónica que de ese recinto mandaron traer el oro de América"
 				},
 				{
-					"title": "Catedral de madrid",
-					"text": "La catedral almudena, queda al frente del palacio. Es muy bonita y sus interiores (como es costumbre) estan llenos de arte. Afuera del palacio y la catedral hay una terraza, desde ahí se puede ver Madrid de verdad, no la parte turística."
+					"title": "Catedral de Madrid",
+					"text": "La catedral almudena, queda al frente del palacio. Es muy bonita y sus interiores (como es costumbre) están llenos de arte. Afuera del palacio y la catedral hay una terraza, desde ahí se puede ver Madrid de verdad, no la parte turística."
 				}
 			]
 		},
@@ -863,8 +863,8 @@
 					"text": "Hoy en día una glorieta, antes era parte de la muralla que protegía la ciudad. Es un sitio agradable, con atardecer bonito"
 				},
 				{
-					"title": "El pub y la Guiness",
-					"text": "Desde hace rato había querido probar esta cerveza. Es irlandesa, pero curiosamente la terminé probando en un pub Inglés en Madrid... La pint de Guiness es gigantesca... Estaba muy sabrosa... Luego de salir el Pub, recorde (efectos del alcohol) que no hbía probado las tapas. Así que cerca al hostal fui a un sitio donde me vendieron vino y tapas. No tomé fotos desafortunadamente pero es algo que si o si hay que probar. Las tapas son sencillas, es poquita comida que le enciman a uno cuando pide cerveza o vino. La gracia es pedir varias porque sirven de distintas variedades. Vuelvo y digo, la gente de España come demasiado rico<br><br>Ese fue el último día en Madrid. Al dia siguiente tenía que tomar un avion hasta Roma"
+					"title": "El pub y la Guinness",
+					"text": "Desde hace rato había querido probar esta cerveza. Es irlandesa, pero curiosamente la terminé probando en un pub inglés en Madrid... La pinta de Guinness es gigantesca... Estaba muy sabrosa... Luego de salir el Pub, recordé (efectos del alcohol) que no había probado las tapas. Así que cerca al hostal fui a un sitio donde me vendieron vino y tapas. No tomé fotos desafortunadamente, pero es algo que si o si hay que probar. Las tapas son sencillas, es poquita comida que le enciman a uno cuando pide cerveza o vino. La gracia es pedir varias porque sirven de distintas variedades. Vuelvo y digo, la gente de España come demasiado rico<br><br>Ese fue el último día en Madrid. Al día siguiente tenía que tomar un avión hasta Roma"
 				}
 			]
 		},
@@ -881,11 +881,11 @@
 				},
 				{
 					"src": "./resources/images/madrid_m3.jpg",
-					"description": "Arcos y gran via"
+					"description": "Arcos y gran vía"
 				},
 				{
 					"src": "./resources/images/madrid_m4.jpg",
-					"description": "Metro de gran via"
+					"description": "Metro de gran vía"
 				}
 			]
 		},
@@ -898,11 +898,11 @@
 				},
 				{
 					"src": "./resources/images/madrid_m6.jpg",
-					"description": "Puerta de alcala desde el parque del retiro"
+					"description": "Puerta de Alcalá desde el parque del retiro"
 				},
 				{
 					"src": "./resources/images/madrid_m12.jpg",
-					"description": "Edificio metropolis"
+					"description": "Edificio metrópolis"
 				},
 				{
 					"src": "./resources/images/madrid_m8.jpg",
@@ -923,11 +923,11 @@
 				},
 				{
 					"src": "./resources/images/madrid_m5.jpg",
-					"description": "Tapa"
+					"description": "Tapas, pero no de comida"
 				},
 				{
 					"src": "./resources/images/madrid_m7.jpeg",
-					"description": "Tinto de verano y pluma. En el parque del retiro comenzé a diagramar esta página"
+					"description": "Tinto de verano y pluma. En el parque del retiro empecé a diagramar esta página"
 				}
 			]
 		},
@@ -944,7 +944,7 @@
 				{
 					"src": "./resources/images/Italia/trenybirra.jpg",
 					"camera": "Mi celular",
-					"location": "Fuimicino, Italia",
+					"location": "Fiumicino, Italia",
 					"color": "white"
 				},
 				{
@@ -956,11 +956,11 @@
 			"contents": [
 				{
 					"title": "El tren en el aeropuerto",
-					"text": "Para llegar al aeropuerto de Madrid tomé un metro (la verdad fue largo el recorrido) pero todo salió perfecto, el vuelo se retrasó un buen tiempo que aproveché para dormir<br><br>Cuando llegamos a Roma me di cuenta que el aeropuerto Leoardo da Vinci de Fuimicino no queda en Roma. Osea, queda en rionegro. Una persona me ayudó y me dijo que tenía que tomar un tren desde el aeropuerto hasta Roma, en una estación que se llama Termini. Yo nunca había tomado un tren<br>Compré mi ticket (no son baratos) y corriendo llegué a un tren que curiosamente se llama Leonardo Express. Apenas me subí al tren y me senté, el tren cerró las puertas y arrancó... Casi me quedo del tren..."
+					"text": "Para llegar al aeropuerto de Madrid tomé un metro (la verdad fue largo el recorrido) pero todo salió perfecto, el vuelo se retrasó un buen tiempo que aproveché para dormir<br><br>Cuando llegamos a Roma me di cuenta de que el aeropuerto Leonardo da Vinci de Fiumicino no queda en Roma. Osea, queda en Rionegro. Una persona me ayudó y me dijo que tenía que tomar un tren desde el aeropuerto hasta Roma, en una estación que se llama Termini. Yo nunca había tomado un tren<br>Compré mi ticket (no son baratos) y corriendo llegué a un tren que curiosamente se llama Leonardo Express. Apenas me subí al tren y me senté, el tren cerró las puertas y arrancó... Casi me quedo del tren..."
 				},
 				{
 					"title": "El metro de mierda",
-					"text": "Estaba haciendo muchisismo calor. Llegué a termini casi a las 8:30 de la noche, mi telefono estaba casi sin batería y para entrar al hostal necesitaba un código que se tenía que poner en la recepción. Del miedo que se me apagara el telefono anoté el código de entrada en la tarjeta de metro (con la pluma). No es que la pluma sea mágica y escriba sobre cualquier superficie. En Roma la opción que dan para los turistas es una tarjeta de metro de PAPEL que tiene 3 tiquetes de metro. Luego de eso, me subí al metro y me di cuenta que es muy inferior comparado al de Madrid. Del afán y de la angustia de quedarme sin batería, me equivoqué de linea y me perdí. Ese primer día (bueno, eran casi las 9 pm pero era de día todavía) terminé en la estación del coliseo romano...<br>Ya luego devolverse hasta termini para volver a tomar el metro que si era... Llegué muy tarde y apenas entré al hostal se me acabó la batería."
+					"text": "Estaba haciendo muchísimo calor. Llegué a termini casi a las 8:30 de la noche, mi teléfono estaba casi sin batería y para entrar al hostal necesitaba un código que se tenía que poner en la recepción. Del miedo que se me apagara el teléfono anoté el código de entrada en la tarjeta de metro (con la pluma). No es que la pluma sea mágica y escriba sobre cualquier superficie. En Roma la opción que dan para los turistas es una tarjeta de metro de PAPEL que tiene 3 tiquetes de metro. Luego de eso, me subí al metro y me di cuenta de que es muy inferior comparado al de Madrid. Del afán y de la angustia de quedarme sin batería, me equivoqué de línea y me perdí. Ese primer día (bueno, eran casi las 9 pm, pero era de día todavía) terminé en la estación del coliseo romano...<br>Ya luego devolverse hasta termini para volver a tomar el metro que si era... Llegué muy tarde y apenas entré al hostal se me acabó la batería."
 				}
 			]
 		},
@@ -992,11 +992,11 @@
 			"contents": [
 				{
 					"title": "La pizza de Roma y la cerveza",
-					"text": "Esta foto no me gusta, pero es la única que tengo de la pizza. Cuando llegué al hostal ya eran las 10:00pm, tenia hambre y estaba estresado por la perdida en el metro. Solo vi una tienda abierta, una pizzeria de barrio por donde me estaba quedando. Sali por una pizza y una cerveza (la que sale en las fotos pasadas). La cerveza la elegí porque según la persona que me atendió, es la cerveza que consumen los locales. Ademas, el dibujo de la etiqueta se veia divertido."
+					"text": "Esta foto no me gusta, pero es la única que tengo de la pizza. Cuando llegué al hostal ya eran las 10:00pm, tenía hambre y estaba estresado por la perdida en el metro. Solo vi una tienda abierta, una pizzería de barrio por donde me estaba quedando. Sali por una pizza y una cerveza (la que sale en las fotos pasadas). La cerveza la elegí porque según la persona que me atendió, es la cerveza que consumen los locales. Ademas, el dibujo de la etiqueta se veía divertido."
 				},
 				{
 					"title": "Las vistas",
-					"text": "El hostal tenía un pequeño balcon que no se estaba usando. El paisaje nocturno de Roma fue hermoso. Ese fue un día muy largo. No me quedé de ningún transporte afortunadamente y a pesar que me perdí pude descansar... Por temas de las agendas de los vuelos solo podía disfrutar de un día entero en Roma, el día siguiente sería un día de caminata. Era mejor estar preparado..."
+					"text": "El hostal tenía un pequeño balcón que no se estaba usando. El paisaje nocturno de Roma fue hermoso. Ese fue un día muy largo. No me quedé de ningún transporte afortunadamente y a pesar de que me perdí pude descansar... Por temas de las agendas de los vuelos solo podía disfrutar de un día entero en Roma, el día siguiente sería un día de caminata. Era mejor estar preparado..."
 				}
 			]
 		},
@@ -1006,10 +1006,10 @@
 				"title": "El viaje de mi madre",
 				"subtitles": [
 					"No soy muy religioso, pero quería ir al vaticano<br>Afortunadamente quedaba \"cerca\" al hostal.",
-					"Despues de una EXTENSA fila pude entrar, en el momento en que estaba pasando por la puerta, recibí este audio",
+					"Después de una EXTENSA fila pude entrar, en el momento en que estaba pasando por la puerta, recibí este audio",
 					"<a class=\"player\" onclick=\"this.firstChild.play()\"><audio controlsList=\"nodownload\"><source src=\"./resources/images/Italia/audiovaticano.mp3\" type=\"audio/mpeg\"></audio><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></a>",
 					"Este no era solamente mi viaje...",
-					"<h6>Sigue mirando las fotos mientras el audio suena, el audio sigue reproduciendose</h6>"
+					"<h6>Sigue mirando las fotos mientras el audio suena, el audio sigue reproduciéndose</h6>"
 				]
 			}
 		},
@@ -1026,11 +1026,11 @@
 				},
 				{
 					"src": "./resources/images/Italia/vaticano3.jpg",
-					"description": "Solar importante para mi, historia larga y poco tiempo"
+					"description": "Solar importante para mí, historia larga y poco tiempo"
 				},
 				{
 					"src": "./resources/images/Italia/vaticano4.jpg",
-					"description": "Entrada de la plaza del vaticano. En esta foto hay dos paises al tiempo"
+					"description": "Entrada de la plaza del vaticano. En esta foto hay dos países al tiempo"
 				}
 			]
 		},
@@ -1043,11 +1043,11 @@
 			"contents": [
 				{
 					"title": "La basílica",
-					"text": "Aunque la fila fue larga, valió la pena. El edificio principal de la basílica es prominente. Se nota el esfuerzo a travez de los años de llenar este santuario de pinturas, esculturas y simbolismos religiosos. <br>La entrada a la plaza es una calle amplia, que uno suele ver en semana santa llena de creyentes. En las entradas de la basílica se ven los curiosos guardias suizos vestidos con uniformes coloridos."
+					"text": "Aunque la fila fue larga, valió la pena. El edificio principal de la basílica es prominente. Se nota el esfuerzo a través de los años de llenar este santuario de pinturas, esculturas y simbolismos religiosos. <br>La entrada a la plaza es una calle amplia, que uno suele ver en semana santa llena de creyentes. En las entradas de la basílica se ven los curiosos guardias suizos vestidos con uniformes coloridos."
 				},
 				{
-					"title": "El arte, las esculturas y la fé",
-					"text": "Siempre que visito algun sitio que tiene relación con la religión me deja anonadado lo que la gente es capaz de hacer por la fe, por sus creencias y su cultura. Esta construcción es muy antigua, y la magnitud de la misma sin duda fue un reto de ingeniería y arquitectura para la época. Seguramente requirió apoyo economico y mano de obra descomunal. La gente se mueve por la fé y logra cosas tan magníficas como estas. Eso en si mismo tiene su valor.<br>Dentro de la catedral, no hay un centímetro cuadrado que no este decorado con arte de la época. Es simplemente increible"
+					"title": "El arte, las esculturas y la fe",
+					"text": "Siempre que visito algún sitio que tiene relación con la religión me deja anonadado lo que la gente es capaz de hacer por la fe, por sus creencias y su cultura. Esta construcción es muy antigua, y la magnitud de esta sin duda fue un reto de ingeniería y arquitectura para la época. Seguramente requirió apoyo económico y mano de obra descomunal. La gente se mueve por la fe y logra cosas tan magníficas como estas. Eso en sí mismo tiene su valor.<br>Dentro de la catedral, no hay un centímetro cuadrado que no esté decorado con arte de la época. Es simplemente increíble"
 				}
 			]
 		},
@@ -1081,11 +1081,11 @@
 			"contents": [
 				{
 					"title": "Almuerzo en Roma",
-					"text": "Luego de salir del vaticano, conseguí un restaurante de pastas. Al fin y al cabo estaba en Italia no?"
+					"text": "Luego de salir del vaticano, conseguí un restaurante de pastas. ¿Al fin y al cabo, estaba en Italia no?"
 				},
 				{
-					"title": "Vistas estupidamente bonitas!",
-					"text": "Lo curioso del restaurante es que si se miraba a la izquierda podía ver el vaticano y si se miraba a la derecha, se podía ver el castillo de San Angelo. Es el castillo que se ve en la siguiente imagen. Segun lo que entendí, en ese castillo se escondió el papa para resistir a la invasión española. Se dice que el papa sobreivió tal invasión guardado en el castillo. <br>Según entedí, San Angelo tambien era familiar del castillo de San Felipe en Cartagena, pero no se hablaban mucho porque la correspondencia hasta roma estaba interrumpida por los vikingos. Vikingos que a su vez eran primos hermanos de los bolis y el Bon Ice"
+					"title": "Vistas estúpidamente bonitas!",
+					"text": "Lo curioso del restaurante es que si se miraba a la izquierda podía ver el vaticano y si se miraba a la derecha, se podía ver el castillo de San Angelo. Es el castillo que se ve en la siguiente imagen. Según lo que entendí, en ese castillo se escondió el papa para resistir a la invasión española. Se dice que el papa sobrevivió tal invasión guardado en el castillo. <br>Según entendí, San Angelo también era familiar del castillo de San Felipe en Cartagena, pero no se hablaban mucho porque la correspondencia hasta roma estaba interrumpida por los vikingos. Vikingos que a su vez eran primos hermanos de los bolis y el Bon Ice"
 				}
 			]
 		},
@@ -1129,11 +1129,11 @@
 			"contents": [
 				{
 					"title": "El primer destino",
-					"text": "Caminar por las calles de Roma en sí mismo fue extremadamente satisfactorio. Son calles hermosas que hablan de una ciudad que tiene milenios de historia. Todas las calles son angostas y las famosas motos Vespa se parquean en fila a travez de ellas. Las calles tienen giros extraños y los edificios siguen la forma extraña de estos giros. Lo curioso de la foto a continuación es ver en primer lugar a un policia muy italiano y en la foto de la derecha un barrio normal. Un barrio común y corriente que en la  mitad posee uno monumento de mas de mil años de antiguedad. Un sitio del que había escuchado hablar, del que había visto fotos y que por fin confirme, que efectivamente era real"
+					"text": "Caminar por las calles de Roma en sí mismo fue extremadamente satisfactorio. Son calles hermosas que hablan de una ciudad que tiene milenios de historia. Todas las calles son angostas y las famosas motos Vespa se parquean en fila a través de ellas. Las calles tienen giros extraños y los edificios siguen la forma extraña de estos giros. Lo curioso de la foto a continuación es ver en primer lugar a un policía muy italiano y en la foto de la derecha un barrio normal. Un barrio común y corriente que en la mitad posee uno monumento de más de mil años de antigüedad. Un sitio del que había escuchado hablar, del que había visto fotos y que por fin confirme, que efectivamente era real"
 				},
 				{
 					"title": "El libro de sociales",
-					"text": "El panteón romano no es tan grande. Las personas a escala ayudan y la perspectiva de la camara hace que se vea gigante. Sin embargo, para la época fue la maravilla ingenieríl. En el panteon hay una inscripción, alguien pregunto lo que decía la inscripción a lo que yo le contesté. Claramente dice>: MAGRIPPA L F COS TERTIVM FECIT<br><br><i>Los siento en mi mente retumbando como si estuvieran a mi lado. Lo que me hace recordar que no eran dioses en el mismo sentido de vista que hoy los entendemos. Que en su mente no solo ellos lo eran. Todos lo eran. El libro de sociales, las fotos de Internet y los diálogos con conocidos no le hacen justicia. No porque sean más bonitos en la vida real... En la realidad las fotos se ven mejor. Sino porque humanizan algo inhumanizable. Tangibilizan algo que era intangible. Hacen posible lo que aquel sujeto de paipa creía imposible. Retumba en mi mente pasos de dioses que pisaron el mismo suelo en el que estoy parado. Y hasta ese día entendí lo humanos que eran.</i>"
+					"text": "El panteón romano no es tan grande. Las personas a escala ayudan y la perspectiva de la cámara hace que se vea gigante. Sin embargo, para la época fue la maravilla ingenieril. En el panteón hay una inscripción, alguien pregunto lo que decía la inscripción a lo que yo le contesté. Claramente dice>: MAGRIPPA L F COS TERTIVM FECIT<br><br><i>Los siento en mi mente retumbando como si estuvieran a mi lado. Lo que me hace recordar que no eran dioses en el mismo sentido de vista que hoy los entendemos. Que en su mente no solo ellos lo eran. Todos lo eran. El libro de sociales, las fotos de Internet y los diálogos con conocidos no le hacen justicia. No porque sean más bonitos en la vida real... En la realidad las fotos se ven mejor. Sino porque humanizan algo inhumanizable. Tangibilizan algo que era intangible. Hacen posible lo que aquel sujeto de paipa creía imposible. Retumba en mi mente pasos de dioses que pisaron el mismo suelo en el que estoy parado. Y hasta ese día entendí lo humanos que eran.</i>"
 				}
 			]
 		},
@@ -1164,11 +1164,11 @@
 			"contents": [
 				{
 					"title": "La famosa bóveda",
-					"text": "Las bóveda del panteon es una maravilla de ingeniería incluso hoy en día. Es la bóveda de concreto sin reforzar mas grande que existe. Es simple y bonita. La luz del sol entra por el orificio del centro alumbrando el interior del panteon de manera magistral... En el interior del panteon hoy en día hay una iglesia católica... Eso no se construyó con ese propósito. De ahí el segundo pensamiento del panteon. <i>La cultura es la habilidad de conservar y de destruir, que cuando estas dos fuerzas estan en armonía, se conserva la destrucción de la historia</i>"
+					"text": "La bóveda del panteón es una maravilla de ingeniería incluso hoy en día. Es la bóveda de concreto sin reforzar más grande que existe. Es simple y bonita. La luz del sol entra por el orificio del centro alumbrando el interior del panteón de manera magistral... En el interior del panteón hoy en día hay una iglesia católica... Eso no se construyó con ese propósito. De ahí el segundo pensamiento del panteón. <i>La cultura es la habilidad de conservar y de destruir, que cuando estas dos fuerzas están en armonía, se conserva la destrucción de la historia</i>"
 				},
 				{
-					"title": "Tienda bialeti",
-					"text": "Despues de tantas frases extrañas llegué a una tienda de cafeteras. DE MARCA BIALETTI. Las Mokas italianas clásicas que todo el mundo tiene olvidadas en algun cajón de la cocina. Estas cafeteras nacieron en italia y su icónico diseño de poligonos y cortes fuertes lo inventó la empresa Bialetti. Tienen una gran variedad de Mokas, en distintos tamaños y colores. Terminé comprando una \"Mokina\". Mas adelante hay una foto"
+					"title": "Tienda bialetti",
+					"text": "Después de tantas frases extrañas llegué a una tienda de cafeteras. DE MARCA BIALETTI. Las mokas italianas clásicas que todo el mundo tiene olvidadas en algún cajón de la cocina. Estas cafeteras nacieron en Italia y su icónico diseño de polígonos y cortes fuertes lo inventó la empresa Bialetti. Tienen una gran variedad de mokas, en distintos tamaños y colores. Terminé comprando una \"Mokina\". Mas adelante hay una foto"
 				}
 			]
 		},
@@ -1190,12 +1190,12 @@
 			],
 			"contents": [
 				{
-					"title": "El balneario de trevi y Le Luthiers",
-					"text": "La fuente es importante. Era uno de mis objetivos al ir a Roma. No había visto fotos pero había escuchado historias. En especial en uno de las canciones de Le Luthiers...<br><br>En \"Loas al cuarto de baño\" Le Luthiers cuenta como el compositor <i>Johan Sebastian Mastropiero</i> usa instrumentos creados a partir de elementos de un baño para mostrar la \"escencia\" de su composición. En la introducción de la obra mencionan un poema donde idolatran lo afortunados que somos al tener a la mano un baño<br><br>Extracto de la obra:<br><i>Es verdad que el humilde espejo de un botiquín no tiene la hondura metafísica de los espejos de Borges; es verdad que en nuestras domésticas bañeras nadie descubrirá el principio de Arquímedes; es verdad que nuestros baños no poseen el prestigio de las fuentes como Versalles, o Fontanebleau, o Plaza Lavalle… Y sin embargo, con sólo apretar un botón, ¡qué despliegue de manantiales! Y cuando uno se retira con la satisfacción del deber cumplido no necesita arrojar una moneda, como en la Fontana di Trevi, para asegurarse el regreso; uno sabe que ha de volver al día siguiente, o en algunos casos a los dos días… o tres o más…Bueno, no sé, en algún momento convendría probar con la moneda…</i>"
+					"title": "El balneario de Trevi y Le Luthiers",
+					"text": "La fuente es importante. Era uno de mis objetivos al ir a Roma. No había visto fotos, pero había escuchado historias. En especial en una de las canciones de Le Luthiers...<br><br>En \"Loas al cuarto de baño\" Le Luthiers cuenta como el compositor <i>Johan Sebastian Mastropiero</i> usa instrumentos creados a partir de elementos de un baño para mostrar la \"esencia\" de su composición. En la introducción de la obra mencionan un poema donde idolatran lo afortunados que somos al tener a la mano un baño<br><br>Extracto de la obra:<br><i>Es verdad que el humilde espejo de un botiquín no tiene la hondura metafísica de los espejos de Borges; es verdad que en nuestras domésticas bañeras nadie descubrirá el principio de Arquímedes; es verdad que nuestros baños no poseen el prestigio de las fuentes como Versalles, o Fontainebleau, o Plaza Lavalle… Y sin embargo, con sólo apretar un botón, ¡qué despliegue de manantiales! Y cuando uno se retira con la satisfacción del deber cumplido no necesita arrojar una moneda, como en la Fontana di Trevi, para asegurarse el regreso; uno sabe que ha de volver al día siguiente, o en algunos casos a los dos días… o tres o más…Bueno, no sé, en algún momento convendría probar con la moneda…</i>"
 				},
 				{
 					"title": "El agua que ha visto mil vidas",
-					"text": "Despues de cantar la canción de Le Luthiers en mi cabeza unas cinco veces, por fín encontre un huequito entre la  multitud. Fue exactamente en la mitad de la fuente. Ahí me senté y tire hacia atras una moneda. Luego pude tocar el agua, no tiene ningún misterio realmente, es agua fria. Pero la sensación de haber llegado me dio tranquilidad. No se si Le Luthiers tenía razon y la moneda me garantize el regreso, pero de ser así, algun día volveré al agua que ha visto mil vidas.<br><br>Es una fuente muy grande, en mi mente se quedo bautizado como el balneario de Trevi"
+					"text": "Después de cantar la canción de Le Luthiers en mi cabeza unas cinco veces, por fin encontré un huequito entre la multitud. Fue exactamente en la mitad de la fuente. Ahí me senté y tiré hacia atrás una moneda. Luego pude tocar el agua, no tiene ningún misterio realmente, es agua fría. Pero la sensación de haber llegado me dio tranquilidad. No sé si Le Luthiers tenía razón y la moneda me garantiza el regreso, pero de ser así, algún día volveré al agua que ha visto mil vidas.<br><br>Es una fuente muy grande, en mi mente se quedó bautizado como el balneario de Trevi"
 				}
 			]
 		},
@@ -1218,11 +1218,11 @@
 			"contents": [
 				{
 					"title": "El man que unificó Italia",
-					"text": "Luego de eso llegué a un monumento de lo mas extraño en honor a muchas cosas al tiempo. La atracción principal era la estatua del \"man\" que unificó a los reinos de italia. El problema, es que a hoy en día se desconoce el nombre de esta persona. Bueno, dejenme reescribir eso. Puede que otras personas si sepan el nombre de dicha persona, incluso puede que en algunos carteles este el nombre exacto, sin embargo, no me acuerdo.<br><br>Este monumento es bien grande... Termine descansando de la caminata en una banca hecha a partir de la piedra del monumento. Es increible la cantidad tan exagerada de piedra que hay ahí"
+					"text": "Luego de eso llegué a un monumento de lo más extraño en honor a muchas cosas al tiempo. La atracción principal era la estatua del \"man\" que unificó a los reinos de Italia. El problema, es que a hoy en día se desconoce el nombre de esta persona. Bueno, déjenme reescribir eso. Puede que otras personas si sepan el nombre de dicha persona, incluso puede que en algunos carteles este el nombre exacto, sin embargo, no me acuerdo.<br><br>Este monumento es bien grande... Termine descansando de la caminata en una banca hecha a partir de la piedra del monumento. Es increíble la cantidad tan exagerada de piedra que hay ahí"
 				},
 				{
 					"title": "Las extrañas vistas del cercano destino",
-					"text": "Saliendo del monumento del man que unifico a italia, hay un balcon. Ahí hay una vista hermosa a la Roma antigua, a las ruinas y al foro romano. En esta foto vi el coliseo en la mitad y me causo curiosidad lo lejos que se veía. Sin duda estaba mas cerca que cuando empezé el viaje en Bogotá."
+					"text": "Saliendo del monumento del man que unifico a Italia, hay un balcón. Ahí hay una vista hermosa a la Roma antigua, a las ruinas y al foro romano. En esta foto vi el coliseo en la mitad y me causo curiosidad lo lejos que se veía. Sin duda estaba más cerca que cuando empecé el viaje en Bogotá."
 				}
 			]
 		},
@@ -1245,11 +1245,11 @@
 			"contents": [
 				{
 					"title": "El foro romano",
-					"text": "Son ruinas, estan rotas. es parte del Parque Arqueológico del Coliseo. A partir del siglo VII a. C. fue el centro de la vida pública de la antigua Roma. Esta bonito pero el recorrido completo perfectamente podría durar días enteros. Tiene muchos detalles y ruinas que ver y detallar"
+					"text": "Son ruinas, están rotas. es parte del Parque Arqueológico del Coliseo. Fue el centro de la vida pública de la antigua Roma. Esta bonito pero el recorrido completo perfectamente podría durar días enteros. Tiene muchos detalles y ruinas que ver y detallar"
 				},
 				{
 					"title": "El agua",
-					"text": "Los monumentos romanos son increibles, sin embargo hubo algo en toda europa que me dejó mas pensativo. Algo tan sencillo como las tomas de agua...<br><br>En la mayoría de ciudades de europa hay tomas de agua potable gratuitas. Todas las personas pueden tomar agua gratuitamente. El agua esta fría y ayuda a la gente a pasar el calor de verano. Eso me rompió la cabeza!! No pude dejar de pensar en como cambiaría la vida de muchas personas en Bogotá si algo similar existiera, cuanta gente no tendría que sufrir o morir de sed...<br><br>La toma de agua de la foto no se ve muy apetecible. Esta en especial estaba en un callejón medio oculto, sin embargo el agua que sale es completamente potable"
+					"text": "Los monumentos romanos son increíbles, sin embargo, hubo algo en toda Europa que me dejó más pensativo. Algo tan sencillo como las tomas de agua...<br><br>En la mayoría de las ciudades de Europa hay tomas de agua potable gratuitas. Todas las personas pueden tomar agua gratuitamente. El agua esta fría y ayuda a la gente a pasar el calor de verano. ¡¡Eso me rompió la cabeza!! No pude dejar de pensar en cómo cambiaría la vida de muchas personas en Bogotá si algo similar existiera, cuánta gente no tendría que sufrir o morir de sed...<br><br>La toma de agua de la foto no se ve muy apetecible. Esta en especial estaba en un callejón medio oculto, sin embargo, el agua que sale es completamente potable"
 				}
 			]
 		},
@@ -1262,11 +1262,11 @@
 			"contents": [
 				{
 					"title": "La foto que venía a tomar",
-					"text": "Ya. Por fin llegamos al destino. El coliseo romano. Dicen que falta poco para que una empresa de telefonía lo restaure y se convierta en el Movistar Colosseo<br><br>Esta era la otra portada del libro de sociales. Era un reto poder ver ese monumento del que tanto se habla. De tocar la piedra y ver con mis propios ojos la arena donde posiblemente miles (o millones) de personas perdieron la vida. Donde miles (o millones) de personas gritaron de emocion y/o de tristeza"
+					"text": "Ya. Por fin llegamos al destino. El coliseo romano. Dicen que falta poco para que una empresa de telefonía lo restaure y se convierta en el Movistar Colosseo<br><br>Esta era la otra portada del libro de sociales. Era un reto poder ver ese monumento del que tanto se habla. De tocar la piedra y ver con mis propios ojos la arena donde posiblemente miles (o millones) de personas perdieron la vida. Donde miles (o millones) de personas gritaron de emoción y/o de tristeza"
 				},
 				{
 					"title": "Los 18.80 euros",
-					"text": "Esta gente sabe del negocio. El precio de entrada básico al coliseo es de 18.80 euros que solo incluye la entrada a dos pisos del coliseo. Los precios aumenta dependiendo las actividades que uno quiera hacer en el coliseo. En esa foto ya eran aproximadamente las 6 de la tarde. Hice el recorrido, leí los carteles que pude y cuando terminé, me senté en una piedra que tenían ahí para sentarse. La piedra resultó ser una columna griega del orden corintio. Salí del coliseo al metro (que justamente era la estación en la que me había perdido el dia anterior) y despues de un viaje de mas o menos hora y media, llegue al hostal. El objetivo de Roma se había cumplido"
+					"text": "Esta gente sabe del negocio. El precio de entrada básico al coliseo es de 18.80 euros que solo incluye la entrada a dos pisos del coliseo. Los precios aumentan dependiendo las actividades que uno quiera hacer en el coliseo. En esa foto ya eran aproximadamente las 6 de la tarde. Hice el recorrido, leí los carteles que pude y cuando terminé, me senté en una piedra que tenían ahí para sentarse. La piedra resultó ser una columna griega del orden corintio. Salí del coliseo al metro (que justamente era la estación en la que me había perdido el día anterior) y después de un viaje de más o menos hora y media, llegué al hostal. El objetivo de Roma se había cumplido"
 				}
 			]
 		},
@@ -1287,7 +1287,7 @@
 				},
 				{
 					"src": "./resources/images/Italia/coliseo5.jpg",
-					"description": "Arco que esta afuera del coliseo"
+					"description": "Arco que está afuera del coliseo"
 				}
 			]
 		},
@@ -1309,12 +1309,12 @@
 			],
 			"contents": [
 				{
-					"title": "¿Que es mas valioso?",
-					"text": "<i>¿El queso o el vino?</i><br>EL QUESO. En los paises que visité el vino es EXAGERADAMENTE barato. Esa botella costó 1.35 euros. Que buena vida se dan...<br><br><i>¿Una moka Bialetti o 4 rollos de 35mm?</i><br>Los rollos, no porque tangan mayor precio monetario, sino porque en Roma se acabaron, tome las 144 fotos de los 4 rollos que llevé. Son mas valiosos porque ahora llevan mis recuerdos"
+					"title": "¿Que es más valioso?",
+					"text": "<i>¿El queso o el vino?</i><br>EL QUESO. En los países que visité el vino es EXAGERADAMENTE barato. Esa botella costó 1.35 euros. Que buena vida se dan...<br><br><i>¿Una moka Bialetti o 4 rollos de 35mm?</i><br>Los rollos, no porque tangan mayor precio monetario, sino porque en Roma se acabaron, tome las 144 fotos de los 4 rollos que llevé. Son más valiosos porque ahora llevan mis recuerdos"
 				},
 				{
 					"title": "Todos los caminos llevan a Roma*",
-					"text": "*En realidad el tren Leonardo Express lleva a roma desde el aeropuerto de Fuimicino. Y tengo que ir al aeropuerto temprano... Ahora por fin, voy para Londres"
+					"text": "*En realidad el tren Leonardo Express lleva a roma desde el aeropuerto de Fiumicino. Y tengo que ir al aeropuerto temprano... Ahora por fin, voy para Londres"
 				}
 			]
 		},
@@ -1343,11 +1343,11 @@
 			"contents": [
 				{
 					"title": "Seguir contando la historia",
-					"text": "Al día siguiente madruge para viajar a Londres. Tomé metro al Termini. Luego un tren hasta el aeropuerto de Roma, luego un avion hasta el aeropuerto Gatwick de Londres, luego un tren desde ese aeropuerto hasta la estación victoria y luego, caminar hasta el hotel.<br><br>Durante los vuelos aproveché el tiempo desconectado para continuar escribiendo la historia. Organizando lo que pasó para ponerlo en la página. Ese día estaba muy molesto. Se habían acabado los rollos, era como si ya hubiera acabado mi objetivo y no tuviera sentido llegar a Londres. Eso no fue así afortunadamente, disfruté mucho Londres. Todas las fotos a continuación se tomaron con el celular porque pues se acabaron los rollos. Por eso no se ven tal lindas :3"
+					"text": "Al día siguiente madrugue para viajar a Londres. Tomé metro al Termini. Luego un tren hasta el aeropuerto de Roma, luego un avión hasta el aeropuerto Gatwick de Londres, luego un tren desde ese aeropuerto hasta la estación victoria y luego, caminar hasta el hotel.<br><br>Durante los vuelos aproveché el tiempo desconectado para continuar escribiendo la historia. Organizando lo que pasó para ponerlo en la página. Ese día estaba muy molesto. Se habían acabado los rollos, era como si ya hubiera acabado mi objetivo y no tuviera sentido llegar a Londres. Eso no fue así afortunadamente, disfruté mucho Londres. Todas las fotos a continuación se tomaron con el celular porque pues se acabaron los rollos. Por eso no se ven tal lindas :3"
 				},
 				{
 					"title": "Los trenes y el avion",
-					"text": "El tren de Gatwick a Londres fue muy distinto que el de Roma. El de roma era de sillas parecidas a las de un transmilenio pero era muy aseado. Este tren de Londres era de sillas mas \"premium\" pero estaba sucio. Las culturas son completamente distintas!!"
+					"text": "El tren de Gatwick a Londres fue muy distinto que el de Roma. El de roma era de sillas parecidas a las de un Transmilenio, pero era muy aseado. Este tren de Londres era de sillas más \"premium\" pero estaba sucio. ¡Las culturas son completamente distintas!!"
 				}
 			]
 		},
@@ -1380,11 +1380,11 @@
 			"contents": [
 				{
 					"title": "God save the <del>queen</del> king",
-					"text": "El primer día visité el palacio. Realmente solo se ve desde afuera y todo el complejo esta muy bien cuidado. Es muy interesante pensar que ese palacio ha sido habitado por una linea familiar desde hace milenios."
+					"text": "El primer día visité el palacio. Realmente solo se ve desde afuera y todo el complejo está muy bien cuidado. Es muy interesante pensar que ese palacio ha sido habitado por una línea familiar desde hace milenios."
 				},
 				{
 					"title": "El parque y el recorrido",
-					"text": "Frente al palacio de buckindsanjam hay un parquesito. Ese parquesito es extenso y esta muy bien cuidado. Se ven cuervos y amplias zonas para compartir, comer y hablar. Evidentemente habían personas tocando guitarra cantando canciones locales. En el parque hay un monumento en honor a los soldados canadienses de la segunda guerra, farolas y avisos muy del estilo de Londres. En el parque compré una cerveza y unas piezas de pollo apanado. Londres es carísimo. Es lo único que diré.<br><br>Despues del parque visité una cafetería donde tomé cafe COLOMBIANO por un precio agresivo. Finalmente termine en una librería gigante de varios pisos. Me compre \"Warbreaker\" de Sanderson"
+					"text": "Frente al palacio de buckindsanjam hay un parquecito. Ese parquecito es extenso y está muy bien cuidado. Se ven cuervos y amplias zonas para compartir, comer y hablar. Evidentemente había personas tocando guitarra cantando canciones locales. En el parque hay un monumento en honor a los soldados canadienses de la segunda guerra, farolas y avisos muy del estilo de Londres. En el parque compré una cerveza y unas piezas de pollo apanado. Londres es carísimo. Es lo único que diré.<br><br>Después del parque visité una cafetería donde tomé café COLOMBIANO por un precio agresivo. Finalmente termine en una librería gigante de varios pisos. Me compre \"Warbreaker\" de Sanderson"
 				}
 			]
 		},
@@ -1397,11 +1397,11 @@
 				},
 				{
 					"src": "./resources/images/UK/parque2.jpg",
-					"description": "Pollo y ceveza a sobre precio"
+					"description": "Pollo y cerveza a sobre precio"
 				},
 				{
 					"src": "./resources/images/UK/telefonoground.jpg",
-					"description": "Telefonos públicos (basureros) y metro"
+					"description": "Teléfonos públicos (basureros) y metro"
 				},
 				{
 					"src": "./resources/images/UK/brandon.jpg",
@@ -1428,11 +1428,11 @@
 			"contents": [
 				{
 					"title": "Destinos aleatorios",
-					"text": "Al otro día sali a dar la caminata principal. El objetivo era llegar al London Tower que quedaba aproximadamente a 8km en linea recta desde el hotel. Sali en dirección equivocada y por el destino terminé en una iglesia que me llamó la atención. Terminó siendo Westminster Abbey, la iglesia donde se realizan las ceremonias de coronación de los reyes y reinas del reino unido"
+					"text": "Al otro día salí a dar la caminata principal. El objetivo era llegar al London Tower que quedaba aproximadamente a 8km en línea recta desde el hotel. Sali en dirección equivocada y por el destino terminé en una iglesia que me llamó la atención. Terminó siendo Westminster Abbey, la iglesia donde se realizan las ceremonias de coronación de los reyes y reinas del reino unido"
 				},
 				{
 					"title": "Parlamento",
-					"text": "Ahi al lado se encuentra el parlamento, es un edificio GIGANTE con arquitectura hermosa. Cada detalle encada ventana cuenta una historia, además que estoy seguro que nunca se pierden de la hora. Al lado tienen un reloj muy grande"
+					"text": "Ahí al lado se encuentra el parlamento, es un edificio GIGANTE con arquitectura hermosa. Cada detalle encada ventana cuenta una historia, además que estoy seguro de que nunca se pierden de la hora. Al lado tienen un reloj muy grande"
 				}
 			]
 		},
@@ -1459,7 +1459,7 @@
 				},
 				{
 					"title": "El Borough Market",
-					"text": "Cambie de distrito, estaba en Westminster y pasé el tamesis y llegue a Waterloo. En Waterloo necesitaba entrar a un baño, ya casi era hora de almorzar. Lo curioso fue ver una carpa gigante y el aviso de Borough Market. Recuerdo este lugar con mucho cariño, lo había visto en un video sobre café... Es un mercado campesino fifirisnais.<br><br>En el mercado había una tienda de té, que resultó ser una muy relevante en la cultura de Londres. Me pedí un te chai, recordando los tiempos en que tomar te chai no sabía tan amargo. Entre recuerdos y sensaciones el sabor de las especias, el gengibre y el ligero toque de miel me convencieron de que tenía que llevar mas té para Colombia. Estaba delicioso.<br><br>Una curiosidad de la cultura de Londres es que la gente se puede detener tranquilamente a hablar con uno. Por ejemplo el vendedor de la tienda de té terminó hablando conmigo por un buen rato. Sun muy formales y muy decentes"
+					"text": "Cambie de distrito, estaba en Westminster y pasé el Támesis y llegue a Waterloo. En Waterloo necesitaba entrar a un baño, ya casi era hora de almorzar. Lo curioso fue ver una carpa gigante y el aviso de Borough Market. Recuerdo este lugar con mucho cariño, lo había visto en un video sobre café... Es un mercado campesino fifirisnais.<br><br>En el mercado había una tienda de té, que resultó ser una muy relevante en la cultura de Londres. Me pedí un te chai, recordando los tiempos en que tomar te chai no sabía tan amargo. Entre recuerdos y sensaciones el sabor de las especias, el jengibre y el ligero toque de miel me convencieron de que tenía que llevar mas té para Colombia. Estaba delicioso.<br><br>Una curiosidad de la cultura de Londres es que la gente se puede detener tranquilamente a hablar con uno. Por ejemplo, el vendedor de la tienda de té terminó hablando conmigo por un buen rato. Son muy formales y decentes"
 				}
 			]
 		},
@@ -1480,7 +1480,7 @@
 				},
 				{
 					"src": "./resources/images/UK/famoso.jpg",
-					"description": "Edificio famoso que recuerdo de algun video de arquitectura"
+					"description": "Edificio famoso que recuerdo de algún video de arquitectura"
 				}
 			]
 		},
@@ -1503,7 +1503,7 @@
 			"contents": [
 				{
 					"title": "El puente de la torre",
-					"text": "Despues de caminar bajo lluvia por un buen rato llegué al puente de la torre. Tambien un monumento importante para ver. Tiene unos pisos de cristal en la parte superior. La entrada de abajo es gratis y la superior es paga. Por la módica suma de 25 libras... Enserio, tienen huevo. En londres todas las atracciones turisticas tienen entrada paga, es todo muy costoso. Yo pasé por abajo del puente, y si me hubieran cobrado, lo mas viable hubiera sido pasar el tamesis nadando"
+					"text": "Después de caminar bajo lluvia por un buen rato llegué al puente de la torre. También un monumento importante para ver. Tiene unos pisos de cristal en la parte superior. La entrada de abajo es gratis y la superior es paga. Por la módica suma de 25 libras... Enserio, tienen huevo. En Londres todas las atracciones turísticas tienen entrada paga, es todo muy costoso. Yo pasé por abajo del puente, y si me hubieran cobrado, lo más viable hubiera sido pasar el Támesis nadando"
 				},
 				{
 					"title": "Cumpleaños",
@@ -1530,11 +1530,11 @@
 			"contents": [
 				{
 					"title": "London Tower",
-					"text": "Otro castillo... <br><br>Este por lo menos estaba arreglado. Es un museo donde se exponen las costumbres de los reyes de la época que habitaron ese castillo. El castillo se usaba como lugar de aduanas, tiene dos murallas que protegen los confines del castillo bajo una guardaia especial (distinta a la guardia real). Esta guardia tiene ceremonias muy específicas y curiosas que detallan en el castillo"
+					"text": "Otro castillo... <br><br>Este por lo menos estaba arreglado. Es un museo donde se exponen las costumbres de los reyes de la época que habitaron ese castillo. El castillo se usaba como lugar de aduanas, tiene dos murallas que protegen los confines del castillo bajo una guardia especial (distinta a la guardia real). Esta guardia tiene ceremonias muy específicas y curiosas que detallan en el castillo"
 				},
 				{
 					"title": "Las torres del castillo",
-					"text": "A diferencia de los otros castillos que visité, este era temático. En cada una de las torres había una exposición distinta. Esta que se ve en la foto eran las habitaciones del rey, y dentro se muestran réplicas de las camas, las sabanas, telas, acomodaciones, etc...<br><br>Un castillo asi cuidado significa que la entrada no es gratis. Uno puede disfrutar de esto por la módica suma de 35 libras o 27.70 si es estudiante. Esta fue la unica entrada que pagué en Londres"
+					"text": "A diferencia de los otros castillos que visité, este era temático. En cada una de las torres había una exposición distinta. Esta que se ve en la foto eran las habitaciones del rey, y dentro se muestran réplicas de las camas, las sábanas, telas, acomodaciones, etc...<br><br>Un castillo así cuidado significa que la entrada no es gratis. Uno puede disfrutar de esto por la módica suma de 35 libras o 27.70 si es estudiante. Esta fue la unica entrada que pagué en Londres"
 				}
 			]
 		},
@@ -1557,11 +1557,11 @@
 			"contents": [
 				{
 					"title": "El museo interactivo",
-					"text": "Otras torres mostraban la vida en el castillo, las cárceles, las costumbres de la guarda y los animales que traían al rey, generalmente como ofrendas. <br><br>Había una mesa interactiva con un mapa mundi y un microfono. Lo que uno hace es poner ese micrófono sobre el continente y suenan animalitos de la región. Evidentemente yo malinterpreté el dispositivo porque no me di cuenta que era un micrófono y lo usé como si fuera un martillo..."
+					"text": "Otras torres mostraban la vida en el castillo, las cárceles, las costumbres de la guarda y los animales que traían al rey, generalmente como ofrendas. <br><br>Había una mesa interactiva con un mapa mundi y un micrófono. Lo que uno hace es poner ese micrófono sobre el continente y suenan animalitos de la región. Evidentemente yo malinterpreté el dispositivo porque no me di cuenta de que era un micrófono y lo usé como si fuera un martillo..."
 				},
 				{
 					"title": "Exposiciones especiales",
-					"text": "Hay 2 salas importantes. La primera es la coleccion de armaduras (foto), esta chevere. La segunda es la mas importante, la colección de joyas de la corona. En este sitio esta prohibido tomar fotos... En ese salon se guardan las coronas antiguas que contienen joyas de valor incalculable. Trajes de ceremonias de coronación, cetros, espadas, etc, etc, etc... Eso fue muy interesante y valio la pena"
+					"text": "Hay 2 salas importantes. La primera es la coleccion de armaduras (foto), esta chevere. La segunda es la más importante, la colección de joyas de la corona. En este sitio está prohibido tomar fotos... En ese salón se guardan las coronas antiguas que contienen joyas de valor incalculable. Trajes de ceremonias de coronación, cetros, espadas, etc, etc, etc... Eso fue muy interesante y valió la pena"
 				}
 			]
 		},
@@ -1573,7 +1573,7 @@
 					"Saliendo de la torre, decidí que era momento de volver.",
 					"Pero faltaba algo...",
 					"<a class=\"player\" onclick=\"this.firstChild.play()\"><audio controlsList=\"nodownload\"><source src=\"./resources/images/UK/lib.m4a\" type=\"audio/mpeg\"></audio></audio><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></a>",
-					"<h6>Reprodicir y seguir viendo fotos, es mi propia version sin copyright...</h6>"
+					"<h6>Reproducir y seguir viendo fotos, es mi propia versión sin copyright...</h6>"
 				]
 			}
 		},
@@ -1585,11 +1585,11 @@
 			"contents": [
 				{
 					"title": "Something - The Beatles",
-					"text": "Tome muchos metros para llegar ahí...<br><br>Llevo desde que soy niño escuchando música de los Beatles. Siendo fan y tocando su música<br><br>Ocupan un lugar importante en mi vida y poder ver un sitio del remanente de su cultura fue un privilegio. Fue como un destino que honestamente no me esperaba llegar. Estoy completamente seguro que mi yo de hace 10 años no se imaginaría poder prescenciar el mismo sitio que esta viendo en la caratula de Abbey Road.<br><br>"
+					"text": "Tome muchos metros para llegar ahí...<br><br>Llevo desde que soy niño escuchando música de los Beatles. Siendo fan y tocando su música<br><br>Ocupan un lugar importante en mi vida y poder ver un sitio del remanente de su cultura fue un privilegio. Fue como un destino que honestamente no me esperaba llegar. Estoy completamente seguro que mi yo de hace 10 años no se imaginaría poder presenciar el mismo sitio que aparece en la caratula de Abbey Road.<br><br>"
 				},
 				{
 					"title": "The End - The Beatles",
-					"text": "Solo pude pensar en que estaba al otro lado del mundo, viendo algo que no sabía que quería ver. Algo con lo que nunca soñe porque lo pensé imposible."
+					"text": "Solo pude pensar en que estaba al otro lado del mundo, viendo algo que no sabía que quería ver. Algo con lo que nunca soñé porque lo pensé imposible."
 				}
 			]
 		},
@@ -1612,11 +1612,11 @@
 			"contents": [
 				{
 					"title": "Esta foto es bonita",
-					"text": "Y no se que mas decir aqui, es dificil poner en palabras esto. Es profundo"
+					"text": "Y no sé qué más poner aquí, es difícil poner en palabras esto. Es profundo"
 				},
 				{
 					"title": "Fotos raras",
-					"text": "En la primera foto no es que este triste, solo que estaba impactado. En la siguiente ya estaba en modo selfie.<br><br>Apenas mis pies dejarón de tocar las tenues lineas de cebra de Abbey Road, un nuevo objetivo se desbloqueó. Hay que volver a Bogotá"
+					"text": "En la primera foto no es que este triste, solo que estaba impactado. En la siguiente ya estaba en modo selfie.<br><br>Apenas mis pies dejaron de tocar las tenues líneas de cebra de Abbey Road, un nuevo objetivo se desbloqueó. Hay que volver a Bogotá"
 				}
 			]
 		},
@@ -1652,8 +1652,8 @@
 					"text": "Para llegar, tomé un tren en la estación de Waterloo. Guildford es un pueblo bien pequeño a 1 hora de Londres, es super antiguo y hay un mercado de pulgas tamaño familiar. Ahí compré un par de cosas jejejejeje"
 				},
 				{
-					"title": "Compañia",
-					"text": "En Guildford me encontré con una prima, Carmen Elisa. El plan fue de tomar té muy al estilo ingles, comer en un pub, ir al mercado de pulgas y conducir a la izquierda. Ese día fue muy británico. Por la tarde "
+					"title": "Compañía",
+					"text": "En Guildford me encontré con una prima, Carmen Elisa. El plan fue de tomar té muy al estilo inglés, comer en un pub, ir al mercado de pulgas y conducir a la izquierda. Ese día fue muy británico. En la tarde, salí para el aeropuerto de Heathrow"
 				}
 			]
 		},
@@ -1662,9 +1662,9 @@
 			"content": {
 				"title": "",
 				"subtitles": [
-					"Llegué con mi maleta, mi tula, mi almohada y una bolsa al otro aeropuerto de Londes",
-					"Me hicieron tirar a la basrua un par de frascos",
-					"En la sala de espera, vi sombreros vueltiaos, personas comiendo almojabana con queso y muchos pasaportes cafés con dorado que en la parte superior decían: Republica de Colombia",
+					"Llegué con mi maleta, mi tula, mi almohada y una bolsa al otro aeropuerto de Londres",
+					"Me hicieron tirar a la basura un par de frascos",
+					"En la sala de espera, vi sombreros vueltiaos, personas comiendo almojábana con queso y muchos pasaportes cafés con dorado que en la parte superior decían: Republica de Colombia",
 					"Hora de volver a casa..."
 				]
 			}
@@ -1691,7 +1691,7 @@
 			"contents": [
 				{
 					"title": "El viaje posible",
-					"text": "Al final llegué a Bogotá. En el Dorado vi como una azafata de Avianca se puso a bailar a las 3 de la mañana con la música de un parlante de una tienda de duty free. Ese sentimiento colombiano quedará grabado en mi memoria. Como somos felices en un pais con todos los problemas del mundo."
+					"text": "Al final llegué a Bogotá. En el Dorado vi como una azafata de Avianca se puso a bailar a las 3 de la mañana con la música de un parlante de una tienda de <i>duty free</i>. Ese sentimiento colombiano quedará grabado en mi memoria. Como somos felices en un país con todos los problemas del mundo."
 				}
 			]
 		},
@@ -1714,11 +1714,11 @@
 			"contents": [
 				{
 					"title": "Postales y página",
-					"text": "Al dia siguiente imprimí las postales. Comenezé a hacer los papeles para la visa y organizar mis cosas"
+					"text": "Al día siguiente imprimí las postales. Empecé a hacer los papeles para la visa y organizar mis cosas"
 				},
 				{
 					"title": "Una población de 9 millones",
-					"text": "Mientras estuve en esas ciudades nunca deje de pensar en las ciudades colombianas que conozco. Como es posible que Lisboa, Roma y Madrid tengan poblaciones tan bajas y un desarrollo cultural y económoco tan distinto a ciudades con poblaciones como Bogotá. No puedo dejar de pensar en el talento que tenemos, la gente que tenemos disponible y el potencial para crecer de estas ciudades.<br><br>Que impide poner tomas de agua para que nadie muera de sed en Bogota, que impide que el transmilenio y el inexistente metro de Bogotá presente servicios comparables a los de las ciudades europeas. Porque tengo que salir mirando a todos los lados con miedo a que me roben en Bogotá, mientras en Madrid puedo andar tranquilo con un computador en la calle.<br><br>Le he preguntado a varias personas, hay gente que dice que es una cuestion cultural, otros mencionan que son corrientes políticas y otros mencionan que es la corrupcion y que no pagamos impuestos. Yo no puedo pensar igual<br><br>Estoy seguro que es cuestión de tiempo y que ojala en menos de mil años, podamos caminar por el centro de Bogotá tomando fotos de calles hermosas, y no fotos de escenas de crimen. Se que así sucederá, conservación, destrucción y armonía..."
+					"text": "Mientras estuve en esas ciudades nunca deje de pensar en las ciudades colombianas que conozco. Como es posible que Lisboa, Roma y Madrid tengan poblaciones tan bajas y un desarrollo cultural y económico tan distinto a ciudades con poblaciones como Bogotá. No puedo dejar de pensar en el talento que tenemos, la gente que tenemos disponible y el potencial para crecer de estas ciudades.<br><br>Que impide poner tomas de agua para que nadie muera de sed en Bogotá, que impide que el Transmilenio y el inexistente metro de Bogotá presente servicios comparables a los de las ciudades europeas. Porque tengo que salir mirando a todos los lados con miedo a que me roben en Bogotá, mientras en Madrid puedo andar tranquilo con un computador en la calle.<br><br>Le he preguntado a varias personas, hay gente que dice que es una cuestión cultural, otros mencionan que son corrientes políticas y otros mencionan que es la corrupción y que no pagamos impuestos. Yo no puedo pensar igual<br><br>Estoy seguro de que es cuestión de tiempo y que ojalá en menos de mil años, podamos caminar por el centro de Bogotá tomando fotos de calles hermosas, y no fotos de escenas de crimen. Se que así sucederá, conservación, destrucción y armonía..."
 				}
 			]
 		},
@@ -1729,7 +1729,7 @@
 				"subtitles": [
 					"<a class=\"player\" onclick=\"this.firstChild.play()\"><audio controlsList=\"nodownload\"><source src=\"./resources/images/Colombia/libs.mp3\" type=\"audio/mpeg\"></audio></audio><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></a>",
 
-					"Como en los otros, dejalo sonar mientras pasas las fotos"
+					"<h6>Como en los otros, déjalo sonar mientras pasas las fotos</h6>"
 				]
 			}
 		},
