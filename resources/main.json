@@ -403,7 +403,7 @@
 			"contents": [
 				{
 					"title": "Castillo de San Jorge",
-					"text": "El viernes empezó la parte de turismo. Ese día tenía que salir del hotel. Así que estuve con mi maleta pesada caminando solo hasta el castillo. <br>El castillo como tal es pequeño. Son unas cuantas paredes y torres donde se puede caminar. Pero la vista desde el castillo es espectacular."
+					"text": "El viernes empezó la parte de turismo. Ese día tenía que salir del hotel. Así que estuve con mi maleta pesada caminando solo hasta el castillo. <br>El castillo como tal es pequeño. Son unas cuantas paredes y torres donde se puede caminar. Pero la vista desde el castillo es espectacular.<br>Fue claro desde un principio que San Jorge era primo de San Felipe, del castillo de Cartagena"
 				},
 				{
 					"title": "",
@@ -992,11 +992,11 @@
 			"contents": [
 				{
 					"title": "La pizza de Roma y la cerveza",
-					"text": ""
+					"text": "Esta foto no me gusta, pero es la única que tengo de la pizza. Cuando llegué al hostal ya eran las 10:00pm, tenia hambre y estaba estresado por la perdida en el metro. Solo vi una tienda abierta, una pizzeria de barrio por donde me estaba quedando. Sali por una pizza y una cerveza (la que sale en las fotos pasadas). La cerveza la elegí porque según la persona que me atendió, es la cerveza que consumen los locales. Ademas, el dibujo de la etiqueta se veia divertido."
 				},
 				{
 					"title": "Las vistas",
-					"text": "Dummy"
+					"text": "El hostal tenía un pequeño balcon que no se estaba usando. El paisaje nocturno de Roma fue hermoso. Ese fue un día muy largo. No me quedé de ningún transporte afortunadamente y a pesar que me perdí pude descansar... Por temas de las agendas de los vuelos solo podía disfrutar de un día entero en Roma, el día siguiente sería un día de caminata. Era mejor estar preparado..."
 				}
 			]
 		},
@@ -1041,8 +1041,14 @@
 			"color": "white",
 			"location": "Ciudad del Vaticano",
 			"contents": [
-				{ "title": "La basílica", "text": "" },
-				{ "title": "El arte, las esculturas y religión", "text": "" }
+				{
+					"title": "La basílica",
+					"text": "Aunque la fila fue larga, valió la pena. El edificio principal de la basílica es prominente. Se nota el esfuerzo a travez de los años de llenar este santuario de pinturas, esculturas y simbolismos religiosos. <br>La entrada a la plaza es una calle amplia, que uno suele ver en semana santa llena de creyentes. En las entradas de la basílica se ven los curiosos guardias suizos vestidos con uniformes coloridos."
+				},
+				{
+					"title": "El arte, las esculturas y la fé",
+					"text": "Siempre que visto algun sitio que tiene relación con la religión me deja anonadado lo que la gente es capaz de hacer por la fe, por sus creencias y su cultura. Esta construcción es muy antigua, y la magnitud de la misma sin duda fue un reto de ingeniería y arquitectura para la época. Seguramente requirió apoyo economico y mano de obra descomunal. La gente se mueve por la fé y logra cosas tan magníficas como estas. Eso en si mismo tiene su valor.<br>Dentro de la catedral, no hay un centímetro cuadrado que no este decorado con arte de la época. Es simplemente increible"
+				}
 			]
 		},
 		{
@@ -1075,11 +1081,11 @@
 			"contents": [
 				{
 					"title": "Almuerzo en Roma",
-					"text": "Dummy"
+					"text": "Luego de salir del vaticano, conseguí un restaurante de pastas. Al fin y al cabo estaba en italia no?"
 				},
 				{
 					"title": "Vistas estupidamente bonitas!",
-					"text": "Dummy"
+					"text": "Lo curioso del restaurante es que si se miraba a la izquierda podía ver el vaticano y sis e miraba a la derecha, se podía ver el castillo de San Angelo. Es el castillo que se ve en la siguiente imagen. Segun lo que entendí, en ese castillo se escondió el papa para resistir a la invasión española. Se dice que el papa sobreivió tal invasión guardado en el castillo. <br>Según entedí, San Angelo tambien era familiar del castillo de San Felipe en Cartagena, pero no se hablaban mucho porque la correspondencia hasta roma estaba interrumpido por los vikingos. Vikingos que a su vez eran primos hermanos de los bolis y el Bon Ice"
 				}
 			]
 		},
@@ -1123,11 +1129,11 @@
 			"contents": [
 				{
 					"title": "El primer destino",
-					"text": ""
+					"text": "Caminar por las calles de Roma en sí mismo fue extremadamente satisfactorio. Son calles hermosas que hablan de una ciudad que tiene milenios de historia. Todas las calles son angostas y las famosas motos Vespa se parquean en fila a travez de ellas. Las calles tienen giros extraños y los edificios siguen la forma extraña de estos giros. Lo curioso de la foto a continuación es ver en primer lugar a un policia muy italiano y en la foto de la derecha un barrio normal. Un barrio común y corriente que en la  mitad posee uno monumento de mas de mil años de antiguedad. Un sitio del que había escuchado hablar, del que había visto fotos y que por fin confirme, que efectivamente era real"
 				},
 				{
 					"title": "El libro de sociales",
-					"text": ""
+					"text": "El panteón romano no es tan grande. Las personas a escala ayudan y la perspectiva de la camara hace que se vea gigante. Sin embargo, para la época fue la maravilla ingenieríl. En el panteon hay una inscripción, alguien pregunto lo que decía la inscripción a lo que yo le contesté. Claramente dice>: MAGRIPPA L F COS TERTIVM FECIT<br><br><i>Los siento en mi mente retumbando como si estuvieran a mi lado. Lo que me hace recordar que no eran dioses en el mismo sentido de vista que hoy los entendemos. Que en su mente no solo ellos lo eran. Todos lo eran. El libro de sociales, las fotos de Internet y los diálogos con conocidos no le hacen justicia. No porque sean más bonitos en la vida real... En la realidad las fotos se ven mejor. Sino porque humanizan algo inhumanizable. Tangibilizan algo que era intangible. Hacen posible lo que aquel sujeto de paipa creía imposible. Retumba en mi mente pasos de dioses que pisaron el mismo suelo en el que estoy parado. Y hasta ese día entendí lo humanos que eran.</i>"
 				}
 			]
 		},
@@ -1158,11 +1164,11 @@
 			"contents": [
 				{
 					"title": "La famosa bóveda",
-					"text": ""
+					"text": "Las bóveda del panteon es una maravilla de ingeniería incluso hoy en día. Es la bóveda de concreto sin reforzar mas grande que existe. Es simple y bonita. La luz del sol entra por el orificio del centro alumbrando el interior del panteon de manera magistral... En el interior del panteon hoy en día hay una iglesia católica... Eso no se construyó con ese propósito. De ahí el segundo pensamiento del panteon. La cultura es la habilidad de conservar y de destruir, que cuando estas dos fuerzas estan en armonía, se conserva la destrucción de la historia"
 				},
 				{
 					"title": "Tienda bialeti",
-					"text": ""
+					"text": "Despues de tantas frases extrañas llegué a una tienda de cafeteras. DE MARCA BIALETTI. Las Mokas italianas clásicas que todo el mundo tiene olvidadas en algun cajón de la cocina. Estas cafeteras nacieron en italia y su icónico diseño de poligonos y cortes fuertes lo inventó la empresa Biealetti. Tienen una gran variedad de Mokas, en distintos tamaños y colores. Terminé comprando una \"Mokina\". Mas adelante hay una foto"
 				}
 			]
 		},
@@ -1185,11 +1191,11 @@
 			"contents": [
 				{
 					"title": "El balneario de trevi y Le Luthiers",
-					"text": ""
+					"text": "La fuente es importante. Era uno de mis objetivos al ir a Roma. No había visto fotos pero había escuchado historias. En especial en uno de las canciones de Le Luthiers...<br><br>En \"Odas al cuarto de baño\" Le Luthiers cuenta como el compositor <i>Johan Sebastian Mastropiero</i> usa instrumentos creados a partir de elementos de un baño para mostrar la \"escencia\" de su composición. En la introducción de la obra mencionan un poema donde idolatran lo afortunados que somos al tener a la mano un baño<br><br>Extracto de la obra:<br><i>Es verdad que el humilde espejo de un botiquín no tiene la hondura metafísica de los espejos de Borges; es verdad que en nuestras domésticas bañeras nadie descubrirá el principio de Arquímedes; es verdad que nuestros baños no poseen el prestigio de las fuentes como Versalles, o Fontanebleau, o Plaza Lavalle… Y sin embargo, con sólo apretar un botón, ¡qué despliegue de manantiales! Y cuando uno se retira con la satisfacción del deber cumplido no necesita arrojar una moneda, como en la Fontana di Trevi, para asegurarse el regreso; uno sabe que ha de volver al día siguiente, o en algunos casos a los dos días… o tres o más…Bueno, no sé, en algún momento convendría probar con la moneda…</i>"
 				},
 				{
 					"title": "El agua que ha visto mil vidas",
-					"text": ""
+					"text": "Despues de cantar la canción de Le Luthiers en mi cabeza unas cinco veces, por fín encontre un huequito entre la  multitud. Fue exactamente en la mitad de la fuente. Ahí me senté y tire hacia atras una moneda. Luego pude tocar el agua, no tiene ningún misterio realmente, es agua fria. Pero la sensación de haber llegado me dio tranquilidad. No se si Le Luthiers tenía razon y la moneda me garantize el regreso, pero de ser así, algun día volveré al agua que ha visto mil vidas.<br><br>Es una fuente muy grande, en mi mente se quedo bautizado como el balneario de Trevi"
 				}
 			]
 		},
@@ -1212,11 +1218,11 @@
 			"contents": [
 				{
 					"title": "El man que unificó Italia",
-					"text": ""
+					"text": "Luego de eso llegué a un monumento de lo mas extraño en honor a muchas cosas al tiempo. La atracción principal era la estatua del \"man\" que unificó a los reinos de italia. El problema, es que a hoy en día se desconoce el nombre de esta persona. Bueno, dejenme vreescribir eso. Puede que otras personas si sepan el nombre de dicha persona, incluso puede que en algunos carteles este el nombre exacto, sin embargo, no me acuerdo.<br><br>Este monumento es bien grande... Termine descansando de la caminata en una banca hecha a partir de la piedra del monumento. Es increible la cantidad tan exagerada de piedra que hay ahí"
 				},
 				{
 					"title": "Las extrañas vistas del cercano destino",
-					"text": ""
+					"text": "Saliendo del monumento del man que unifico a italia, hay un balcon. Ahí hay una vista hermosa a la Roma antigua, a las ruinas y al foro romano. En esta foto vi el coliseo en la mitad y me causo curiosidad lo lejos que se veía. Sin duda estaba mas cerca que cuando empezé el viaje en Bogotá."
 				}
 			]
 		},
@@ -1239,11 +1245,11 @@
 			"contents": [
 				{
 					"title": "El foro romano",
-					"text": ""
+					"text": "Son ruinas, estan rotas. es parte del Parque Arqueológico del Coliseo. A partir del siglo VII a. C. fue el centro de la vida pública de la antigua Roma. Esta bonito pero el recorrido completo perfectamente podría durar días enteros. Tiene muchos detalles y ruinas que ver y detallar"
 				},
 				{
 					"title": "El agua",
-					"text": ""
+					"text": "Los monumentos romanos son increibles, sin embargo hubo algo en toda europa que me dejó mas pensativo. Algo tan sencillo como las tomas de agua...<br><br>En la mayoría de ciudades de europa hay tomas de agua potable gratuitas. Todas las personas pueden tomar agua gratuitamente. El agua esta fría y ayuda a la gente a pasar el calor de verano. Eso me rompió la cabeza!! No pude dejar de pensar en como cambiaría la vida de muchas personas en Bogotá sialgo similar existiera, cuanta gente no tendría que sufrir o morir de sed...<br><br>La toma de agua de la foto no se ve muy apetecible. Esta en especial estaba en un callejón medio oculto, sin embargo el agua que sale es completamente potable"
 				}
 			]
 		},
@@ -1254,8 +1260,14 @@
 			"color": "white",
 			"location": "Roma, Italia",
 			"contents": [
-				{ "title": "La foto que venía a tomar", "text": "" },
-				{ "title": "Los 18.8 euros", "text": "" }
+				{
+					"title": "La foto que venía a tomar",
+					"text": "Ya. Por fin llegamos al destino. El coliseo romano. Dicen que falta poco para que una empresa de telefonía lo restaure y se convierta en el Movistar Colosseo<br><br>Esta era la otra portada del libro de sociales. Era un reto poder ver ese monumento del que tanto se habla. De tocar la piedra y ver con mis propios ojos la arena donde posiblemente miles (o millones) de personas perdieron la vida. Donde miles (o millones) de personas gritaron de emocion y/o de tristeza"
+				},
+				{
+					"title": "Los 18.80 euros",
+					"text": "Esta gente sabe del negocio. El precio de entrada básico al coliseo es ed 18.80 euros que solo incluye la entrada a dos pisos del coliseo. Los precios aumenta dependiendo las actividades que uno quiera hacer en el coliseo. En esa foto ya eran aproximadamente las 6 de la tarde. Hice el recorrido, leí los carteles que pude y cuando terminé, me senté en una piedra que tenían ahí para setnarse. La piedra resultó ser una columna griega del orden corintio. Salí del coliseo al metro (que justamente era la estación en la que me había perdido el dia anterior) y despues de un viaje de mas o menos hora y media, llegue al hostal. El objetivo de Roma se había cumplido"
+				}
 			]
 		},
 		{
@@ -1331,11 +1343,11 @@
 			"contents": [
 				{
 					"title": "Seguir contando la historia",
-					"text": "dsa"
+					"text": "Al día siguiente madruge para viajar a Londres. Tomé metro al Termini. Luego un tren hasta el aeropuerto de Roma, luego un avion hasta el aeropuerto Gatwick de Londres, luego un tren desde ese aeropuerto hasta la estación victoria y luego, caminar hasta el hotel.<br><br>Durante los vuelos aproveché el tiempo desconectado para continuar escribiendo la historia. Organizando lo que pasó para ponerlo en la página. Ese día estaba muy molesto. Se habían acabado los rollos, era como si ya hubiera acabado mi objetivo y no tuviera sentido llegar a Londres. Eso no fue así afortunadamente, disfruté mucho Londres. Todas las fotos a continuación se tomaron con el celular porque pues se acabaron los rollos. Por eso no se ven tal lindas :3"
 				},
 				{
 					"title": "Los trenes y el avion",
-					"text": "das"
+					"text": "El tren de Gatwick a Londres fue muy distinto que el de Roma. El de roma era de sillas parecidas a las de un transmilenio pero era muy aseado. Este tren de Londres era de sillas mas \"premium\" pero estaba sucio. Las culturas son completamente distintas!!"
 				}
 			]
 		},
@@ -1359,74 +1371,41 @@
 					"color": "white"
 				},
 				{
-					"src": "./resources/images/UK/nuck2.jpg",
-					"camera": "Mi celular",
-					"location": "Londres, UK",
-					"color": "white"
-				}
-			],
-			"contents": [
-				{
-					"title": "",
-					"text": ""
-				},
-				{
-					"title": "",
-					"text": ""
-				}
-			]
-		},
-		{
-			"type": "nphoto_view",
-			"images": [
-				{
 					"src": "./resources/images/UK/parque.jpg",
 					"camera": "Mi celular",
 					"location": "Londres, UK",
 					"color": "white"
-				},
-				{
-					"src": "./resources/images/UK/parque2.jpg",
-					"camera": "Mi celular",
-					"location": "Londres, UK",
-					"color": "white"
 				}
 			],
 			"contents": [
 				{
-					"title": "",
-					"text": ""
+					"title": "God save the <del>queen</del> king",
+					"text": "El primer día visité el palacio. Realmente solo se ve desde afuera y todo el complejo esta muy bien cuidado. Es muy interesante pernsar que ese palacio ha sido habitado por una linea familiar desde hace milenios."
 				},
 				{
-					"title": "",
-					"text": ""
+					"title": "El parque y el recorrido",
+					"text": "Frente al palacio de buckindsanjam hay un parquesito. Ese parquesito es extenso y esta muy bien cuidado. Se ven cuervos y amplias zonas para compartir, comer y hablar. Evidentemente habían personas tocando guitarra cantando canciones locales. En el parqwue hay un monumento en honor a los soldados canadienses de la segunda guerra, farolas y avisos muy del estilo de Londres. En el parque compré una cerveza y unas piezas de pollo apanado. Londres es carísimo. Es lo único que diré.<br><br>Despues del parque visité una cafetería donde tomé cafe COLOMBIANO por un precio agresivo. Finalmente termine en una librería gigante de varios pisos. Me compre \"Warbreaker\" de Sanderson"
 				}
 			]
 		},
 		{
-			"type": "nphoto_view",
-			"images": [
+			"type": "mosaic_view",
+			"imgs": [
+				{
+					"src": "./resources/images/UK/nuck2.jpg",
+					"description": "Otra vista del palacio de buckinsfjruashdaujcjam"
+				},
+				{
+					"src": "./resources/images/UK/parque2.jpg",
+					"description": "Pollo y ceveza a sobre precio"
+				},
 				{
 					"src": "./resources/images/UK/telefonoground.jpg",
-					"camera": "Mi celular",
-					"location": "Londres, UK",
-					"color": "white"
+					"description": "Telefonos públicos (basureros) y metro"
 				},
 				{
 					"src": "./resources/images/UK/brandon.jpg",
-					"camera": "Mi celular",
-					"location": "Londres, UK",
-					"color": "white"
-				}
-			],
-			"contents": [
-				{
-					"title": "",
-					"text": ""
-				},
-				{
-					"title": "",
-					"text": ""
+					"description": "Libros de Sanderson en una librería a la que entré"
 				}
 			]
 		},
@@ -1448,11 +1427,11 @@
 			],
 			"contents": [
 				{
-					"title": "",
-					"text": ""
+					"title": "Destinos aleatorios",
+					"text": "Al otro día sali a dar la caminata principal. El objetivo era llegar al London Tower que quedaba aproximadamente a 8km en linea recta desde el hotel. Sali en dirección equivocada y por el destino terminé en una iglesia que me llamó la atención. Terminó siendo Westminster Abbey, la iglesia donde se realizan las ceremonias de coronación de los reyes y reinas del reino unido"
 				},
 				{
-					"title": "",
+					"title": "Ahi al lado se encuentra el parlamento, es un edificio GIGANTE con arquitectura hermosa. Cada detalle enc ada ventana cuenta una historia, además que estoy seguro que nunca se pierden de la hora. Al lado tienen un reloj muy grande",
 					"text": ""
 				}
 			]
@@ -1475,12 +1454,12 @@
 			],
 			"contents": [
 				{
-					"title": "",
-					"text": ""
+					"title": "Big Ben",
+					"text": "Este es importante, es uno de los que recuerdo escuchar. Me dio mucha felicidad ver la torre gigantesca con un reloj arriba. Afortunadamente mi reloj estaba acorde a la hora que mostraba el Big Ben, eso solo significaba que era hora de seguir caminando..."
 				},
 				{
-					"title": "",
-					"text": ""
+					"title": "El Borough Market",
+					"text": "Cambie de distrito, estaba en Westminster y pasé el tamesis y llegue a Waterloo. En Waterloo necesitaba entrar a un baño, ya casi era hora de almorzar. Lo curioso fue ver una carpa gigante y el aviso de Borough Market. Recuerdo este lugar con mucho cariño, lo había visto en un video sobre café... Es un mercado campesino fifirisnais.<br><br>En el mercado había una tienda de té, que resultó ser una muy relevante en la cultura de Londres. Me pedí un te chai, recordando los tiempos en que tomar te chai no sabía tan amargo. Entre recuerdos y sensaciones el sabor de las especias, el gengibre y el ligero toque de miel me convencieron de que tenía que llevar mas té para Colombia. Estaba delicioso.<br><br>Una curiosidad de la cultura de Londres es que la gente se puede detener tranquilamente a hablar con uno. Por ejemplo el vendedor de la tienda de té terminó hablando conmigo por un buen rato. Sun muy formales y muy decentes"
 				}
 			]
 		},
@@ -1523,12 +1502,12 @@
 			],
 			"contents": [
 				{
-					"title": "",
-					"text": ""
+					"title": "El puente de la torre",
+					"text": "Despues de caminar bajo lluvia por un buen rato llegué al puente de la torre. Tambien un monumento importante para ver. Tiene unos pisos de cristal en la parte superior. La entrada de abajo es gratis y la superior es paga. Por la módica suma de 25 libras... Enserio, tienen huevo. En londres todas las atracciones turisticas tienen entrada paga, es todo muy costoso. Yo pasé por abajo del puente, y si me hubieran cobrado, lo mas viable hubiera sido pasar el tamesis nadando"
 				},
 				{
-					"title": "",
-					"text": ""
+					"title": "Cumpleaños",
+					"text": "Cuando llegué al puente de la torre, empezaron a salir una serie de aviones, bombarderos y jets en caravana. Luego salieron varios aviones con humo con los colores de la bandera. Según lo que entendí, alguien de la corona estaba cumpliendo años"
 				}
 			]
 		},
@@ -1550,12 +1529,12 @@
 			],
 			"contents": [
 				{
-					"title": "",
-					"text": ""
+					"title": "London Tower",
+					"text": "Otro castillo... <br><br>Este por lo menos estaba arreglado. Es un museo donde se exponen las costumbres de los reyes de la época que habitaron ese castillo. El castillo se usaba como lugar de aduanas, tiene dos murallas que protegen los confines del castillo bajo una guardaia especial (distinta a la guardai real). Esta guardia tiene ceremonias muy específicas y curiosas que detallan en el castillo"
 				},
 				{
-					"title": "",
-					"text": ""
+					"title": "Las torres del castillo",
+					"text": "A diferencia de los otros castillos que visité, este era temático. En cada una de las torres había una exposición distinta. Esta ques e ve en la foto eran las habitaciones del rey, y dentro se muestran réplicas de las camas, las sabanas, telas, acomodaciones, etc...<br><br>Un castillo asi cuidado significa que la entrada no es gratis. Uno puede disfrutar de esto por la módica suma de 35 libras o 27.70 si es estudiante. Esta fue la unica entrada que pagué en Londres"
 				}
 			]
 		},
@@ -1577,12 +1556,12 @@
 			],
 			"contents": [
 				{
-					"title": "",
-					"text": ""
+					"title": "El museo interactivo",
+					"text": "Otras torres mostraban la vida en el castillo, las cárceles, las costumbres de la guarda y los animales que traían al rey, generalmente como ofrendas. <br><br>Había una mesa interactiva con un mapa mundi y un microfono. Lo que uno hace es poner ese micrófono sobre el continente y suenan animalitos de la región. Evidentemente yo malinterpreté el dispositivo porque no me di cuenta que era un micrófono y lo usé como si fuera un martillo..."
 				},
 				{
-					"title": "",
-					"text": ""
+					"title": "Exposiciones especiales",
+					"text": "Hay 2 salas importantes. La primera es la coleccion de armaduras (foto), esta chevere. La segunda es la mas importante, la colección de joyas de la corona. En este sitio esta prohibido tomar fotos... En ese salon se guardan las coronas antiguas que contienen joyas de valor incalculable. Trajes de ceremonias de coronación, cetros, espadas, etc, etc, etc... Eso fue muy interesante y valio la pena"
 				}
 			]
 		},
@@ -1594,7 +1573,7 @@
 					"Saliendo de la torre, decidí que era momento de volver.",
 					"Pero faltaba algo...",
 					"<a class=\"player\" onclick=\"this.firstChild.play()\"><audio controlsList=\"nodownload\"><source src=\"./resources/images/UK/lib.m4a\" type=\"audio/mpeg\"></audio></audio><i class=\"fa fa-play-circle\" aria-hidden=\"true\"></i></a>",
-					"Reprodicir y seguir viendo fotos, es mi propia version sin copyright..."
+					"<h6>Reprodicir y seguir viendo fotos, es mi propia version sin copyright...</h6>"
 				]
 			}
 		},
@@ -1603,7 +1582,16 @@
 			"img_src": "./resources/images/UK/abbroad.mp4",
 			"camera": "",
 			"location": "",
-			"contents": [{ "title": "The Beatles", "text": "" }]
+			"contents": [
+				{
+					"title": "Something - The Beatles",
+					"text": "Tome muchos metros para llegar ahí...<br><br>Llevo desde que soy niño escuchando música de los Beatles. Siendo fan y tocando su música<br><br>Ocupan un lugar importante en mi vida y poder ver un sitio del remanente de su cultura fue un privilegio. Fue como un destino que honestamente no me esperaba llegar. Estoy completamente seguro que mi yo de hace 10 años no se imaginaría poder prescenciar el mismo sitio que esta viendo en la caratula de Abbey Road.<br><br>"
+				},
+				{
+					"title": "The End - The Beatles",
+					"text": "Solo pude pensar en que estaba al otro lado del mundo, viendo algo que no sabía que quería ver. Algo con lo que nunca soñe porque lo pensé imposible."
+				}
+			]
 		},
 		{
 			"type": "nphoto_view",
@@ -1623,12 +1611,12 @@
 			],
 			"contents": [
 				{
-					"title": "",
-					"text": ""
+					"title": "Esta foto es bonita",
+					"text": "Y no se que mas decir aqui, es dificil poner en palabras esto. Es profundo"
 				},
 				{
-					"title": "",
-					"text": ""
+					"title": "Fotos raras",
+					"text": "En la primera foto no es que este triste, solo que estaba impactado. En la siguiente ya estaba en modo selfie.<br><br>Apenas mis pies dejarón de tocar las tenues lineas de cebra de Abbey Road, un nuevo objetivo se desbloqueó. Hay que volver a Bogotá"
 				}
 			]
 		},
@@ -1660,12 +1648,12 @@
 			],
 			"contents": [
 				{
-					"title": "",
-					"text": ""
+					"title": "Guilford!!",
+					"text": "Para llegar, tomé un tren en la estación de Wateloo. Guildford es un pueblo bien pequeño a 1 hora de Londres, es super antiguo y hay un mercado de pulgas tamaño familiar. Ahí compré un par de cosas jejejejeje"
 				},
 				{
-					"title": "",
-					"text": ""
+					"title": "Compañia",
+					"text": "En Guildford me encontré con una prima, Carmen Elisa. El plan fue de tomar té muy al estilo ingles, comer en un pub, ir al mercado de pulgas y conducir a la izquierda. Ese día fue muy británico. Por la tarde "
 				}
 			]
 		},
@@ -1702,8 +1690,8 @@
 			"location": "Bogotá, Colombia",
 			"contents": [
 				{
-					"title": "El viaje imposible",
-					"text": "Si estas viendo esta página es porque recibiste una postal!"
+					"title": "El viaje posible",
+					"text": "Al final llegué a Bogotá. En el Dorado vi como una azafata de Avianca se puso a bailar a las 3 de la mañana con la música de un parlante de una tienda de duty free. Ese sentimiento colombiano quedará grabado en mi memoria. Como somos felices en un pais con todos los problemas del mundo."
 				}
 			]
 		},
@@ -1725,12 +1713,12 @@
 			],
 			"contents": [
 				{
-					"title": "",
-					"text": ""
+					"title": "Postales y página",
+					"text": "Al dia siguiente imprimí las postales. Comenezé a hacer los papeles para la visa y organizar mis cosas"
 				},
 				{
-					"title": "",
-					"text": ""
+					"title": "Una población de 9 millones",
+					"text": "Mientras estuve en esas ciudades nunca deje de pensar en las ciudades colombianas que conozco. Como es posible que Lisboa, Roma y Madrid tengan poblaciones tan bajas y un desarrollo cultural y económoco tan distinto a ciudades con poblaciones como Bogotá. No puedo dejar de pensar en el talento que tenemos, la gente que tenemos disponible y el potencial para crecer de estas ciudades.<br><br>Que impide poner tomas de agua para que nadie muera de sed en Bogota, que impide que el transmilenio y el inexistente metro de Bogotá presente servicios comparables a los de las ciudades europeas. Porque tengo que salir mirando a todos los lados con miedo a que me roben en Bogotá, mientras en Madrid puedo andar tranquilo con un computador en la calle.<br><br>Le he preguntado a varias personas, hay gente que dice que es una cuestion cultural, otros mencionan que son corrientes políticas y otros mencionan que es la corrupcion y que no pagamos impuestos. Yo no puedo pensar igual<br><br>Estoy seguro que es cuestión de tiempo y que ojala en menos de mil años, podamos caminar por el centro de Bogotá tomando fotos de calles hermosas, y no fotos de escenas de crimen. Se que así sucederá, conservación, destrucción y armonía..."
 				}
 			]
 		},
