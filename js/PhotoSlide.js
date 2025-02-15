@@ -126,6 +126,7 @@ class MosaicView {
 			} else {
 				img = document.createElement("img");
 				img.src = photo_value.src;
+				img.loading = "lazy";
 			}
 
 			img.classList.add("PhotoView_img");
