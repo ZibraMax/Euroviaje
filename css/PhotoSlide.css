@@ -55,6 +55,7 @@
 	margin: 10px;
 	font-size: 12px;
 }
+
 .PhotoView_title {
 	background-color: black;
 	color: white;
@@ -97,7 +98,7 @@
 	border-radius: var(--border-radius);
 }
 .PhotoView_img2 {
-	height: 100%;
+	width: 100%;
 	border-radius: var(--border-radius);
 }
 
@@ -197,10 +198,28 @@ hr {
 	margin: 0;
 }
 .PhotoView_content2 {
-	
+	width: 50%;
+}
+.PhotoView_supercontainer {
+	width: 100%;
+	display: flex;
+	height: fit-content;
+	justify-content: center;
+}
+.PhotoView_supersupercontainer {
+	width: 40%;
+	display: inline-block;
+	height: fit-content;
+}
+.vertical {
+	width: 38%;
 }
 @media only screen and (max-width: 768px) {
 	.PhotoView_container {
+		width: 100%;
+		margin: 0px;
+	}
+	.PhotoView_supersupercontainer {
 		width: 100%;
 		margin: 0px;
 	}

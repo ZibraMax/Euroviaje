@@ -162,6 +162,8 @@ class NPhotoView {
 			const container = document.createElement("div");
 			container.classList.add("PhotoView_container2");
 			var img;
+			let h;
+			let w;
 			if (image.src.includes(".mp4")) {
 				img = document.createElement("video");
 				img.autoplay = true;
@@ -171,10 +173,29 @@ class NPhotoView {
 				source.src = image.src;
 				source.type = "video/mp4";
 				img.appendChild(source);
+				h = img.videoHeight;
+				w = img.videoWidth;
+				img.addEventListener(
+					"loadedmetadata",
+					function () {
+						const h = this.videoHeight;
+						const w = this.videoWidth;
+						if (w < h) {
+							this.parentElement.classList.add("vertical");
+						}
+					},
+					false
+				);
 			} else {
 				img = document.createElement("img");
 				img.src = image.src;
+				h = img.height;
+				w = img.width;
 			}
+			if (w < h) {
+				container.classList.add("vertical");
+			}
+
 			img.classList.add("PhotoView_img2");
 
 			const footer_left = document.createElement("div");
@@ -197,8 +218,13 @@ class NPhotoView {
 			container.appendChild(img);
 			container.appendChild(footer_left);
 			container.appendChild(footer_right);
-			this.separator.appendChild(container);
-			this.separator.appendChild(document.createElement("br"));
+			const supercontainer = document.createElement("div");
+			const supersupercontainer = document.createElement("div");
+			supersupercontainer.classList.add("PhotoView_supersupercontainer");
+			supercontainer.classList.add("PhotoView_supercontainer");
+			supercontainer.appendChild(container);
+			supersupercontainer.appendChild(supercontainer);
+			this.separator.appendChild(supersupercontainer);
 		}
 
 		this.line_separator = document.createElement("hr");
